@@ -30,9 +30,9 @@ namespace WorkSchedule
                 public int Begin { get; set; }
                 public int End { get; set; }
             }
-            Pos Date { get; set; }
-            Pos DrName { get; set; }
-            List<Pos> Department;
+            public Pos Date { get; set; }
+            public Pos DrName { get; set; }
+            public List<Pos> Department;
         }
 
         public Form1()
@@ -40,6 +40,7 @@ namespace WorkSchedule
             InitializeComponent();
             AllocConsole();
             LoadExcelFile();
+            DetectBoundary();
         }
 
         HSSFWorkbook m_hssfwb;
@@ -61,9 +62,42 @@ namespace WorkSchedule
                 }
             }
         }
+        Boundary m_boundary = new Boundary();
+        
         private void DetectBoundary()
         {
+            m_boundary.Department = new List<Boundary.Pos>();
 
+            List<int> tmp_list = new List<int>();
+            int tmp_bg = 0;
+            int tmp_end = 0; 
+            for (int index = 2; index < m_sheet.GetRow(1).LastCellNum; index++)
+            {
+                if (m_sheet.GetRow(1).GetCell(index) != null)
+                {
+                    if (m_sheet.GetRow(1).GetCell(index).StringCellValue != "")
+                        tmp_list.Add(index);
+                }
+                
+            }
+            for (int i = 0; i < tmp_list.Count;i++ )
+            {
+                Boundary.Pos p = new Boundary.Pos();
+                p.Begin = tmp_list[i];
+                if (i == tmp_list.Count - 1)
+                    p.End = m_sheet.GetRow(1).LastCellNum;
+                else
+                    p.End = tmp_list[i + 1] - 1;
+
+                m_boundary.Department.Add(p);
+
+            }
+            //test
+            
+            foreach(Boundary.Pos p in m_boundary.Department )
+            {
+                Console.WriteLine("pos b:"+p.Begin+" e:"+p.End);
+            }
         }
     }
 }

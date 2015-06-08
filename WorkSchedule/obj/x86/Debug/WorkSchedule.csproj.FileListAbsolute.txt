@@ -1,0 +1,14 @@
+C:\Users\David\Documents\GitHub\Work_Schedule\WorkSchedule\bin\Debug\WorkSchedule.exe
+C:\Users\David\Documents\GitHub\Work_Schedule\WorkSchedule\bin\Debug\WorkSchedule.pdb
+C:\Users\David\Documents\GitHub\Work_Schedule\WorkSchedule\bin\Debug\NPOI.dll
+C:\Users\David\Documents\GitHub\Work_Schedule\WorkSchedule\bin\Debug\NPOI.OOXML.dll
+C:\Users\David\Documents\GitHub\Work_Schedule\WorkSchedule\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\David\Documents\GitHub\Work_Schedule\WorkSchedule\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\David\Documents\GitHub\Work_Schedule\WorkSchedule\bin\Debug\NPOI.xml
+C:\Users\David\Documents\GitHub\Work_Schedule\WorkSchedule\bin\Debug\NPOI.OOXML.xml
+C:\Users\David\Documents\GitHub\Work_Schedule\WorkSchedule\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Users\David\Documents\GitHub\Work_Schedule\WorkSchedule\obj\x86\Debug\WorkSchedule.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\GitHub\Work_Schedule\WorkSchedule\obj\x86\Debug\WorkSchedule.Properties.Resources.resources
+C:\Users\David\Documents\GitHub\Work_Schedule\WorkSchedule\obj\x86\Debug\WorkSchedule.csproj.GenerateResource.Cache
+C:\Users\David\Documents\GitHub\Work_Schedule\WorkSchedule\obj\x86\Debug\WorkSchedule.exe
+C:\Users\David\Documents\GitHub\Work_Schedule\WorkSchedule\obj\x86\Debug\WorkSchedule.pdb
