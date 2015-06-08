@@ -23,6 +23,17 @@ namespace WorkSchedule
         CharSet = CharSet.Auto,
         CallingConvention = CallingConvention.StdCall)]
         private static extern int AllocConsole();
+        public class Boundary
+        {
+            public class Pos
+            {
+                public int Begin { get; set; }
+                public int End { get; set; }
+            }
+            Pos Date { get; set; }
+            Pos DrName { get; set; }
+            List<Pos> Department;
+        }
 
         public Form1()
         {
@@ -32,7 +43,7 @@ namespace WorkSchedule
         }
 
         HSSFWorkbook m_hssfwb;
-        ISheet sheet;
+        ISheet m_sheet;
         private void LoadExcelFile()
         {
 
@@ -41,14 +52,18 @@ namespace WorkSchedule
                 m_hssfwb = new HSSFWorkbook(file);
             }
 
-            ISheet sheet = m_hssfwb.GetSheetAt(0);
-            for (int row = 0; row <= sheet.LastRowNum; row++)
+            m_sheet = m_hssfwb.GetSheetAt(0);
+            for (int row = 0; row <= m_sheet.GetRow(0).LastCellNum; row++)
             {
-                if (sheet.GetRow(row) != null) //null is when the row only contains empty cells 
+                if (m_sheet.GetRow(1).GetCell(row) != null) //null is when the row only contains empty cells 
                 {
-                    Console.WriteLine(sheet.GetRow(row).GetCell(0));
+                    Console.WriteLine(row.ToString()+" " + m_sheet.GetRow(1).GetCell(row));
                 }
             }
+        }
+        private void DetectBoundary()
+        {
+
         }
     }
 }
