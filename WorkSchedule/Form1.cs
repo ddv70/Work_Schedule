@@ -41,6 +41,7 @@ namespace WorkSchedule
             AllocConsole();
             LoadExcelFile();
             DetectBoundary();
+            FindDrOfType();
         }
 
         HSSFWorkbook m_hssfwb;
@@ -97,6 +98,25 @@ namespace WorkSchedule
             foreach(Boundary.Pos p in m_boundary.Department )
             {
                 Console.WriteLine("pos b:"+p.Begin+" e:"+p.End);
+            }
+        }
+
+        private void FindDrOfType()
+        {
+            for (int index_day = 14; index_day < 45; index_day++)
+            {
+                foreach (Boundary.Pos p in m_boundary.Department)
+                {
+                    for (int pos = p.Begin; pos <= p.End; pos++)
+                    {
+                        if (m_sheet.GetRow(index_day).GetCell(pos).StringCellValue != "")
+                        {
+                            string drName = "";
+                            string type = m_sheet.GetRow(index_day).GetCell(pos).StringCellValue;
+                            Console.WriteLine("pos:"+pos+" type:"+type);
+                        }
+                    }
+                }
             }
         }
     }
