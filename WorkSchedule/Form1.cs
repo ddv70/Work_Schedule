@@ -105,18 +105,24 @@ namespace WorkSchedule
         {
             for (int index_day = 14; index_day < 45; index_day++)
             {
+                Console.WriteLine("Day:{0}", index_day);
                 foreach (Boundary.Pos p in m_boundary.Department)
                 {
                     for (int pos = p.Begin; pos <= p.End; pos++)
                     {
-                        if (m_sheet.GetRow(index_day).GetCell(pos).StringCellValue != "")
+                        if (m_sheet.GetRow(index_day).GetCell(pos) != null)
                         {
-                            string drName = "";
-                            string type = m_sheet.GetRow(index_day).GetCell(pos).StringCellValue;
-                            Console.WriteLine("pos:"+pos+" type:"+type);
+                            
+                            if (m_sheet.GetRow(index_day).GetCell(pos).StringCellValue != "")
+                            {
+                                string drName = "";
+                                string type = m_sheet.GetRow(index_day).GetCell(pos).StringCellValue;
+                                Console.WriteLine("pos:" + pos + " type:" + type);
+                            }
                         }
                     }
                 }
+                //Console.WriteLine();
             }
         }
     }
