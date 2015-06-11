@@ -101,13 +101,24 @@ namespace WorkSchedule
             }
         }
 
+        private string GetDrNameByPos(int pos)
+        {
+            string name = "";
+            int begin = 9;
+            for (int i = begin; i < begin + 3; i++)
+                name += m_sheet.GetRow(i).GetCell(pos).StringCellValue;
+
+            return name;
+        }
+
         private void FindDrOfType()
         {
             for (int index_day = 14; index_day < 45; index_day++)
             {
                 Console.WriteLine("Day:{0}", index_day);
-                foreach (Boundary.Pos p in m_boundary.Department)
+                for(int index_boundary=0;index_boundary<m_boundary.Department.Count-1;index_boundary++)
                 {
+                    Boundary.Pos p = m_boundary.Department[index_boundary];
                     for (int pos = p.Begin; pos <= p.End; pos++)
                     {
                         if (m_sheet.GetRow(index_day).GetCell(pos) != null)
@@ -117,7 +128,9 @@ namespace WorkSchedule
                             {
                                 string drName = "";
                                 string type = m_sheet.GetRow(index_day).GetCell(pos).StringCellValue;
-                                Console.WriteLine("pos:" + pos + " type:" + type);
+                                string depart = m_sheet.GetRow(1).GetCell(p.Begin).StringCellValue;
+                                string name = GetDrNameByPos(pos);
+                                Console.WriteLine("Dr.:" + name + " type:" + type+" Depart:"+ depart);
                             }
                         }
                     }
