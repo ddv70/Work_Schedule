@@ -115,7 +115,8 @@ namespace WorkSchedule
         {
             for (int index_day = 14; index_day < 45; index_day++)
             {
-                Console.WriteLine("Day:{0}", index_day);
+                string date = m_sheet.GetRow(index_day).GetCell(0).NumericCellValue.ToString();
+                Console.WriteLine("Date:{0}", date);
                 for(int index_boundary=0;index_boundary<m_boundary.Department.Count-1;index_boundary++)
                 {
                     Boundary.Pos p = m_boundary.Department[index_boundary];
@@ -124,7 +125,7 @@ namespace WorkSchedule
                         if (m_sheet.GetRow(index_day).GetCell(pos) != null)
                         {
                             
-                            if (m_sheet.GetRow(index_day).GetCell(pos).StringCellValue != "")
+                            if (m_sheet.GetRow(index_day).GetCell(pos).StringCellValue != "" && m_sheet.GetRow(index_day).GetCell(pos).StringCellValue != "休")
                             {
                                 string drName = "";
                                 string type = m_sheet.GetRow(index_day).GetCell(pos).StringCellValue;
