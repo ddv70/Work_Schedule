@@ -35,6 +35,14 @@ namespace WorkSchedule
             public List<Pos> Department;
         }
 
+        public class DoctorWork
+        {
+            public string date { get; set; }
+            public string DrName { get; set; }
+            public string WorkType { get; set; }
+            public string Department { get; set; }
+        }
+
         public Form1()
         {
             InitializeComponent();
@@ -42,6 +50,7 @@ namespace WorkSchedule
             LoadExcelFile();
             DetectBoundary();
             FindDrOfType();
+            ParseWorkingType();
         }
 
         HSSFWorkbook m_hssfwb;
@@ -111,6 +120,7 @@ namespace WorkSchedule
             return name;
         }
 
+        private List<DoctorWork> m_drworkintfo = new List<DoctorWork>();
         private void FindDrOfType()
         {
             for (int index_day = 14; index_day < 45; index_day++)
@@ -127,16 +137,39 @@ namespace WorkSchedule
                             
                             if (m_sheet.GetRow(index_day).GetCell(pos).StringCellValue != "" && m_sheet.GetRow(index_day).GetCell(pos).StringCellValue != "休")
                             {
+                                DoctorWork dw = new DoctorWork();
                                 string drName = "";
                                 string type = m_sheet.GetRow(index_day).GetCell(pos).StringCellValue;
                                 string depart = m_sheet.GetRow(1).GetCell(p.Begin).StringCellValue;
                                 string name = GetDrNameByPos(pos);
-                                Console.WriteLine("Dr.:" + name + " type:" + type+" Depart:"+ depart);
+                                if(!type.Contains("休"))
+                                {
+                                    dw.date = date;
+                                    dw.DrName = name;
+                                    dw.WorkType = type;
+                                    dw.Department = depart;
+                                    m_drworkintfo.Add(dw);
+                                    //Console.WriteLine("Dr.:" + name + " type:" + type + " Depart:" + depart);
+                                }
                             }
                         }
                     }
                 }
                 //Console.WriteLine();
+            }
+        }
+
+        private void ParseWorkingType()
+        {
+            
+            foreach(DoctorWork dw in m_drworkintfo)
+            {
+                Console.WriteLine("Date:{0},Dr.:{1}, Type:{2}, Depart:{3}",
+                    dw.date,
+                    dw.DrName,
+                    dw.WorkType,
+                    dw.Department
+                    );
             }
         }
     }
