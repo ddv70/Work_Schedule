@@ -1,0 +1,4205 @@
+Date:3,Dr.:黃挺碩, Type:T1, Depart:GS
+Date:3,Dr.:陳育賢, Type:CT2, Depart:GS
+Date:3,Dr.:葉集孝, Type:C, Depart:CVS
+Date:3,Dr.:黃品富, Type:V, Depart:CVS
+Date:3,Dr.:尹順盈, Type:L, Depart:CVS
+Date:3,Dr.:鄭運聰, Type:C, Depart:NS
+Date:3,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:3,Dr.:吳俊德, Type:C, Depart:URO 
+Date:3,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:3,Dr.:曾文科, Type:C, Depart: PROCT
+Date:3,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:3,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:3,Dr.:邱炳燁, Type:I, Depart:R3
+Date:3,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:3,Dr.:余運軒, Type:W2, Depart:PGY
+Date:4,Dr.:李春輝, Type:CT2, Depart:GS
+Date:4,Dr.:宋睿祥, Type:T1, Depart:GS
+Date:4,Dr.:葉集孝, Type:C, Depart:CVS
+Date:4,Dr.:黃品富, Type:V, Depart:CVS
+Date:4,Dr.:尹順盈, Type:L, Depart:CVS
+Date:4,Dr.:陳先志, Type:C, Depart:NS
+Date:4,Dr.:陳建宗, Type:C2, Depart:NS
+Date:4,Dr.:蔡嘉軒, Type:羅, Depart:PLAST
+Date:4,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:4,Dr.:吳俊德, Type:C, Depart:URO 
+Date:4,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:4,Dr.:范仲維, Type:C, Depart: PROCT
+Date:4,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:4,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:4,Dr.:郭令偉, Type:I, Depart:R3
+Date:4,Dr.:張書豪, Type:W1, Depart:R1
+Date:4,Dr.:何哲方, Type:W2, Depart:PGY
+Date:5,Dr.:簡志穎, Type:T1, Depart:GS
+Date:5,Dr.:陳育賢, Type:C, Depart:GS
+Date:5,Dr.:葉集孝, Type:C, Depart:CVS
+Date:5,Dr.:黃品富, Type:V, Depart:CVS
+Date:5,Dr.:尹順盈, Type:L, Depart:CVS
+Date:5,Dr.:昝文清, Type:C, Depart:NS
+Date:5,Dr.:余德毅, Type:CT2, Depart:PLAST
+Date:5,Dr.:吳俊德, Type:C, Depart:URO 
+Date:5,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:5,Dr.:曾文科, Type:C, Depart: PROCT
+Date:5,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:5,Dr.:陳彥志, Type:CD, Depart:R4
+Date:5,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:5,Dr.:張浩于, Type:W1, Depart:R1
+Date:5,Dr.:李杰明, Type:W2, Depart:PGY
+Date:6,Dr.:江坤俊, Type:C, Depart:GS
+Date:6,Dr.:葉集孝, Type:C, Depart:CVS
+Date:6,Dr.:黃品富, Type:V, Depart:CVS
+Date:6,Dr.:尹順盈, Type:L, Depart:CVS
+Date:6,Dr.:昝文清, Type:C, Depart:NS
+Date:6,Dr.:余德毅, Type:CT, Depart:PLAST
+Date:6,Dr.:吳俊德, Type:C, Depart:URO 
+Date:6,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:6,Dr.:陳磊晏, Type:CD, Depart:ORTHO
+Date:6,Dr.:曾文科, Type:C, Depart: PROCT
+Date:6,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:6,Dr.:, Type:陳磊晏, Depart:ICU 專責
+Date:6,Dr.:范揚欣, Type:I, Depart:R2
+Date:6,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:6,Dr.:廖育唯, Type:W1, Depart:PGY
+Date:7,Dr.:宋睿祥, Type:C, Depart:GS
+Date:7,Dr.:葉集孝, Type:C, Depart:CVS
+Date:7,Dr.:王耀章, Type:V, Depart:CVS
+Date:7,Dr.:尹順盈, Type:L, Depart:CVS
+Date:7,Dr.:昝文清, Type:C, Depart:NS
+Date:7,Dr.:蔡嘉軒, Type:CT, Depart:PLAST
+Date:7,Dr.:吳俊德, Type:C, Depart:URO 
+Date:7,Dr.:劉獻道, Type:C, Depart:ORTHO
+Date:7,Dr.:曾文科, Type:C, Depart: PROCT
+Date:7,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:7,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:7,Dr.:邱炳燁, Type:I, Depart:R3
+Date:7,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:7,Dr.:何哲方, Type:W2, Depart:PGY
+Date:8,Dr.:卓世川, Type:C, Depart:GS
+Date:8,Dr.:簡志穎, Type:T1, Depart:GS
+Date:8,Dr.:葉集孝, Type:C, Depart:CVS
+Date:8,Dr.:黃品富, Type:V, Depart:CVS
+Date:8,Dr.:尹順盈, Type:L, Depart:CVS
+Date:8,Dr.:陳先志, Type:C, Depart:NS
+Date:8,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:8,Dr.:林政鋒, Type:C, Depart:URO 
+Date:8,Dr.:蘇君毅, Type:C, Depart:ORTHO
+Date:8,Dr.:陳建豪, Type:T2, Depart:ORTHO
+Date:8,Dr.:曾文科, Type:C, Depart: PROCT
+Date:8,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:8,Dr.:黃子晏, Type:CD, Depart:R4
+Date:8,Dr.:郭令偉, Type:I, Depart:R3
+Date:8,Dr.:張浩于, Type:W1, Depart:R1
+Date:8,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:9,Dr.:宋睿祥, Type:CT2, Depart:GS
+Date:9,Dr.:陳育賢, Type:T1, Depart:GS
+Date:9,Dr.:葉集孝, Type:C, Depart:CVS
+Date:9,Dr.:黃品富, Type:V, Depart:CVS
+Date:9,Dr.:尹順盈, Type:L, Depart:CVS
+Date:9,Dr.:鄭運聰, Type:C, Depart:NS
+Date:9,Dr.:蔡嘉軒, Type:C2, Depart:PLAST
+Date:9,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:9,Dr.:林政鋒, Type:C, Depart:URO 
+Date:9,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:9,Dr.:陳磊晏, Type:CD, Depart:ORTHO
+Date:9,Dr.:范仲維, Type:C, Depart: PROCT
+Date:9,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:9,Dr.:, Type:陳磊晏, Depart:ICU 專責
+Date:9,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:9,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:9,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:10,Dr.:簡志穎, Type:T1, Depart:GS
+Date:10,Dr.:陳育賢, Type:C, Depart:GS
+Date:10,Dr.:葉集孝, Type:C, Depart:CVS
+Date:10,Dr.:黃品富, Type:VT2, Depart:CVS
+Date:10,Dr.:尹順盈, Type:L, Depart:CVS
+Date:10,Dr.:鄭運聰, Type:C, Depart:NS
+Date:10,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:10,Dr.:林政鋒, Type:C, Depart:URO 
+Date:10,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:10,Dr.:曾文科, Type:C, Depart: PROCT
+Date:10,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:10,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:10,Dr.:邱炳燁, Type:I, Depart:R3
+Date:10,Dr.:張書豪, Type:W1, Depart:R1
+Date:10,Dr.:何哲方, Type:W2, Depart:PGY
+Date:11,Dr.:李春輝, Type:CT2, Depart:GS
+Date:11,Dr.:葉集孝, Type:C, Depart:CVS
+Date:11,Dr.:黃品富, Type:V, Depart:CVS
+Date:11,Dr.:尹順盈, Type:L, Depart:CVS
+Date:11,Dr.:廖黃逸, Type:C, Depart:NS
+Date:11,Dr.:陳建宗, Type:C2, Depart:NS
+Date:11,Dr.:蔡嘉軒, Type:T1, Depart:PLAST
+Date:11,Dr.:余德毅, Type:羅, Depart:PLAST
+Date:11,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:11,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:11,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:11,Dr.:范仲維, Type:C, Depart: PROCT
+Date:11,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:11,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:11,Dr.:范揚欣, Type:I, Depart:R2
+Date:11,Dr.:張浩于, Type:W1, Depart:R1
+Date:11,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:12,Dr.:簡志穎, Type:C, Depart:GS
+Date:12,Dr.:陳育賢, Type:T1, Depart:GS
+Date:12,Dr.:葉集孝, Type:C, Depart:CVS
+Date:12,Dr.:黃品富, Type:V, Depart:CVS
+Date:12,Dr.:尹順盈, Type:L, Depart:CVS
+Date:12,Dr.:廖黃逸, Type:C, Depart:NS
+Date:12,Dr.:余德毅, Type:CT2, Depart:PLAST
+Date:12,Dr.:林政鋒, Type:C, Depart:URO 
+Date:12,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:12,Dr.:曾文科, Type:C, Depart: PROCT
+Date:12,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:12,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:12,Dr.:郭令偉, Type:I, Depart:R3
+Date:12,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:12,Dr.:余運軒, Type:W2, Depart:PGY
+Date:13,Dr.:簡志穎, Type:CT, Depart:GS
+Date:13,Dr.:葉集孝, Type:C, Depart:CVS
+Date:13,Dr.:黃品富, Type:V, Depart:CVS
+Date:13,Dr.:尹順盈, Type:L, Depart:CVS
+Date:13,Dr.:鄭運聰, Type:C, Depart:NS
+Date:13,Dr.:余德毅, Type:C, Depart:PLAST
+Date:13,Dr.:林政鋒, Type:C, Depart:URO 
+Date:13,Dr.:劉獻道, Type:C, Depart:ORTHO
+Date:13,Dr.:范仲維, Type:C, Depart: PROCT
+Date:13,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:13,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:13,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:13,Dr.:張書豪, Type:W, Depart:R1
+Date:14,Dr.:陳義展, Type:C, Depart:GS
+Date:14,Dr.:葉集孝, Type:C, Depart:CVS
+Date:14,Dr.:黃品富, Type:V, Depart:CVS
+Date:14,Dr.:尹順盈, Type:LT, Depart:CVS
+Date:14,Dr.:鄭運聰, Type:C, Depart:NS
+Date:14,Dr.:余德毅, Type:C, Depart:PLAST
+Date:14,Dr.:林政鋒, Type:C, Depart:URO 
+Date:14,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:14,Dr.:范仲維, Type:C, Depart: PROCT
+Date:14,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:14,Dr.:陳彥志, Type:CD, Depart:R4
+Date:14,Dr.:范揚欣, Type:I, Depart:R2
+Date:14,Dr.:李杰明, Type:W1, Depart:PGY
+Date:14,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:15,Dr.:卓世川, Type:C, Depart:GS
+Date:15,Dr.:李春輝, Type:T1, Depart:GS
+Date:15,Dr.:葉集孝, Type:C, Depart:CVS
+Date:15,Dr.:黃品富, Type:V, Depart:CVS
+Date:15,Dr.:尹順盈, Type:L, Depart:CVS
+Date:15,Dr.:陳先志, Type:CD, Depart:NS
+Date:15,Dr.:蔡嘉軒, Type:CT2, Depart:PLAST
+Date:15,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:15,Dr.:蘇君毅, Type:C, Depart:ORTHO
+Date:15,Dr.:曾文科, Type:C, Depart: PROCT
+Date:15,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:15,Dr.:, Type:陳先志, Depart:ICU 專責
+Date:15,Dr.:郭令偉, Type:I, Depart:R3
+Date:15,Dr.:張浩于, Type:W1, Depart:R1
+Date:15,Dr.:余運軒, Type:W2, Depart:PGY
+Date:16,Dr.:黃挺碩, Type:C, Depart:GS
+Date:16,Dr.:王耀章, Type:CV, Depart:CVS
+Date:16,Dr.:黃品富, Type:T2, Depart:CVS
+Date:16,Dr.:陳子平, Type:L, Depart:CVS
+Date:16,Dr.:廖黃逸, Type:C, Depart:NS
+Date:16,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:16,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:16,Dr.:游重銘, Type:CT1, Depart:ORTHO
+Date:16,Dr.:范仲維, Type:C, Depart: PROCT
+Date:16,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:16,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:16,Dr.:邱炳燁, Type:I, Depart:R3
+Date:16,Dr.:張書豪, Type:W1, Depart:R1
+Date:16,Dr.:李杰明, Type:W2, Depart:PGY
+Date:17,Dr.:黃挺碩, Type:CT2, Depart:GS
+Date:17,Dr.:簡志穎, Type:T1, Depart:GS
+Date:17,Dr.:王耀章, Type:CV, Depart:CVS
+Date:17,Dr.:陳子平, Type:L, Depart:CVS
+Date:17,Dr.:廖黃逸, Type:C, Depart:NS
+Date:17,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:17,Dr.:林政鋒, Type:CCD, Depart:URO 
+Date:17,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:17,Dr.:曾文科, Type:C, Depart: PROCT
+Date:17,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:17,Dr.:, Type:林政鋒, Depart:ICU 專責
+Date:17,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:17,Dr.:何哲方, Type:W1, Depart:PGY
+Date:17,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:18,Dr.:李春輝, Type:T1, Depart:GS
+Date:18,Dr.:陳義展, Type:CT2, Depart:GS
+Date:18,Dr.:王耀章, Type:CV, Depart:CVS
+Date:18,Dr.:陳子平, Type:L, Depart:CVS
+Date:18,Dr.:鄭運聰, Type:C, Depart:NS
+Date:18,Dr.:潘俊豪, Type:C2, Depart:PLAST
+Date:18,Dr.:蔡嘉軒, Type:羅, Depart:PLAST
+Date:18,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:18,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:18,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:18,Dr.:范仲維, Type:C, Depart: PROCT
+Date:18,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:18,Dr.:陳彥志, Type:CD, Depart:R4
+Date:18,Dr.:范揚欣, Type:I, Depart:R2
+Date:18,Dr.:余運軒, Type:W1, Depart:PGY
+Date:18,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:19,Dr.:江坤俊, Type:C, Depart:GS
+Date:19,Dr.:簡志穎, Type:T1, Depart:GS
+Date:19,Dr.:王耀章, Type:CV, Depart:CVS
+Date:19,Dr.:陳子平, Type:L, Depart:CVS
+Date:19,Dr.:尹順盈, Type:T2, Depart:CVS
+Date:19,Dr.:鄭運聰, Type:C, Depart:NS
+Date:19,Dr.:余德毅, Type:C, Depart:PLAST
+Date:19,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:19,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:19,Dr.:曾文科, Type:C, Depart: PROCT
+Date:19,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:19,Dr.:黃子晏, Type:CD, Depart:R4
+Date:19,Dr.:邱炳燁, Type:I, Depart:R3
+Date:19,Dr.:張書豪, Type:W1, Depart:R1
+Date:19,Dr.:李杰明, Type:W2, Depart:PGY
+Date:20,Dr.:陳育賢, Type:CT, Depart:GS
+Date:20,Dr.:王耀章, Type:CV, Depart:CVS
+Date:20,Dr.:陳子平, Type:L, Depart:CVS
+Date:20,Dr.:陳先志, Type:C, Depart:NS
+Date:20,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:20,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:20,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:20,Dr.:曾文科, Type:C, Depart: PROCT
+Date:20,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:20,Dr.:陳彥志, Type:CD, Depart:R4
+Date:20,Dr.:郭令偉, Type:I, Depart:R3
+Date:20,Dr.:張浩于, Type:W1, Depart:R1
+Date:20,Dr.:何哲方, Type:W2, Depart:PGY
+Date:21,Dr.:黃挺碩, Type:C, Depart:GS
+Date:21,Dr.:王耀章, Type:CV, Depart:CVS
+Date:21,Dr.:陳子平, Type:L, Depart:CVS
+Date:21,Dr.:陳先志, Type:C, Depart:NS
+Date:21,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:21,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:21,Dr.:陳建豪, Type:CT, Depart:ORTHO
+Date:21,Dr.:曾文科, Type:C, Depart: PROCT
+Date:21,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:21,Dr.:黃子晏, Type:CD, Depart:R4
+Date:21,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:21,Dr.:張書豪, Type:W1, Depart:R1
+Date:21,Dr.:余運軒, Type:W2, Depart:PGY
+Date:22,Dr.:陳義展, Type:CCD, Depart:GS
+Date:22,Dr.:簡志穎, Type:T1, Depart:GS
+Date:22,Dr.:王耀章, Type:CV, Depart:CVS
+Date:22,Dr.:陳子平, Type:L, Depart:CVS
+Date:22,Dr.:陳先志, Type:C, Depart:NS
+Date:22,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:22,Dr.:林承家, Type:C, Depart:URO 
+Date:22,Dr.:游重銘, Type:CT2, Depart:ORTHO
+Date:22,Dr.:曾文科, Type:C, Depart: PROCT
+Date:22,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:22,Dr.:, Type:陳義展, Depart:ICU 專責
+Date:22,Dr.:范揚欣, Type:I, Depart:R2
+Date:22,Dr.:李杰明, Type:W2, Depart:PGY
+Date:22,Dr.:廖育唯, Type:W1, Depart:PGY
+Date:23,Dr.:李春輝, Type:C, Depart:GS
+Date:23,Dr.:陳育賢, Type:T1, Depart:GS
+Date:23,Dr.:王耀章, Type:CV, Depart:CVS
+Date:23,Dr.:陳子平, Type:L, Depart:CVS
+Date:23,Dr.:尹順盈, Type:T2, Depart:CVS
+Date:23,Dr.:鄭運聰, Type:C, Depart:NS
+Date:23,Dr.:謝宇軒, Type:C, Depart:PLAST
+Date:23,Dr.:林承家, Type:C, Depart:URO 
+Date:23,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:23,Dr.:范仲維, Type:C, Depart: PROCT
+Date:23,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:23,Dr.:陳彥志, Type:CD, Depart:R4
+Date:23,Dr.:邱炳燁, Type:I, Depart:R3
+Date:23,Dr.:張浩于, Type:W1, Depart:R1
+Date:23,Dr.:余運軒, Type:W2, Depart:PGY
+Date:24,Dr.:黃挺碩, Type:CT2, Depart:GS
+Date:24,Dr.:王耀章, Type:CV, Depart:CVS
+Date:24,Dr.:陳子平, Type:L, Depart:CVS
+Date:24,Dr.:廖黃逸, Type:C, Depart:NS
+Date:24,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:24,Dr.:謝宇軒, Type:T1, Depart:PLAST
+Date:24,Dr.:林承家, Type:C, Depart:URO 
+Date:24,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:24,Dr.:曾文科, Type:C, Depart: PROCT
+Date:24,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:24,Dr.:黃子晏, Type:CD, Depart:R4
+Date:24,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:24,Dr.:何哲方, Type:W2, Depart:PGY
+Date:24,Dr.:陳琬瑄, Type:W1, Depart:PGY
+Date:25,Dr.:宋睿祥, Type:CT2, Depart:GS
+Date:25,Dr.:陳育賢, Type:T1, Depart:GS
+Date:25,Dr.:王耀章, Type:CV, Depart:CVS
+Date:25,Dr.:陳子平, Type:L, Depart:CVS
+Date:25,Dr.:廖黃逸, Type:C, Depart:NS
+Date:25,Dr.:陳建宗, Type:C2, Depart:NS
+Date:25,Dr.:謝宇軒, Type:羅, Depart:PLAST
+Date:25,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:25,Dr.:林承家, Type:C, Depart:URO 
+Date:25,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:25,Dr.:范仲維, Type:C, Depart: PROCT
+Date:25,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:25,Dr.:陳彥志, Type:CD, Depart:R4
+Date:25,Dr.:郭令偉, Type:I, Depart:R3
+Date:25,Dr.:張書豪, Type:W1, Depart:R1
+Date:25,Dr.:余運軒, Type: , Depart:PGY
+Date:25,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:26,Dr.:宋睿祥, Type:C, Depart:GS
+Date:26,Dr.:陳育賢, Type:T1, Depart:GS
+Date:26,Dr.:王耀章, Type:CV, Depart:CVS
+Date:26,Dr.:陳子平, Type:L, Depart:CVS
+Date:26,Dr.:鄭運聰, Type:C, Depart:NS
+Date:26,Dr.:余德毅, Type:CT2, Depart:PLAST
+Date:26,Dr.:林承家, Type:C, Depart:URO 
+Date:26,Dr.:陳建豪, Type:CCD, Depart:ORTHO
+Date:26,Dr.:曾文科, Type:C, Depart: PROCT
+Date:26,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:26,Dr.:, Type:陳建豪, Depart:ICU 專責
+Date:26,Dr.:范揚欣, Type:I, Depart:R2
+Date:26,Dr.:何哲方, Type:W1, Depart:PGY
+Date:26,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:27,Dr.:李春輝, Type:CT, Depart:GS
+Date:27,Dr.:王耀章, Type:CV, Depart:CVS
+Date:27,Dr.:陳子平, Type:L, Depart:CVS
+Date:27,Dr.:廖黃逸, Type:C, Depart:NS
+Date:27,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:27,Dr.:謝宇軒, Type:支援廈門
+, Depart:PLAST
+Date:27,Dr.:林承家, Type:C, Depart:URO 
+Date:27,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:27,Dr.:范仲維, Type:C, Depart: PROCT
+Date:27,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:27,Dr.:黃子晏, Type:CD, Depart:R4
+Date:27,Dr.:邱炳燁, Type:I, Depart:R3
+Date:27,Dr.:余運軒, Type:W1, Depart:PGY
+Date:27,Dr.:李杰明, Type:W2, Depart:PGY
+Date:28,Dr.:江坤俊, Type:C, Depart:GS
+Date:28,Dr.:王耀章, Type:C, Depart:CVS
+Date:28,Dr.:黃品富, Type:VT, Depart:CVS
+Date:28,Dr.:陳子平, Type:L, Depart:CVS
+Date:28,Dr.:廖黃逸, Type:C, Depart:NS
+Date:28,Dr.:潘俊豪, Type:C2, Depart:PLAST
+Date:28,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:28,Dr.:林承家, Type:C, Depart:URO 
+Date:28,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:28,Dr.:范仲維, Type:C, Depart: PROCT
+Date:28,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:28,Dr.:, Type:葉亘耕, Depart:ICU 專責
+Date:28,Dr.:郭令偉, Type:I, Depart:R3
+Date:28,Dr.:張浩于, Type:W1, Depart:R1
+Date:28,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:29,Dr.:簡志穎, Type:T1, Depart:GS
+Date:29,Dr.:陳育賢, Type:C, Depart:GS
+Date:29,Dr.:王耀章, Type:CV, Depart:CVS
+Date:29,Dr.:陳子平, Type:L, Depart:CVS
+Date:29,Dr.:昝文清, Type:C, Depart:NS
+Date:29,Dr.:蔡嘉軒, Type:CT2, Depart:PLAST
+Date:29,Dr.:吳俊德, Type:C, Depart:URO 
+Date:29,Dr.:蘇君毅, Type:C, Depart:ORTHO
+Date:29,Dr.:曾文科, Type:C, Depart: PROCT
+Date:29,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:29,Dr.:陳彥志, Type:CD, Depart:R4
+Date:29,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:29,Dr.:何哲方, Type:W2, Depart:PGY
+Date:29,Dr.:陳琬瑄, Type:W1, Depart:PGY
+Date:30,Dr.:簡志穎, Type:C, Depart:GS
+Date:30,Dr.:陳育賢, Type:T1, Depart:GS
+Date:30,Dr.:王耀章, Type:CV, Depart:CVS
+Date:30,Dr.:陳子平, Type:L, Depart:CVS
+Date:30,Dr.:廖黃逸, Type:C, Depart:NS
+Date:30,Dr.:余德毅, Type:C, Depart:PLAST
+Date:30,Dr.:吳俊德, Type:C, Depart:URO 
+Date:30,Dr.:游重銘, Type:CT2, Depart:ORTHO
+Date:30,Dr.:范仲維, Type:C, Depart: PROCT
+Date:30,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:30,Dr.:黃子晏, Type:CD, Depart:R4
+Date:30,Dr.:范揚欣, Type:I, Depart:R2
+Date:30,Dr.:余運軒, Type:W2, Depart:PGY
+Date:30,Dr.:李杰明, Type:W1, Depart:PGY
+Date:3,Dr.:黃挺碩, Type:T1, Depart:GS
+Date:3,Dr.:陳育賢, Type:CT2, Depart:GS
+Date:3,Dr.:葉集孝, Type:C, Depart:CVS
+Date:3,Dr.:黃品富, Type:V, Depart:CVS
+Date:3,Dr.:尹順盈, Type:L, Depart:CVS
+Date:3,Dr.:鄭運聰, Type:C, Depart:NS
+Date:3,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:3,Dr.:吳俊德, Type:C, Depart:URO 
+Date:3,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:3,Dr.:曾文科, Type:C, Depart: PROCT
+Date:3,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:3,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:3,Dr.:邱炳燁, Type:I, Depart:R3
+Date:3,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:3,Dr.:余運軒, Type:W2, Depart:PGY
+Date:4,Dr.:李春輝, Type:CT2, Depart:GS
+Date:4,Dr.:宋睿祥, Type:T1, Depart:GS
+Date:4,Dr.:葉集孝, Type:C, Depart:CVS
+Date:4,Dr.:黃品富, Type:V, Depart:CVS
+Date:4,Dr.:尹順盈, Type:L, Depart:CVS
+Date:4,Dr.:陳先志, Type:C, Depart:NS
+Date:4,Dr.:陳建宗, Type:C2, Depart:NS
+Date:4,Dr.:蔡嘉軒, Type:羅, Depart:PLAST
+Date:4,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:4,Dr.:吳俊德, Type:C, Depart:URO 
+Date:4,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:4,Dr.:范仲維, Type:C, Depart: PROCT
+Date:4,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:4,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:4,Dr.:郭令偉, Type:I, Depart:R3
+Date:4,Dr.:張書豪, Type:W1, Depart:R1
+Date:4,Dr.:何哲方, Type:W2, Depart:PGY
+Date:5,Dr.:簡志穎, Type:T1, Depart:GS
+Date:5,Dr.:陳育賢, Type:C, Depart:GS
+Date:5,Dr.:葉集孝, Type:C, Depart:CVS
+Date:5,Dr.:黃品富, Type:V, Depart:CVS
+Date:5,Dr.:尹順盈, Type:L, Depart:CVS
+Date:5,Dr.:昝文清, Type:C, Depart:NS
+Date:5,Dr.:余德毅, Type:CT2, Depart:PLAST
+Date:5,Dr.:吳俊德, Type:C, Depart:URO 
+Date:5,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:5,Dr.:曾文科, Type:C, Depart: PROCT
+Date:5,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:5,Dr.:陳彥志, Type:CD, Depart:R4
+Date:5,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:5,Dr.:張浩于, Type:W1, Depart:R1
+Date:5,Dr.:李杰明, Type:W2, Depart:PGY
+Date:6,Dr.:江坤俊, Type:C, Depart:GS
+Date:6,Dr.:葉集孝, Type:C, Depart:CVS
+Date:6,Dr.:黃品富, Type:V, Depart:CVS
+Date:6,Dr.:尹順盈, Type:L, Depart:CVS
+Date:6,Dr.:昝文清, Type:C, Depart:NS
+Date:6,Dr.:余德毅, Type:CT, Depart:PLAST
+Date:6,Dr.:吳俊德, Type:C, Depart:URO 
+Date:6,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:6,Dr.:陳磊晏, Type:CD, Depart:ORTHO
+Date:6,Dr.:曾文科, Type:C, Depart: PROCT
+Date:6,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:6,Dr.:, Type:陳磊晏, Depart:ICU 專責
+Date:6,Dr.:范揚欣, Type:I, Depart:R2
+Date:6,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:6,Dr.:廖育唯, Type:W1, Depart:PGY
+Date:7,Dr.:宋睿祥, Type:C, Depart:GS
+Date:7,Dr.:葉集孝, Type:C, Depart:CVS
+Date:7,Dr.:王耀章, Type:V, Depart:CVS
+Date:7,Dr.:尹順盈, Type:L, Depart:CVS
+Date:7,Dr.:昝文清, Type:C, Depart:NS
+Date:7,Dr.:蔡嘉軒, Type:CT, Depart:PLAST
+Date:7,Dr.:吳俊德, Type:C, Depart:URO 
+Date:7,Dr.:劉獻道, Type:C, Depart:ORTHO
+Date:7,Dr.:曾文科, Type:C, Depart: PROCT
+Date:7,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:7,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:7,Dr.:邱炳燁, Type:I, Depart:R3
+Date:7,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:7,Dr.:何哲方, Type:W2, Depart:PGY
+Date:8,Dr.:卓世川, Type:C, Depart:GS
+Date:8,Dr.:簡志穎, Type:T1, Depart:GS
+Date:8,Dr.:葉集孝, Type:C, Depart:CVS
+Date:8,Dr.:黃品富, Type:V, Depart:CVS
+Date:8,Dr.:尹順盈, Type:L, Depart:CVS
+Date:8,Dr.:陳先志, Type:C, Depart:NS
+Date:8,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:8,Dr.:林政鋒, Type:C, Depart:URO 
+Date:8,Dr.:蘇君毅, Type:C, Depart:ORTHO
+Date:8,Dr.:陳建豪, Type:T2, Depart:ORTHO
+Date:8,Dr.:曾文科, Type:C, Depart: PROCT
+Date:8,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:8,Dr.:黃子晏, Type:CD, Depart:R4
+Date:8,Dr.:郭令偉, Type:I, Depart:R3
+Date:8,Dr.:張浩于, Type:W1, Depart:R1
+Date:8,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:9,Dr.:宋睿祥, Type:CT2, Depart:GS
+Date:9,Dr.:陳育賢, Type:T1, Depart:GS
+Date:9,Dr.:葉集孝, Type:C, Depart:CVS
+Date:9,Dr.:黃品富, Type:V, Depart:CVS
+Date:9,Dr.:尹順盈, Type:L, Depart:CVS
+Date:9,Dr.:鄭運聰, Type:C, Depart:NS
+Date:9,Dr.:蔡嘉軒, Type:C2, Depart:PLAST
+Date:9,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:9,Dr.:林政鋒, Type:C, Depart:URO 
+Date:9,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:9,Dr.:陳磊晏, Type:CD, Depart:ORTHO
+Date:9,Dr.:范仲維, Type:C, Depart: PROCT
+Date:9,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:9,Dr.:, Type:陳磊晏, Depart:ICU 專責
+Date:9,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:9,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:9,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:10,Dr.:簡志穎, Type:T1, Depart:GS
+Date:10,Dr.:陳育賢, Type:C, Depart:GS
+Date:10,Dr.:葉集孝, Type:C, Depart:CVS
+Date:10,Dr.:黃品富, Type:VT2, Depart:CVS
+Date:10,Dr.:尹順盈, Type:L, Depart:CVS
+Date:10,Dr.:鄭運聰, Type:C, Depart:NS
+Date:10,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:10,Dr.:林政鋒, Type:C, Depart:URO 
+Date:10,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:10,Dr.:曾文科, Type:C, Depart: PROCT
+Date:10,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:10,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:10,Dr.:邱炳燁, Type:I, Depart:R3
+Date:10,Dr.:張書豪, Type:W1, Depart:R1
+Date:10,Dr.:何哲方, Type:W2, Depart:PGY
+Date:11,Dr.:李春輝, Type:CT2, Depart:GS
+Date:11,Dr.:葉集孝, Type:C, Depart:CVS
+Date:11,Dr.:黃品富, Type:V, Depart:CVS
+Date:11,Dr.:尹順盈, Type:L, Depart:CVS
+Date:11,Dr.:廖黃逸, Type:C, Depart:NS
+Date:11,Dr.:陳建宗, Type:C2, Depart:NS
+Date:11,Dr.:蔡嘉軒, Type:T1, Depart:PLAST
+Date:11,Dr.:余德毅, Type:羅, Depart:PLAST
+Date:11,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:11,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:11,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:11,Dr.:范仲維, Type:C, Depart: PROCT
+Date:11,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:11,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:11,Dr.:范揚欣, Type:I, Depart:R2
+Date:11,Dr.:張浩于, Type:W1, Depart:R1
+Date:11,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:12,Dr.:簡志穎, Type:C, Depart:GS
+Date:12,Dr.:陳育賢, Type:T1, Depart:GS
+Date:12,Dr.:葉集孝, Type:C, Depart:CVS
+Date:12,Dr.:黃品富, Type:V, Depart:CVS
+Date:12,Dr.:尹順盈, Type:L, Depart:CVS
+Date:12,Dr.:廖黃逸, Type:C, Depart:NS
+Date:12,Dr.:余德毅, Type:CT2, Depart:PLAST
+Date:12,Dr.:林政鋒, Type:C, Depart:URO 
+Date:12,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:12,Dr.:曾文科, Type:C, Depart: PROCT
+Date:12,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:12,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:12,Dr.:郭令偉, Type:I, Depart:R3
+Date:12,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:12,Dr.:余運軒, Type:W2, Depart:PGY
+Date:13,Dr.:簡志穎, Type:CT, Depart:GS
+Date:13,Dr.:葉集孝, Type:C, Depart:CVS
+Date:13,Dr.:黃品富, Type:V, Depart:CVS
+Date:13,Dr.:尹順盈, Type:L, Depart:CVS
+Date:13,Dr.:鄭運聰, Type:C, Depart:NS
+Date:13,Dr.:余德毅, Type:C, Depart:PLAST
+Date:13,Dr.:林政鋒, Type:C, Depart:URO 
+Date:13,Dr.:劉獻道, Type:C, Depart:ORTHO
+Date:13,Dr.:范仲維, Type:C, Depart: PROCT
+Date:13,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:13,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:13,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:13,Dr.:張書豪, Type:W, Depart:R1
+Date:14,Dr.:陳義展, Type:C, Depart:GS
+Date:14,Dr.:葉集孝, Type:C, Depart:CVS
+Date:14,Dr.:黃品富, Type:V, Depart:CVS
+Date:14,Dr.:尹順盈, Type:LT, Depart:CVS
+Date:14,Dr.:鄭運聰, Type:C, Depart:NS
+Date:14,Dr.:余德毅, Type:C, Depart:PLAST
+Date:14,Dr.:林政鋒, Type:C, Depart:URO 
+Date:14,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:14,Dr.:范仲維, Type:C, Depart: PROCT
+Date:14,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:14,Dr.:陳彥志, Type:CD, Depart:R4
+Date:14,Dr.:范揚欣, Type:I, Depart:R2
+Date:14,Dr.:李杰明, Type:W1, Depart:PGY
+Date:14,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:15,Dr.:卓世川, Type:C, Depart:GS
+Date:15,Dr.:李春輝, Type:T1, Depart:GS
+Date:15,Dr.:葉集孝, Type:C, Depart:CVS
+Date:15,Dr.:黃品富, Type:V, Depart:CVS
+Date:15,Dr.:尹順盈, Type:L, Depart:CVS
+Date:15,Dr.:陳先志, Type:CD, Depart:NS
+Date:15,Dr.:蔡嘉軒, Type:CT2, Depart:PLAST
+Date:15,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:15,Dr.:蘇君毅, Type:C, Depart:ORTHO
+Date:15,Dr.:曾文科, Type:C, Depart: PROCT
+Date:15,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:15,Dr.:, Type:陳先志, Depart:ICU 專責
+Date:15,Dr.:郭令偉, Type:I, Depart:R3
+Date:15,Dr.:張浩于, Type:W1, Depart:R1
+Date:15,Dr.:余運軒, Type:W2, Depart:PGY
+Date:16,Dr.:黃挺碩, Type:C, Depart:GS
+Date:16,Dr.:王耀章, Type:CV, Depart:CVS
+Date:16,Dr.:黃品富, Type:T2, Depart:CVS
+Date:16,Dr.:陳子平, Type:L, Depart:CVS
+Date:16,Dr.:廖黃逸, Type:C, Depart:NS
+Date:16,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:16,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:16,Dr.:游重銘, Type:CT1, Depart:ORTHO
+Date:16,Dr.:范仲維, Type:C, Depart: PROCT
+Date:16,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:16,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:16,Dr.:邱炳燁, Type:I, Depart:R3
+Date:16,Dr.:張書豪, Type:W1, Depart:R1
+Date:16,Dr.:李杰明, Type:W2, Depart:PGY
+Date:17,Dr.:黃挺碩, Type:CT2, Depart:GS
+Date:17,Dr.:簡志穎, Type:T1, Depart:GS
+Date:17,Dr.:王耀章, Type:CV, Depart:CVS
+Date:17,Dr.:陳子平, Type:L, Depart:CVS
+Date:17,Dr.:廖黃逸, Type:C, Depart:NS
+Date:17,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:17,Dr.:林政鋒, Type:CCD, Depart:URO 
+Date:17,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:17,Dr.:曾文科, Type:C, Depart: PROCT
+Date:17,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:17,Dr.:, Type:林政鋒, Depart:ICU 專責
+Date:17,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:17,Dr.:何哲方, Type:W1, Depart:PGY
+Date:17,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:18,Dr.:李春輝, Type:T1, Depart:GS
+Date:18,Dr.:陳義展, Type:CT2, Depart:GS
+Date:18,Dr.:王耀章, Type:CV, Depart:CVS
+Date:18,Dr.:陳子平, Type:L, Depart:CVS
+Date:18,Dr.:鄭運聰, Type:C, Depart:NS
+Date:18,Dr.:潘俊豪, Type:C2, Depart:PLAST
+Date:18,Dr.:蔡嘉軒, Type:羅, Depart:PLAST
+Date:18,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:18,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:18,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:18,Dr.:范仲維, Type:C, Depart: PROCT
+Date:18,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:18,Dr.:陳彥志, Type:CD, Depart:R4
+Date:18,Dr.:范揚欣, Type:I, Depart:R2
+Date:18,Dr.:余運軒, Type:W1, Depart:PGY
+Date:18,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:19,Dr.:江坤俊, Type:C, Depart:GS
+Date:19,Dr.:簡志穎, Type:T1, Depart:GS
+Date:19,Dr.:王耀章, Type:CV, Depart:CVS
+Date:19,Dr.:陳子平, Type:L, Depart:CVS
+Date:19,Dr.:尹順盈, Type:T2, Depart:CVS
+Date:19,Dr.:鄭運聰, Type:C, Depart:NS
+Date:19,Dr.:余德毅, Type:C, Depart:PLAST
+Date:19,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:19,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:19,Dr.:曾文科, Type:C, Depart: PROCT
+Date:19,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:19,Dr.:黃子晏, Type:CD, Depart:R4
+Date:19,Dr.:邱炳燁, Type:I, Depart:R3
+Date:19,Dr.:張書豪, Type:W1, Depart:R1
+Date:19,Dr.:李杰明, Type:W2, Depart:PGY
+Date:20,Dr.:陳育賢, Type:CT, Depart:GS
+Date:20,Dr.:王耀章, Type:CV, Depart:CVS
+Date:20,Dr.:陳子平, Type:L, Depart:CVS
+Date:20,Dr.:陳先志, Type:C, Depart:NS
+Date:20,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:20,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:20,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:20,Dr.:曾文科, Type:C, Depart: PROCT
+Date:20,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:20,Dr.:陳彥志, Type:CD, Depart:R4
+Date:20,Dr.:郭令偉, Type:I, Depart:R3
+Date:20,Dr.:張浩于, Type:W1, Depart:R1
+Date:20,Dr.:何哲方, Type:W2, Depart:PGY
+Date:21,Dr.:黃挺碩, Type:C, Depart:GS
+Date:21,Dr.:王耀章, Type:CV, Depart:CVS
+Date:21,Dr.:陳子平, Type:L, Depart:CVS
+Date:21,Dr.:陳先志, Type:C, Depart:NS
+Date:21,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:21,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:21,Dr.:陳建豪, Type:CT, Depart:ORTHO
+Date:21,Dr.:曾文科, Type:C, Depart: PROCT
+Date:21,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:21,Dr.:黃子晏, Type:CD, Depart:R4
+Date:21,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:21,Dr.:張書豪, Type:W1, Depart:R1
+Date:21,Dr.:余運軒, Type:W2, Depart:PGY
+Date:22,Dr.:陳義展, Type:CCD, Depart:GS
+Date:22,Dr.:簡志穎, Type:T1, Depart:GS
+Date:22,Dr.:王耀章, Type:CV, Depart:CVS
+Date:22,Dr.:陳子平, Type:L, Depart:CVS
+Date:22,Dr.:陳先志, Type:C, Depart:NS
+Date:22,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:22,Dr.:林承家, Type:C, Depart:URO 
+Date:22,Dr.:游重銘, Type:CT2, Depart:ORTHO
+Date:22,Dr.:曾文科, Type:C, Depart: PROCT
+Date:22,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:22,Dr.:, Type:陳義展, Depart:ICU 專責
+Date:22,Dr.:范揚欣, Type:I, Depart:R2
+Date:22,Dr.:李杰明, Type:W2, Depart:PGY
+Date:22,Dr.:廖育唯, Type:W1, Depart:PGY
+Date:23,Dr.:李春輝, Type:C, Depart:GS
+Date:23,Dr.:陳育賢, Type:T1, Depart:GS
+Date:23,Dr.:王耀章, Type:CV, Depart:CVS
+Date:23,Dr.:陳子平, Type:L, Depart:CVS
+Date:23,Dr.:尹順盈, Type:T2, Depart:CVS
+Date:23,Dr.:鄭運聰, Type:C, Depart:NS
+Date:23,Dr.:謝宇軒, Type:C, Depart:PLAST
+Date:23,Dr.:林承家, Type:C, Depart:URO 
+Date:23,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:23,Dr.:范仲維, Type:C, Depart: PROCT
+Date:23,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:23,Dr.:陳彥志, Type:CD, Depart:R4
+Date:23,Dr.:邱炳燁, Type:I, Depart:R3
+Date:23,Dr.:張浩于, Type:W1, Depart:R1
+Date:23,Dr.:余運軒, Type:W2, Depart:PGY
+Date:24,Dr.:黃挺碩, Type:CT2, Depart:GS
+Date:24,Dr.:王耀章, Type:CV, Depart:CVS
+Date:24,Dr.:陳子平, Type:L, Depart:CVS
+Date:24,Dr.:廖黃逸, Type:C, Depart:NS
+Date:24,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:24,Dr.:謝宇軒, Type:T1, Depart:PLAST
+Date:24,Dr.:林承家, Type:C, Depart:URO 
+Date:24,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:24,Dr.:曾文科, Type:C, Depart: PROCT
+Date:24,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:24,Dr.:黃子晏, Type:CD, Depart:R4
+Date:24,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:24,Dr.:何哲方, Type:W2, Depart:PGY
+Date:24,Dr.:陳琬瑄, Type:W1, Depart:PGY
+Date:25,Dr.:宋睿祥, Type:CT2, Depart:GS
+Date:25,Dr.:陳育賢, Type:T1, Depart:GS
+Date:25,Dr.:王耀章, Type:CV, Depart:CVS
+Date:25,Dr.:陳子平, Type:L, Depart:CVS
+Date:25,Dr.:廖黃逸, Type:C, Depart:NS
+Date:25,Dr.:陳建宗, Type:C2, Depart:NS
+Date:25,Dr.:謝宇軒, Type:羅, Depart:PLAST
+Date:25,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:25,Dr.:林承家, Type:C, Depart:URO 
+Date:25,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:25,Dr.:范仲維, Type:C, Depart: PROCT
+Date:25,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:25,Dr.:陳彥志, Type:CD, Depart:R4
+Date:25,Dr.:郭令偉, Type:I, Depart:R3
+Date:25,Dr.:張書豪, Type:W1, Depart:R1
+Date:25,Dr.:余運軒, Type: , Depart:PGY
+Date:25,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:26,Dr.:宋睿祥, Type:C, Depart:GS
+Date:26,Dr.:陳育賢, Type:T1, Depart:GS
+Date:26,Dr.:王耀章, Type:CV, Depart:CVS
+Date:26,Dr.:陳子平, Type:L, Depart:CVS
+Date:26,Dr.:鄭運聰, Type:C, Depart:NS
+Date:26,Dr.:余德毅, Type:CT2, Depart:PLAST
+Date:26,Dr.:林承家, Type:C, Depart:URO 
+Date:26,Dr.:陳建豪, Type:CCD, Depart:ORTHO
+Date:26,Dr.:曾文科, Type:C, Depart: PROCT
+Date:26,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:26,Dr.:, Type:陳建豪, Depart:ICU 專責
+Date:26,Dr.:范揚欣, Type:I, Depart:R2
+Date:26,Dr.:何哲方, Type:W1, Depart:PGY
+Date:26,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:27,Dr.:李春輝, Type:CT, Depart:GS
+Date:27,Dr.:王耀章, Type:CV, Depart:CVS
+Date:27,Dr.:陳子平, Type:L, Depart:CVS
+Date:27,Dr.:廖黃逸, Type:C, Depart:NS
+Date:27,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:27,Dr.:謝宇軒, Type:支援廈門
+, Depart:PLAST
+Date:27,Dr.:林承家, Type:C, Depart:URO 
+Date:27,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:27,Dr.:范仲維, Type:C, Depart: PROCT
+Date:27,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:27,Dr.:黃子晏, Type:CD, Depart:R4
+Date:27,Dr.:邱炳燁, Type:I, Depart:R3
+Date:27,Dr.:余運軒, Type:W1, Depart:PGY
+Date:27,Dr.:李杰明, Type:W2, Depart:PGY
+Date:28,Dr.:江坤俊, Type:C, Depart:GS
+Date:28,Dr.:王耀章, Type:C, Depart:CVS
+Date:28,Dr.:黃品富, Type:VT, Depart:CVS
+Date:28,Dr.:陳子平, Type:L, Depart:CVS
+Date:28,Dr.:廖黃逸, Type:C, Depart:NS
+Date:28,Dr.:潘俊豪, Type:C2, Depart:PLAST
+Date:28,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:28,Dr.:林承家, Type:C, Depart:URO 
+Date:28,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:28,Dr.:范仲維, Type:C, Depart: PROCT
+Date:28,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:28,Dr.:, Type:葉亘耕, Depart:ICU 專責
+Date:28,Dr.:郭令偉, Type:I, Depart:R3
+Date:28,Dr.:張浩于, Type:W1, Depart:R1
+Date:28,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:29,Dr.:簡志穎, Type:T1, Depart:GS
+Date:29,Dr.:陳育賢, Type:C, Depart:GS
+Date:29,Dr.:王耀章, Type:CV, Depart:CVS
+Date:29,Dr.:陳子平, Type:L, Depart:CVS
+Date:29,Dr.:昝文清, Type:C, Depart:NS
+Date:29,Dr.:蔡嘉軒, Type:CT2, Depart:PLAST
+Date:29,Dr.:吳俊德, Type:C, Depart:URO 
+Date:29,Dr.:蘇君毅, Type:C, Depart:ORTHO
+Date:29,Dr.:曾文科, Type:C, Depart: PROCT
+Date:29,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:29,Dr.:陳彥志, Type:CD, Depart:R4
+Date:29,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:29,Dr.:何哲方, Type:W2, Depart:PGY
+Date:29,Dr.:陳琬瑄, Type:W1, Depart:PGY
+Date:30,Dr.:簡志穎, Type:C, Depart:GS
+Date:30,Dr.:陳育賢, Type:T1, Depart:GS
+Date:30,Dr.:王耀章, Type:CV, Depart:CVS
+Date:30,Dr.:陳子平, Type:L, Depart:CVS
+Date:30,Dr.:廖黃逸, Type:C, Depart:NS
+Date:30,Dr.:余德毅, Type:C, Depart:PLAST
+Date:30,Dr.:吳俊德, Type:C, Depart:URO 
+Date:30,Dr.:游重銘, Type:CT2, Depart:ORTHO
+Date:30,Dr.:范仲維, Type:C, Depart: PROCT
+Date:30,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:30,Dr.:黃子晏, Type:CD, Depart:R4
+Date:30,Dr.:范揚欣, Type:I, Depart:R2
+Date:30,Dr.:余運軒, Type:W2, Depart:PGY
+Date:30,Dr.:李杰明, Type:W1, Depart:PGY
+Date:3,Dr.:黃挺碩, Type:T1, Depart:GS
+Date:3,Dr.:陳育賢, Type:CT2, Depart:GS
+Date:3,Dr.:葉集孝, Type:C, Depart:CVS
+Date:3,Dr.:黃品富, Type:V, Depart:CVS
+Date:3,Dr.:尹順盈, Type:L, Depart:CVS
+Date:3,Dr.:鄭運聰, Type:C, Depart:NS
+Date:3,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:3,Dr.:吳俊德, Type:C, Depart:URO 
+Date:3,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:3,Dr.:曾文科, Type:C, Depart: PROCT
+Date:3,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:3,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:3,Dr.:邱炳燁, Type:I, Depart:R3
+Date:3,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:3,Dr.:余運軒, Type:W2, Depart:PGY
+Date:4,Dr.:李春輝, Type:CT2, Depart:GS
+Date:4,Dr.:宋睿祥, Type:T1, Depart:GS
+Date:4,Dr.:葉集孝, Type:C, Depart:CVS
+Date:4,Dr.:黃品富, Type:V, Depart:CVS
+Date:4,Dr.:尹順盈, Type:L, Depart:CVS
+Date:4,Dr.:陳先志, Type:C, Depart:NS
+Date:4,Dr.:陳建宗, Type:C2, Depart:NS
+Date:4,Dr.:蔡嘉軒, Type:羅, Depart:PLAST
+Date:4,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:4,Dr.:吳俊德, Type:C, Depart:URO 
+Date:4,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:4,Dr.:范仲維, Type:C, Depart: PROCT
+Date:4,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:4,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:4,Dr.:郭令偉, Type:I, Depart:R3
+Date:4,Dr.:張書豪, Type:W1, Depart:R1
+Date:4,Dr.:何哲方, Type:W2, Depart:PGY
+Date:5,Dr.:簡志穎, Type:T1, Depart:GS
+Date:5,Dr.:陳育賢, Type:C, Depart:GS
+Date:5,Dr.:葉集孝, Type:C, Depart:CVS
+Date:5,Dr.:黃品富, Type:V, Depart:CVS
+Date:5,Dr.:尹順盈, Type:L, Depart:CVS
+Date:5,Dr.:昝文清, Type:C, Depart:NS
+Date:5,Dr.:余德毅, Type:CT2, Depart:PLAST
+Date:5,Dr.:吳俊德, Type:C, Depart:URO 
+Date:5,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:5,Dr.:曾文科, Type:C, Depart: PROCT
+Date:5,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:5,Dr.:陳彥志, Type:CD, Depart:R4
+Date:5,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:5,Dr.:張浩于, Type:W1, Depart:R1
+Date:5,Dr.:李杰明, Type:W2, Depart:PGY
+Date:6,Dr.:江坤俊, Type:C, Depart:GS
+Date:6,Dr.:葉集孝, Type:C, Depart:CVS
+Date:6,Dr.:黃品富, Type:V, Depart:CVS
+Date:6,Dr.:尹順盈, Type:L, Depart:CVS
+Date:6,Dr.:昝文清, Type:C, Depart:NS
+Date:6,Dr.:余德毅, Type:CT, Depart:PLAST
+Date:6,Dr.:吳俊德, Type:C, Depart:URO 
+Date:6,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:6,Dr.:陳磊晏, Type:CD, Depart:ORTHO
+Date:6,Dr.:曾文科, Type:C, Depart: PROCT
+Date:6,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:6,Dr.:, Type:陳磊晏, Depart:ICU 專責
+Date:6,Dr.:范揚欣, Type:I, Depart:R2
+Date:6,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:6,Dr.:廖育唯, Type:W1, Depart:PGY
+Date:7,Dr.:宋睿祥, Type:C, Depart:GS
+Date:7,Dr.:葉集孝, Type:C, Depart:CVS
+Date:7,Dr.:王耀章, Type:V, Depart:CVS
+Date:7,Dr.:尹順盈, Type:L, Depart:CVS
+Date:7,Dr.:昝文清, Type:C, Depart:NS
+Date:7,Dr.:蔡嘉軒, Type:CT, Depart:PLAST
+Date:7,Dr.:吳俊德, Type:C, Depart:URO 
+Date:7,Dr.:劉獻道, Type:C, Depart:ORTHO
+Date:7,Dr.:曾文科, Type:C, Depart: PROCT
+Date:7,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:7,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:7,Dr.:邱炳燁, Type:I, Depart:R3
+Date:7,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:7,Dr.:何哲方, Type:W2, Depart:PGY
+Date:8,Dr.:卓世川, Type:C, Depart:GS
+Date:8,Dr.:簡志穎, Type:T1, Depart:GS
+Date:8,Dr.:葉集孝, Type:C, Depart:CVS
+Date:8,Dr.:黃品富, Type:V, Depart:CVS
+Date:8,Dr.:尹順盈, Type:L, Depart:CVS
+Date:8,Dr.:陳先志, Type:C, Depart:NS
+Date:8,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:8,Dr.:林政鋒, Type:C, Depart:URO 
+Date:8,Dr.:蘇君毅, Type:C, Depart:ORTHO
+Date:8,Dr.:陳建豪, Type:T2, Depart:ORTHO
+Date:8,Dr.:曾文科, Type:C, Depart: PROCT
+Date:8,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:8,Dr.:黃子晏, Type:CD, Depart:R4
+Date:8,Dr.:郭令偉, Type:I, Depart:R3
+Date:8,Dr.:張浩于, Type:W1, Depart:R1
+Date:8,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:9,Dr.:宋睿祥, Type:CT2, Depart:GS
+Date:9,Dr.:陳育賢, Type:T1, Depart:GS
+Date:9,Dr.:葉集孝, Type:C, Depart:CVS
+Date:9,Dr.:黃品富, Type:V, Depart:CVS
+Date:9,Dr.:尹順盈, Type:L, Depart:CVS
+Date:9,Dr.:鄭運聰, Type:C, Depart:NS
+Date:9,Dr.:蔡嘉軒, Type:C2, Depart:PLAST
+Date:9,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:9,Dr.:林政鋒, Type:C, Depart:URO 
+Date:9,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:9,Dr.:陳磊晏, Type:CD, Depart:ORTHO
+Date:9,Dr.:范仲維, Type:C, Depart: PROCT
+Date:9,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:9,Dr.:, Type:陳磊晏, Depart:ICU 專責
+Date:9,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:9,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:9,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:10,Dr.:簡志穎, Type:T1, Depart:GS
+Date:10,Dr.:陳育賢, Type:C, Depart:GS
+Date:10,Dr.:葉集孝, Type:C, Depart:CVS
+Date:10,Dr.:黃品富, Type:VT2, Depart:CVS
+Date:10,Dr.:尹順盈, Type:L, Depart:CVS
+Date:10,Dr.:鄭運聰, Type:C, Depart:NS
+Date:10,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:10,Dr.:林政鋒, Type:C, Depart:URO 
+Date:10,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:10,Dr.:曾文科, Type:C, Depart: PROCT
+Date:10,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:10,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:10,Dr.:邱炳燁, Type:I, Depart:R3
+Date:10,Dr.:張書豪, Type:W1, Depart:R1
+Date:10,Dr.:何哲方, Type:W2, Depart:PGY
+Date:11,Dr.:李春輝, Type:CT2, Depart:GS
+Date:11,Dr.:葉集孝, Type:C, Depart:CVS
+Date:11,Dr.:黃品富, Type:V, Depart:CVS
+Date:11,Dr.:尹順盈, Type:L, Depart:CVS
+Date:11,Dr.:廖黃逸, Type:C, Depart:NS
+Date:11,Dr.:陳建宗, Type:C2, Depart:NS
+Date:11,Dr.:蔡嘉軒, Type:T1, Depart:PLAST
+Date:11,Dr.:余德毅, Type:羅, Depart:PLAST
+Date:11,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:11,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:11,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:11,Dr.:范仲維, Type:C, Depart: PROCT
+Date:11,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:11,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:11,Dr.:范揚欣, Type:I, Depart:R2
+Date:11,Dr.:張浩于, Type:W1, Depart:R1
+Date:11,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:12,Dr.:簡志穎, Type:C, Depart:GS
+Date:12,Dr.:陳育賢, Type:T1, Depart:GS
+Date:12,Dr.:葉集孝, Type:C, Depart:CVS
+Date:12,Dr.:黃品富, Type:V, Depart:CVS
+Date:12,Dr.:尹順盈, Type:L, Depart:CVS
+Date:12,Dr.:廖黃逸, Type:C, Depart:NS
+Date:12,Dr.:余德毅, Type:CT2, Depart:PLAST
+Date:12,Dr.:林政鋒, Type:C, Depart:URO 
+Date:12,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:12,Dr.:曾文科, Type:C, Depart: PROCT
+Date:12,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:12,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:12,Dr.:郭令偉, Type:I, Depart:R3
+Date:12,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:12,Dr.:余運軒, Type:W2, Depart:PGY
+Date:13,Dr.:簡志穎, Type:CT, Depart:GS
+Date:13,Dr.:葉集孝, Type:C, Depart:CVS
+Date:13,Dr.:黃品富, Type:V, Depart:CVS
+Date:13,Dr.:尹順盈, Type:L, Depart:CVS
+Date:13,Dr.:鄭運聰, Type:C, Depart:NS
+Date:13,Dr.:余德毅, Type:C, Depart:PLAST
+Date:13,Dr.:林政鋒, Type:C, Depart:URO 
+Date:13,Dr.:劉獻道, Type:C, Depart:ORTHO
+Date:13,Dr.:范仲維, Type:C, Depart: PROCT
+Date:13,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:13,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:13,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:13,Dr.:張書豪, Type:W, Depart:R1
+Date:14,Dr.:陳義展, Type:C, Depart:GS
+Date:14,Dr.:葉集孝, Type:C, Depart:CVS
+Date:14,Dr.:黃品富, Type:V, Depart:CVS
+Date:14,Dr.:尹順盈, Type:LT, Depart:CVS
+Date:14,Dr.:鄭運聰, Type:C, Depart:NS
+Date:14,Dr.:余德毅, Type:C, Depart:PLAST
+Date:14,Dr.:林政鋒, Type:C, Depart:URO 
+Date:14,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:14,Dr.:范仲維, Type:C, Depart: PROCT
+Date:14,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:14,Dr.:陳彥志, Type:CD, Depart:R4
+Date:14,Dr.:范揚欣, Type:I, Depart:R2
+Date:14,Dr.:李杰明, Type:W1, Depart:PGY
+Date:14,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:15,Dr.:卓世川, Type:C, Depart:GS
+Date:15,Dr.:李春輝, Type:T1, Depart:GS
+Date:15,Dr.:葉集孝, Type:C, Depart:CVS
+Date:15,Dr.:黃品富, Type:V, Depart:CVS
+Date:15,Dr.:尹順盈, Type:L, Depart:CVS
+Date:15,Dr.:陳先志, Type:CD, Depart:NS
+Date:15,Dr.:蔡嘉軒, Type:CT2, Depart:PLAST
+Date:15,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:15,Dr.:蘇君毅, Type:C, Depart:ORTHO
+Date:15,Dr.:曾文科, Type:C, Depart: PROCT
+Date:15,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:15,Dr.:, Type:陳先志, Depart:ICU 專責
+Date:15,Dr.:郭令偉, Type:I, Depart:R3
+Date:15,Dr.:張浩于, Type:W1, Depart:R1
+Date:15,Dr.:余運軒, Type:W2, Depart:PGY
+Date:16,Dr.:黃挺碩, Type:C, Depart:GS
+Date:16,Dr.:王耀章, Type:CV, Depart:CVS
+Date:16,Dr.:黃品富, Type:T2, Depart:CVS
+Date:16,Dr.:陳子平, Type:L, Depart:CVS
+Date:16,Dr.:廖黃逸, Type:C, Depart:NS
+Date:16,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:16,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:16,Dr.:游重銘, Type:CT1, Depart:ORTHO
+Date:16,Dr.:范仲維, Type:C, Depart: PROCT
+Date:16,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:16,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:16,Dr.:邱炳燁, Type:I, Depart:R3
+Date:16,Dr.:張書豪, Type:W1, Depart:R1
+Date:16,Dr.:李杰明, Type:W2, Depart:PGY
+Date:17,Dr.:黃挺碩, Type:CT2, Depart:GS
+Date:17,Dr.:簡志穎, Type:T1, Depart:GS
+Date:17,Dr.:王耀章, Type:CV, Depart:CVS
+Date:17,Dr.:陳子平, Type:L, Depart:CVS
+Date:17,Dr.:廖黃逸, Type:C, Depart:NS
+Date:17,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:17,Dr.:林政鋒, Type:CCD, Depart:URO 
+Date:17,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:17,Dr.:曾文科, Type:C, Depart: PROCT
+Date:17,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:17,Dr.:, Type:林政鋒, Depart:ICU 專責
+Date:17,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:17,Dr.:何哲方, Type:W1, Depart:PGY
+Date:17,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:18,Dr.:李春輝, Type:T1, Depart:GS
+Date:18,Dr.:陳義展, Type:CT2, Depart:GS
+Date:18,Dr.:王耀章, Type:CV, Depart:CVS
+Date:18,Dr.:陳子平, Type:L, Depart:CVS
+Date:18,Dr.:鄭運聰, Type:C, Depart:NS
+Date:18,Dr.:潘俊豪, Type:C2, Depart:PLAST
+Date:18,Dr.:蔡嘉軒, Type:羅, Depart:PLAST
+Date:18,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:18,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:18,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:18,Dr.:范仲維, Type:C, Depart: PROCT
+Date:18,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:18,Dr.:陳彥志, Type:CD, Depart:R4
+Date:18,Dr.:范揚欣, Type:I, Depart:R2
+Date:18,Dr.:余運軒, Type:W1, Depart:PGY
+Date:18,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:19,Dr.:江坤俊, Type:C, Depart:GS
+Date:19,Dr.:簡志穎, Type:T1, Depart:GS
+Date:19,Dr.:王耀章, Type:CV, Depart:CVS
+Date:19,Dr.:陳子平, Type:L, Depart:CVS
+Date:19,Dr.:尹順盈, Type:T2, Depart:CVS
+Date:19,Dr.:鄭運聰, Type:C, Depart:NS
+Date:19,Dr.:余德毅, Type:C, Depart:PLAST
+Date:19,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:19,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:19,Dr.:曾文科, Type:C, Depart: PROCT
+Date:19,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:19,Dr.:黃子晏, Type:CD, Depart:R4
+Date:19,Dr.:邱炳燁, Type:I, Depart:R3
+Date:19,Dr.:張書豪, Type:W1, Depart:R1
+Date:19,Dr.:李杰明, Type:W2, Depart:PGY
+Date:20,Dr.:陳育賢, Type:CT, Depart:GS
+Date:20,Dr.:王耀章, Type:CV, Depart:CVS
+Date:20,Dr.:陳子平, Type:L, Depart:CVS
+Date:20,Dr.:陳先志, Type:C, Depart:NS
+Date:20,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:20,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:20,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:20,Dr.:曾文科, Type:C, Depart: PROCT
+Date:20,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:20,Dr.:陳彥志, Type:CD, Depart:R4
+Date:20,Dr.:郭令偉, Type:I, Depart:R3
+Date:20,Dr.:張浩于, Type:W1, Depart:R1
+Date:20,Dr.:何哲方, Type:W2, Depart:PGY
+Date:21,Dr.:黃挺碩, Type:C, Depart:GS
+Date:21,Dr.:王耀章, Type:CV, Depart:CVS
+Date:21,Dr.:陳子平, Type:L, Depart:CVS
+Date:21,Dr.:陳先志, Type:C, Depart:NS
+Date:21,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:21,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:21,Dr.:陳建豪, Type:CT, Depart:ORTHO
+Date:21,Dr.:曾文科, Type:C, Depart: PROCT
+Date:21,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:21,Dr.:黃子晏, Type:CD, Depart:R4
+Date:21,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:21,Dr.:張書豪, Type:W1, Depart:R1
+Date:21,Dr.:余運軒, Type:W2, Depart:PGY
+Date:22,Dr.:陳義展, Type:CCD, Depart:GS
+Date:22,Dr.:簡志穎, Type:T1, Depart:GS
+Date:22,Dr.:王耀章, Type:CV, Depart:CVS
+Date:22,Dr.:陳子平, Type:L, Depart:CVS
+Date:22,Dr.:陳先志, Type:C, Depart:NS
+Date:22,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:22,Dr.:林承家, Type:C, Depart:URO 
+Date:22,Dr.:游重銘, Type:CT2, Depart:ORTHO
+Date:22,Dr.:曾文科, Type:C, Depart: PROCT
+Date:22,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:22,Dr.:, Type:陳義展, Depart:ICU 專責
+Date:22,Dr.:范揚欣, Type:I, Depart:R2
+Date:22,Dr.:李杰明, Type:W2, Depart:PGY
+Date:22,Dr.:廖育唯, Type:W1, Depart:PGY
+Date:23,Dr.:李春輝, Type:C, Depart:GS
+Date:23,Dr.:陳育賢, Type:T1, Depart:GS
+Date:23,Dr.:王耀章, Type:CV, Depart:CVS
+Date:23,Dr.:陳子平, Type:L, Depart:CVS
+Date:23,Dr.:尹順盈, Type:T2, Depart:CVS
+Date:23,Dr.:鄭運聰, Type:C, Depart:NS
+Date:23,Dr.:謝宇軒, Type:C, Depart:PLAST
+Date:23,Dr.:林承家, Type:C, Depart:URO 
+Date:23,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:23,Dr.:范仲維, Type:C, Depart: PROCT
+Date:23,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:23,Dr.:陳彥志, Type:CD, Depart:R4
+Date:23,Dr.:邱炳燁, Type:I, Depart:R3
+Date:23,Dr.:張浩于, Type:W1, Depart:R1
+Date:23,Dr.:余運軒, Type:W2, Depart:PGY
+Date:24,Dr.:黃挺碩, Type:CT2, Depart:GS
+Date:24,Dr.:王耀章, Type:CV, Depart:CVS
+Date:24,Dr.:陳子平, Type:L, Depart:CVS
+Date:24,Dr.:廖黃逸, Type:C, Depart:NS
+Date:24,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:24,Dr.:謝宇軒, Type:T1, Depart:PLAST
+Date:24,Dr.:林承家, Type:C, Depart:URO 
+Date:24,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:24,Dr.:曾文科, Type:C, Depart: PROCT
+Date:24,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:24,Dr.:黃子晏, Type:CD, Depart:R4
+Date:24,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:24,Dr.:何哲方, Type:W2, Depart:PGY
+Date:24,Dr.:陳琬瑄, Type:W1, Depart:PGY
+Date:25,Dr.:宋睿祥, Type:CT2, Depart:GS
+Date:25,Dr.:陳育賢, Type:T1, Depart:GS
+Date:25,Dr.:王耀章, Type:CV, Depart:CVS
+Date:25,Dr.:陳子平, Type:L, Depart:CVS
+Date:25,Dr.:廖黃逸, Type:C, Depart:NS
+Date:25,Dr.:陳建宗, Type:C2, Depart:NS
+Date:25,Dr.:謝宇軒, Type:羅, Depart:PLAST
+Date:25,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:25,Dr.:林承家, Type:C, Depart:URO 
+Date:25,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:25,Dr.:范仲維, Type:C, Depart: PROCT
+Date:25,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:25,Dr.:陳彥志, Type:CD, Depart:R4
+Date:25,Dr.:郭令偉, Type:I, Depart:R3
+Date:25,Dr.:張書豪, Type:W1, Depart:R1
+Date:25,Dr.:余運軒, Type: , Depart:PGY
+Date:25,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:26,Dr.:宋睿祥, Type:C, Depart:GS
+Date:26,Dr.:陳育賢, Type:T1, Depart:GS
+Date:26,Dr.:王耀章, Type:CV, Depart:CVS
+Date:26,Dr.:陳子平, Type:L, Depart:CVS
+Date:26,Dr.:鄭運聰, Type:C, Depart:NS
+Date:26,Dr.:余德毅, Type:CT2, Depart:PLAST
+Date:26,Dr.:林承家, Type:C, Depart:URO 
+Date:26,Dr.:陳建豪, Type:CCD, Depart:ORTHO
+Date:26,Dr.:曾文科, Type:C, Depart: PROCT
+Date:26,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:26,Dr.:, Type:陳建豪, Depart:ICU 專責
+Date:26,Dr.:范揚欣, Type:I, Depart:R2
+Date:26,Dr.:何哲方, Type:W1, Depart:PGY
+Date:26,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:27,Dr.:李春輝, Type:CT, Depart:GS
+Date:27,Dr.:王耀章, Type:CV, Depart:CVS
+Date:27,Dr.:陳子平, Type:L, Depart:CVS
+Date:27,Dr.:廖黃逸, Type:C, Depart:NS
+Date:27,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:27,Dr.:謝宇軒, Type:支援廈門
+, Depart:PLAST
+Date:27,Dr.:林承家, Type:C, Depart:URO 
+Date:27,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:27,Dr.:范仲維, Type:C, Depart: PROCT
+Date:27,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:27,Dr.:黃子晏, Type:CD, Depart:R4
+Date:27,Dr.:邱炳燁, Type:I, Depart:R3
+Date:27,Dr.:余運軒, Type:W1, Depart:PGY
+Date:27,Dr.:李杰明, Type:W2, Depart:PGY
+Date:28,Dr.:江坤俊, Type:C, Depart:GS
+Date:28,Dr.:王耀章, Type:C, Depart:CVS
+Date:28,Dr.:黃品富, Type:VT, Depart:CVS
+Date:28,Dr.:陳子平, Type:L, Depart:CVS
+Date:28,Dr.:廖黃逸, Type:C, Depart:NS
+Date:28,Dr.:潘俊豪, Type:C2, Depart:PLAST
+Date:28,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:28,Dr.:林承家, Type:C, Depart:URO 
+Date:28,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:28,Dr.:范仲維, Type:C, Depart: PROCT
+Date:28,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:28,Dr.:, Type:葉亘耕, Depart:ICU 專責
+Date:28,Dr.:郭令偉, Type:I, Depart:R3
+Date:28,Dr.:張浩于, Type:W1, Depart:R1
+Date:28,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:29,Dr.:簡志穎, Type:T1, Depart:GS
+Date:29,Dr.:陳育賢, Type:C, Depart:GS
+Date:29,Dr.:王耀章, Type:CV, Depart:CVS
+Date:29,Dr.:陳子平, Type:L, Depart:CVS
+Date:29,Dr.:昝文清, Type:C, Depart:NS
+Date:29,Dr.:蔡嘉軒, Type:CT2, Depart:PLAST
+Date:29,Dr.:吳俊德, Type:C, Depart:URO 
+Date:29,Dr.:蘇君毅, Type:C, Depart:ORTHO
+Date:29,Dr.:曾文科, Type:C, Depart: PROCT
+Date:29,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:29,Dr.:陳彥志, Type:CD, Depart:R4
+Date:29,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:29,Dr.:何哲方, Type:W2, Depart:PGY
+Date:29,Dr.:陳琬瑄, Type:W1, Depart:PGY
+Date:30,Dr.:簡志穎, Type:C, Depart:GS
+Date:30,Dr.:陳育賢, Type:T1, Depart:GS
+Date:30,Dr.:王耀章, Type:CV, Depart:CVS
+Date:30,Dr.:陳子平, Type:L, Depart:CVS
+Date:30,Dr.:廖黃逸, Type:C, Depart:NS
+Date:30,Dr.:余德毅, Type:C, Depart:PLAST
+Date:30,Dr.:吳俊德, Type:C, Depart:URO 
+Date:30,Dr.:游重銘, Type:CT2, Depart:ORTHO
+Date:30,Dr.:范仲維, Type:C, Depart: PROCT
+Date:30,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:30,Dr.:黃子晏, Type:CD, Depart:R4
+Date:30,Dr.:范揚欣, Type:I, Depart:R2
+Date:30,Dr.:余運軒, Type:W2, Depart:PGY
+Date:30,Dr.:李杰明, Type:W1, Depart:PGY
+Date:3,Dr.:黃挺碩, Type:T1, Depart:GS
+Date:3,Dr.:陳育賢, Type:CT2, Depart:GS
+Date:3,Dr.:葉集孝, Type:C, Depart:CVS
+Date:3,Dr.:黃品富, Type:V, Depart:CVS
+Date:3,Dr.:尹順盈, Type:L, Depart:CVS
+Date:3,Dr.:鄭運聰, Type:C, Depart:NS
+Date:3,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:3,Dr.:吳俊德, Type:C, Depart:URO 
+Date:3,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:3,Dr.:曾文科, Type:C, Depart: PROCT
+Date:3,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:3,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:3,Dr.:邱炳燁, Type:I, Depart:R3
+Date:3,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:3,Dr.:余運軒, Type:W2, Depart:PGY
+Date:4,Dr.:李春輝, Type:CT2, Depart:GS
+Date:4,Dr.:宋睿祥, Type:T1, Depart:GS
+Date:4,Dr.:葉集孝, Type:C, Depart:CVS
+Date:4,Dr.:黃品富, Type:V, Depart:CVS
+Date:4,Dr.:尹順盈, Type:L, Depart:CVS
+Date:4,Dr.:陳先志, Type:C, Depart:NS
+Date:4,Dr.:陳建宗, Type:C2, Depart:NS
+Date:4,Dr.:蔡嘉軒, Type:羅, Depart:PLAST
+Date:4,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:4,Dr.:吳俊德, Type:C, Depart:URO 
+Date:4,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:4,Dr.:范仲維, Type:C, Depart: PROCT
+Date:4,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:4,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:4,Dr.:郭令偉, Type:I, Depart:R3
+Date:4,Dr.:張書豪, Type:W1, Depart:R1
+Date:4,Dr.:何哲方, Type:W2, Depart:PGY
+Date:5,Dr.:簡志穎, Type:T1, Depart:GS
+Date:5,Dr.:陳育賢, Type:C, Depart:GS
+Date:5,Dr.:葉集孝, Type:C, Depart:CVS
+Date:5,Dr.:黃品富, Type:V, Depart:CVS
+Date:5,Dr.:尹順盈, Type:L, Depart:CVS
+Date:5,Dr.:昝文清, Type:C, Depart:NS
+Date:5,Dr.:余德毅, Type:CT2, Depart:PLAST
+Date:5,Dr.:吳俊德, Type:C, Depart:URO 
+Date:5,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:5,Dr.:曾文科, Type:C, Depart: PROCT
+Date:5,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:5,Dr.:陳彥志, Type:CD, Depart:R4
+Date:5,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:5,Dr.:張浩于, Type:W1, Depart:R1
+Date:5,Dr.:李杰明, Type:W2, Depart:PGY
+Date:6,Dr.:江坤俊, Type:C, Depart:GS
+Date:6,Dr.:葉集孝, Type:C, Depart:CVS
+Date:6,Dr.:黃品富, Type:V, Depart:CVS
+Date:6,Dr.:尹順盈, Type:L, Depart:CVS
+Date:6,Dr.:昝文清, Type:C, Depart:NS
+Date:6,Dr.:余德毅, Type:CT, Depart:PLAST
+Date:6,Dr.:吳俊德, Type:C, Depart:URO 
+Date:6,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:6,Dr.:陳磊晏, Type:CD, Depart:ORTHO
+Date:6,Dr.:曾文科, Type:C, Depart: PROCT
+Date:6,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:6,Dr.:, Type:陳磊晏, Depart:ICU 專責
+Date:6,Dr.:范揚欣, Type:I, Depart:R2
+Date:6,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:6,Dr.:廖育唯, Type:W1, Depart:PGY
+Date:7,Dr.:宋睿祥, Type:C, Depart:GS
+Date:7,Dr.:葉集孝, Type:C, Depart:CVS
+Date:7,Dr.:王耀章, Type:V, Depart:CVS
+Date:7,Dr.:尹順盈, Type:L, Depart:CVS
+Date:7,Dr.:昝文清, Type:C, Depart:NS
+Date:7,Dr.:蔡嘉軒, Type:CT, Depart:PLAST
+Date:7,Dr.:吳俊德, Type:C, Depart:URO 
+Date:7,Dr.:劉獻道, Type:C, Depart:ORTHO
+Date:7,Dr.:曾文科, Type:C, Depart: PROCT
+Date:7,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:7,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:7,Dr.:邱炳燁, Type:I, Depart:R3
+Date:7,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:7,Dr.:何哲方, Type:W2, Depart:PGY
+Date:8,Dr.:卓世川, Type:C, Depart:GS
+Date:8,Dr.:簡志穎, Type:T1, Depart:GS
+Date:8,Dr.:葉集孝, Type:C, Depart:CVS
+Date:8,Dr.:黃品富, Type:V, Depart:CVS
+Date:8,Dr.:尹順盈, Type:L, Depart:CVS
+Date:8,Dr.:陳先志, Type:C, Depart:NS
+Date:8,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:8,Dr.:林政鋒, Type:C, Depart:URO 
+Date:8,Dr.:蘇君毅, Type:C, Depart:ORTHO
+Date:8,Dr.:陳建豪, Type:T2, Depart:ORTHO
+Date:8,Dr.:曾文科, Type:C, Depart: PROCT
+Date:8,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:8,Dr.:黃子晏, Type:CD, Depart:R4
+Date:8,Dr.:郭令偉, Type:I, Depart:R3
+Date:8,Dr.:張浩于, Type:W1, Depart:R1
+Date:8,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:9,Dr.:宋睿祥, Type:CT2, Depart:GS
+Date:9,Dr.:陳育賢, Type:T1, Depart:GS
+Date:9,Dr.:葉集孝, Type:C, Depart:CVS
+Date:9,Dr.:黃品富, Type:V, Depart:CVS
+Date:9,Dr.:尹順盈, Type:L, Depart:CVS
+Date:9,Dr.:鄭運聰, Type:C, Depart:NS
+Date:9,Dr.:蔡嘉軒, Type:C2, Depart:PLAST
+Date:9,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:9,Dr.:林政鋒, Type:C, Depart:URO 
+Date:9,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:9,Dr.:陳磊晏, Type:CD, Depart:ORTHO
+Date:9,Dr.:范仲維, Type:C, Depart: PROCT
+Date:9,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:9,Dr.:, Type:陳磊晏, Depart:ICU 專責
+Date:9,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:9,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:9,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:10,Dr.:簡志穎, Type:T1, Depart:GS
+Date:10,Dr.:陳育賢, Type:C, Depart:GS
+Date:10,Dr.:葉集孝, Type:C, Depart:CVS
+Date:10,Dr.:黃品富, Type:VT2, Depart:CVS
+Date:10,Dr.:尹順盈, Type:L, Depart:CVS
+Date:10,Dr.:鄭運聰, Type:C, Depart:NS
+Date:10,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:10,Dr.:林政鋒, Type:C, Depart:URO 
+Date:10,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:10,Dr.:曾文科, Type:C, Depart: PROCT
+Date:10,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:10,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:10,Dr.:邱炳燁, Type:I, Depart:R3
+Date:10,Dr.:張書豪, Type:W1, Depart:R1
+Date:10,Dr.:何哲方, Type:W2, Depart:PGY
+Date:11,Dr.:李春輝, Type:CT2, Depart:GS
+Date:11,Dr.:葉集孝, Type:C, Depart:CVS
+Date:11,Dr.:黃品富, Type:V, Depart:CVS
+Date:11,Dr.:尹順盈, Type:L, Depart:CVS
+Date:11,Dr.:廖黃逸, Type:C, Depart:NS
+Date:11,Dr.:陳建宗, Type:C2, Depart:NS
+Date:11,Dr.:蔡嘉軒, Type:T1, Depart:PLAST
+Date:11,Dr.:余德毅, Type:羅, Depart:PLAST
+Date:11,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:11,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:11,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:11,Dr.:范仲維, Type:C, Depart: PROCT
+Date:11,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:11,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:11,Dr.:范揚欣, Type:I, Depart:R2
+Date:11,Dr.:張浩于, Type:W1, Depart:R1
+Date:11,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:12,Dr.:簡志穎, Type:C, Depart:GS
+Date:12,Dr.:陳育賢, Type:T1, Depart:GS
+Date:12,Dr.:葉集孝, Type:C, Depart:CVS
+Date:12,Dr.:黃品富, Type:V, Depart:CVS
+Date:12,Dr.:尹順盈, Type:L, Depart:CVS
+Date:12,Dr.:廖黃逸, Type:C, Depart:NS
+Date:12,Dr.:余德毅, Type:CT2, Depart:PLAST
+Date:12,Dr.:林政鋒, Type:C, Depart:URO 
+Date:12,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:12,Dr.:曾文科, Type:C, Depart: PROCT
+Date:12,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:12,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:12,Dr.:郭令偉, Type:I, Depart:R3
+Date:12,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:12,Dr.:余運軒, Type:W2, Depart:PGY
+Date:13,Dr.:簡志穎, Type:CT, Depart:GS
+Date:13,Dr.:葉集孝, Type:C, Depart:CVS
+Date:13,Dr.:黃品富, Type:V, Depart:CVS
+Date:13,Dr.:尹順盈, Type:L, Depart:CVS
+Date:13,Dr.:鄭運聰, Type:C, Depart:NS
+Date:13,Dr.:余德毅, Type:C, Depart:PLAST
+Date:13,Dr.:林政鋒, Type:C, Depart:URO 
+Date:13,Dr.:劉獻道, Type:C, Depart:ORTHO
+Date:13,Dr.:范仲維, Type:C, Depart: PROCT
+Date:13,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:13,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:13,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:13,Dr.:張書豪, Type:W, Depart:R1
+Date:14,Dr.:陳義展, Type:C, Depart:GS
+Date:14,Dr.:葉集孝, Type:C, Depart:CVS
+Date:14,Dr.:黃品富, Type:V, Depart:CVS
+Date:14,Dr.:尹順盈, Type:LT, Depart:CVS
+Date:14,Dr.:鄭運聰, Type:C, Depart:NS
+Date:14,Dr.:余德毅, Type:C, Depart:PLAST
+Date:14,Dr.:林政鋒, Type:C, Depart:URO 
+Date:14,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:14,Dr.:范仲維, Type:C, Depart: PROCT
+Date:14,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:14,Dr.:陳彥志, Type:CD, Depart:R4
+Date:14,Dr.:范揚欣, Type:I, Depart:R2
+Date:14,Dr.:李杰明, Type:W1, Depart:PGY
+Date:14,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:15,Dr.:卓世川, Type:C, Depart:GS
+Date:15,Dr.:李春輝, Type:T1, Depart:GS
+Date:15,Dr.:葉集孝, Type:C, Depart:CVS
+Date:15,Dr.:黃品富, Type:V, Depart:CVS
+Date:15,Dr.:尹順盈, Type:L, Depart:CVS
+Date:15,Dr.:陳先志, Type:CD, Depart:NS
+Date:15,Dr.:蔡嘉軒, Type:CT2, Depart:PLAST
+Date:15,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:15,Dr.:蘇君毅, Type:C, Depart:ORTHO
+Date:15,Dr.:曾文科, Type:C, Depart: PROCT
+Date:15,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:15,Dr.:, Type:陳先志, Depart:ICU 專責
+Date:15,Dr.:郭令偉, Type:I, Depart:R3
+Date:15,Dr.:張浩于, Type:W1, Depart:R1
+Date:15,Dr.:余運軒, Type:W2, Depart:PGY
+Date:16,Dr.:黃挺碩, Type:C, Depart:GS
+Date:16,Dr.:王耀章, Type:CV, Depart:CVS
+Date:16,Dr.:黃品富, Type:T2, Depart:CVS
+Date:16,Dr.:陳子平, Type:L, Depart:CVS
+Date:16,Dr.:廖黃逸, Type:C, Depart:NS
+Date:16,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:16,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:16,Dr.:游重銘, Type:CT1, Depart:ORTHO
+Date:16,Dr.:范仲維, Type:C, Depart: PROCT
+Date:16,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:16,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:16,Dr.:邱炳燁, Type:I, Depart:R3
+Date:16,Dr.:張書豪, Type:W1, Depart:R1
+Date:16,Dr.:李杰明, Type:W2, Depart:PGY
+Date:17,Dr.:黃挺碩, Type:CT2, Depart:GS
+Date:17,Dr.:簡志穎, Type:T1, Depart:GS
+Date:17,Dr.:王耀章, Type:CV, Depart:CVS
+Date:17,Dr.:陳子平, Type:L, Depart:CVS
+Date:17,Dr.:廖黃逸, Type:C, Depart:NS
+Date:17,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:17,Dr.:林政鋒, Type:CCD, Depart:URO 
+Date:17,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:17,Dr.:曾文科, Type:C, Depart: PROCT
+Date:17,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:17,Dr.:, Type:林政鋒, Depart:ICU 專責
+Date:17,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:17,Dr.:何哲方, Type:W1, Depart:PGY
+Date:17,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:18,Dr.:李春輝, Type:T1, Depart:GS
+Date:18,Dr.:陳義展, Type:CT2, Depart:GS
+Date:18,Dr.:王耀章, Type:CV, Depart:CVS
+Date:18,Dr.:陳子平, Type:L, Depart:CVS
+Date:18,Dr.:鄭運聰, Type:C, Depart:NS
+Date:18,Dr.:潘俊豪, Type:C2, Depart:PLAST
+Date:18,Dr.:蔡嘉軒, Type:羅, Depart:PLAST
+Date:18,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:18,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:18,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:18,Dr.:范仲維, Type:C, Depart: PROCT
+Date:18,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:18,Dr.:陳彥志, Type:CD, Depart:R4
+Date:18,Dr.:范揚欣, Type:I, Depart:R2
+Date:18,Dr.:余運軒, Type:W1, Depart:PGY
+Date:18,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:19,Dr.:江坤俊, Type:C, Depart:GS
+Date:19,Dr.:簡志穎, Type:T1, Depart:GS
+Date:19,Dr.:王耀章, Type:CV, Depart:CVS
+Date:19,Dr.:陳子平, Type:L, Depart:CVS
+Date:19,Dr.:尹順盈, Type:T2, Depart:CVS
+Date:19,Dr.:鄭運聰, Type:C, Depart:NS
+Date:19,Dr.:余德毅, Type:C, Depart:PLAST
+Date:19,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:19,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:19,Dr.:曾文科, Type:C, Depart: PROCT
+Date:19,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:19,Dr.:黃子晏, Type:CD, Depart:R4
+Date:19,Dr.:邱炳燁, Type:I, Depart:R3
+Date:19,Dr.:張書豪, Type:W1, Depart:R1
+Date:19,Dr.:李杰明, Type:W2, Depart:PGY
+Date:20,Dr.:陳育賢, Type:CT, Depart:GS
+Date:20,Dr.:王耀章, Type:CV, Depart:CVS
+Date:20,Dr.:陳子平, Type:L, Depart:CVS
+Date:20,Dr.:陳先志, Type:C, Depart:NS
+Date:20,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:20,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:20,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:20,Dr.:曾文科, Type:C, Depart: PROCT
+Date:20,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:20,Dr.:陳彥志, Type:CD, Depart:R4
+Date:20,Dr.:郭令偉, Type:I, Depart:R3
+Date:20,Dr.:張浩于, Type:W1, Depart:R1
+Date:20,Dr.:何哲方, Type:W2, Depart:PGY
+Date:21,Dr.:黃挺碩, Type:C, Depart:GS
+Date:21,Dr.:王耀章, Type:CV, Depart:CVS
+Date:21,Dr.:陳子平, Type:L, Depart:CVS
+Date:21,Dr.:陳先志, Type:C, Depart:NS
+Date:21,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:21,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:21,Dr.:陳建豪, Type:CT, Depart:ORTHO
+Date:21,Dr.:曾文科, Type:C, Depart: PROCT
+Date:21,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:21,Dr.:黃子晏, Type:CD, Depart:R4
+Date:21,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:21,Dr.:張書豪, Type:W1, Depart:R1
+Date:21,Dr.:余運軒, Type:W2, Depart:PGY
+Date:22,Dr.:陳義展, Type:CCD, Depart:GS
+Date:22,Dr.:簡志穎, Type:T1, Depart:GS
+Date:22,Dr.:王耀章, Type:CV, Depart:CVS
+Date:22,Dr.:陳子平, Type:L, Depart:CVS
+Date:22,Dr.:陳先志, Type:C, Depart:NS
+Date:22,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:22,Dr.:林承家, Type:C, Depart:URO 
+Date:22,Dr.:游重銘, Type:CT2, Depart:ORTHO
+Date:22,Dr.:曾文科, Type:C, Depart: PROCT
+Date:22,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:22,Dr.:, Type:陳義展, Depart:ICU 專責
+Date:22,Dr.:范揚欣, Type:I, Depart:R2
+Date:22,Dr.:李杰明, Type:W2, Depart:PGY
+Date:22,Dr.:廖育唯, Type:W1, Depart:PGY
+Date:23,Dr.:李春輝, Type:C, Depart:GS
+Date:23,Dr.:陳育賢, Type:T1, Depart:GS
+Date:23,Dr.:王耀章, Type:CV, Depart:CVS
+Date:23,Dr.:陳子平, Type:L, Depart:CVS
+Date:23,Dr.:尹順盈, Type:T2, Depart:CVS
+Date:23,Dr.:鄭運聰, Type:C, Depart:NS
+Date:23,Dr.:謝宇軒, Type:C, Depart:PLAST
+Date:23,Dr.:林承家, Type:C, Depart:URO 
+Date:23,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:23,Dr.:范仲維, Type:C, Depart: PROCT
+Date:23,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:23,Dr.:陳彥志, Type:CD, Depart:R4
+Date:23,Dr.:邱炳燁, Type:I, Depart:R3
+Date:23,Dr.:張浩于, Type:W1, Depart:R1
+Date:23,Dr.:余運軒, Type:W2, Depart:PGY
+Date:24,Dr.:黃挺碩, Type:CT2, Depart:GS
+Date:24,Dr.:王耀章, Type:CV, Depart:CVS
+Date:24,Dr.:陳子平, Type:L, Depart:CVS
+Date:24,Dr.:廖黃逸, Type:C, Depart:NS
+Date:24,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:24,Dr.:謝宇軒, Type:T1, Depart:PLAST
+Date:24,Dr.:林承家, Type:C, Depart:URO 
+Date:24,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:24,Dr.:曾文科, Type:C, Depart: PROCT
+Date:24,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:24,Dr.:黃子晏, Type:CD, Depart:R4
+Date:24,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:24,Dr.:何哲方, Type:W2, Depart:PGY
+Date:24,Dr.:陳琬瑄, Type:W1, Depart:PGY
+Date:25,Dr.:宋睿祥, Type:CT2, Depart:GS
+Date:25,Dr.:陳育賢, Type:T1, Depart:GS
+Date:25,Dr.:王耀章, Type:CV, Depart:CVS
+Date:25,Dr.:陳子平, Type:L, Depart:CVS
+Date:25,Dr.:廖黃逸, Type:C, Depart:NS
+Date:25,Dr.:陳建宗, Type:C2, Depart:NS
+Date:25,Dr.:謝宇軒, Type:羅, Depart:PLAST
+Date:25,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:25,Dr.:林承家, Type:C, Depart:URO 
+Date:25,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:25,Dr.:范仲維, Type:C, Depart: PROCT
+Date:25,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:25,Dr.:陳彥志, Type:CD, Depart:R4
+Date:25,Dr.:郭令偉, Type:I, Depart:R3
+Date:25,Dr.:張書豪, Type:W1, Depart:R1
+Date:25,Dr.:余運軒, Type: , Depart:PGY
+Date:25,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:26,Dr.:宋睿祥, Type:C, Depart:GS
+Date:26,Dr.:陳育賢, Type:T1, Depart:GS
+Date:26,Dr.:王耀章, Type:CV, Depart:CVS
+Date:26,Dr.:陳子平, Type:L, Depart:CVS
+Date:26,Dr.:鄭運聰, Type:C, Depart:NS
+Date:26,Dr.:余德毅, Type:CT2, Depart:PLAST
+Date:26,Dr.:林承家, Type:C, Depart:URO 
+Date:26,Dr.:陳建豪, Type:CCD, Depart:ORTHO
+Date:26,Dr.:曾文科, Type:C, Depart: PROCT
+Date:26,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:26,Dr.:, Type:陳建豪, Depart:ICU 專責
+Date:26,Dr.:范揚欣, Type:I, Depart:R2
+Date:26,Dr.:何哲方, Type:W1, Depart:PGY
+Date:26,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:27,Dr.:李春輝, Type:CT, Depart:GS
+Date:27,Dr.:王耀章, Type:CV, Depart:CVS
+Date:27,Dr.:陳子平, Type:L, Depart:CVS
+Date:27,Dr.:廖黃逸, Type:C, Depart:NS
+Date:27,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:27,Dr.:謝宇軒, Type:支援廈門
+, Depart:PLAST
+Date:27,Dr.:林承家, Type:C, Depart:URO 
+Date:27,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:27,Dr.:范仲維, Type:C, Depart: PROCT
+Date:27,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:27,Dr.:黃子晏, Type:CD, Depart:R4
+Date:27,Dr.:邱炳燁, Type:I, Depart:R3
+Date:27,Dr.:余運軒, Type:W1, Depart:PGY
+Date:27,Dr.:李杰明, Type:W2, Depart:PGY
+Date:28,Dr.:江坤俊, Type:C, Depart:GS
+Date:28,Dr.:王耀章, Type:C, Depart:CVS
+Date:28,Dr.:黃品富, Type:VT, Depart:CVS
+Date:28,Dr.:陳子平, Type:L, Depart:CVS
+Date:28,Dr.:廖黃逸, Type:C, Depart:NS
+Date:28,Dr.:潘俊豪, Type:C2, Depart:PLAST
+Date:28,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:28,Dr.:林承家, Type:C, Depart:URO 
+Date:28,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:28,Dr.:范仲維, Type:C, Depart: PROCT
+Date:28,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:28,Dr.:, Type:葉亘耕, Depart:ICU 專責
+Date:28,Dr.:郭令偉, Type:I, Depart:R3
+Date:28,Dr.:張浩于, Type:W1, Depart:R1
+Date:28,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:29,Dr.:簡志穎, Type:T1, Depart:GS
+Date:29,Dr.:陳育賢, Type:C, Depart:GS
+Date:29,Dr.:王耀章, Type:CV, Depart:CVS
+Date:29,Dr.:陳子平, Type:L, Depart:CVS
+Date:29,Dr.:昝文清, Type:C, Depart:NS
+Date:29,Dr.:蔡嘉軒, Type:CT2, Depart:PLAST
+Date:29,Dr.:吳俊德, Type:C, Depart:URO 
+Date:29,Dr.:蘇君毅, Type:C, Depart:ORTHO
+Date:29,Dr.:曾文科, Type:C, Depart: PROCT
+Date:29,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:29,Dr.:陳彥志, Type:CD, Depart:R4
+Date:29,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:29,Dr.:何哲方, Type:W2, Depart:PGY
+Date:29,Dr.:陳琬瑄, Type:W1, Depart:PGY
+Date:30,Dr.:簡志穎, Type:C, Depart:GS
+Date:30,Dr.:陳育賢, Type:T1, Depart:GS
+Date:30,Dr.:王耀章, Type:CV, Depart:CVS
+Date:30,Dr.:陳子平, Type:L, Depart:CVS
+Date:30,Dr.:廖黃逸, Type:C, Depart:NS
+Date:30,Dr.:余德毅, Type:C, Depart:PLAST
+Date:30,Dr.:吳俊德, Type:C, Depart:URO 
+Date:30,Dr.:游重銘, Type:CT2, Depart:ORTHO
+Date:30,Dr.:范仲維, Type:C, Depart: PROCT
+Date:30,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:30,Dr.:黃子晏, Type:CD, Depart:R4
+Date:30,Dr.:范揚欣, Type:I, Depart:R2
+Date:30,Dr.:余運軒, Type:W2, Depart:PGY
+Date:30,Dr.:李杰明, Type:W1, Depart:PGY
+Date:3,Dr.:黃挺碩, Type:T1, Depart:GS
+Date:3,Dr.:陳育賢, Type:CT2, Depart:GS
+Date:3,Dr.:葉集孝, Type:C, Depart:CVS
+Date:3,Dr.:黃品富, Type:V, Depart:CVS
+Date:3,Dr.:尹順盈, Type:L, Depart:CVS
+Date:3,Dr.:鄭運聰, Type:C, Depart:NS
+Date:3,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:3,Dr.:吳俊德, Type:C, Depart:URO 
+Date:3,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:3,Dr.:曾文科, Type:C, Depart: PROCT
+Date:3,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:3,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:3,Dr.:邱炳燁, Type:I, Depart:R3
+Date:3,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:3,Dr.:余運軒, Type:W2, Depart:PGY
+Date:4,Dr.:李春輝, Type:CT2, Depart:GS
+Date:4,Dr.:宋睿祥, Type:T1, Depart:GS
+Date:4,Dr.:葉集孝, Type:C, Depart:CVS
+Date:4,Dr.:黃品富, Type:V, Depart:CVS
+Date:4,Dr.:尹順盈, Type:L, Depart:CVS
+Date:4,Dr.:陳先志, Type:C, Depart:NS
+Date:4,Dr.:陳建宗, Type:C2, Depart:NS
+Date:4,Dr.:蔡嘉軒, Type:羅, Depart:PLAST
+Date:4,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:4,Dr.:吳俊德, Type:C, Depart:URO 
+Date:4,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:4,Dr.:范仲維, Type:C, Depart: PROCT
+Date:4,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:4,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:4,Dr.:郭令偉, Type:I, Depart:R3
+Date:4,Dr.:張書豪, Type:W1, Depart:R1
+Date:4,Dr.:何哲方, Type:W2, Depart:PGY
+Date:5,Dr.:簡志穎, Type:T1, Depart:GS
+Date:5,Dr.:陳育賢, Type:C, Depart:GS
+Date:5,Dr.:葉集孝, Type:C, Depart:CVS
+Date:5,Dr.:黃品富, Type:V, Depart:CVS
+Date:5,Dr.:尹順盈, Type:L, Depart:CVS
+Date:5,Dr.:昝文清, Type:C, Depart:NS
+Date:5,Dr.:余德毅, Type:CT2, Depart:PLAST
+Date:5,Dr.:吳俊德, Type:C, Depart:URO 
+Date:5,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:5,Dr.:曾文科, Type:C, Depart: PROCT
+Date:5,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:5,Dr.:陳彥志, Type:CD, Depart:R4
+Date:5,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:5,Dr.:張浩于, Type:W1, Depart:R1
+Date:5,Dr.:李杰明, Type:W2, Depart:PGY
+Date:6,Dr.:江坤俊, Type:C, Depart:GS
+Date:6,Dr.:葉集孝, Type:C, Depart:CVS
+Date:6,Dr.:黃品富, Type:V, Depart:CVS
+Date:6,Dr.:尹順盈, Type:L, Depart:CVS
+Date:6,Dr.:昝文清, Type:C, Depart:NS
+Date:6,Dr.:余德毅, Type:CT, Depart:PLAST
+Date:6,Dr.:吳俊德, Type:C, Depart:URO 
+Date:6,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:6,Dr.:陳磊晏, Type:CD, Depart:ORTHO
+Date:6,Dr.:曾文科, Type:C, Depart: PROCT
+Date:6,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:6,Dr.:, Type:陳磊晏, Depart:ICU 專責
+Date:6,Dr.:范揚欣, Type:I, Depart:R2
+Date:6,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:6,Dr.:廖育唯, Type:W1, Depart:PGY
+Date:7,Dr.:宋睿祥, Type:C, Depart:GS
+Date:7,Dr.:葉集孝, Type:C, Depart:CVS
+Date:7,Dr.:王耀章, Type:V, Depart:CVS
+Date:7,Dr.:尹順盈, Type:L, Depart:CVS
+Date:7,Dr.:昝文清, Type:C, Depart:NS
+Date:7,Dr.:蔡嘉軒, Type:CT, Depart:PLAST
+Date:7,Dr.:吳俊德, Type:C, Depart:URO 
+Date:7,Dr.:劉獻道, Type:C, Depart:ORTHO
+Date:7,Dr.:曾文科, Type:C, Depart: PROCT
+Date:7,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:7,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:7,Dr.:邱炳燁, Type:I, Depart:R3
+Date:7,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:7,Dr.:何哲方, Type:W2, Depart:PGY
+Date:8,Dr.:卓世川, Type:C, Depart:GS
+Date:8,Dr.:簡志穎, Type:T1, Depart:GS
+Date:8,Dr.:葉集孝, Type:C, Depart:CVS
+Date:8,Dr.:黃品富, Type:V, Depart:CVS
+Date:8,Dr.:尹順盈, Type:L, Depart:CVS
+Date:8,Dr.:陳先志, Type:C, Depart:NS
+Date:8,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:8,Dr.:林政鋒, Type:C, Depart:URO 
+Date:8,Dr.:蘇君毅, Type:C, Depart:ORTHO
+Date:8,Dr.:陳建豪, Type:T2, Depart:ORTHO
+Date:8,Dr.:曾文科, Type:C, Depart: PROCT
+Date:8,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:8,Dr.:黃子晏, Type:CD, Depart:R4
+Date:8,Dr.:郭令偉, Type:I, Depart:R3
+Date:8,Dr.:張浩于, Type:W1, Depart:R1
+Date:8,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:9,Dr.:宋睿祥, Type:CT2, Depart:GS
+Date:9,Dr.:陳育賢, Type:T1, Depart:GS
+Date:9,Dr.:葉集孝, Type:C, Depart:CVS
+Date:9,Dr.:黃品富, Type:V, Depart:CVS
+Date:9,Dr.:尹順盈, Type:L, Depart:CVS
+Date:9,Dr.:鄭運聰, Type:C, Depart:NS
+Date:9,Dr.:蔡嘉軒, Type:C2, Depart:PLAST
+Date:9,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:9,Dr.:林政鋒, Type:C, Depart:URO 
+Date:9,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:9,Dr.:陳磊晏, Type:CD, Depart:ORTHO
+Date:9,Dr.:范仲維, Type:C, Depart: PROCT
+Date:9,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:9,Dr.:, Type:陳磊晏, Depart:ICU 專責
+Date:9,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:9,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:9,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:10,Dr.:簡志穎, Type:T1, Depart:GS
+Date:10,Dr.:陳育賢, Type:C, Depart:GS
+Date:10,Dr.:葉集孝, Type:C, Depart:CVS
+Date:10,Dr.:黃品富, Type:VT2, Depart:CVS
+Date:10,Dr.:尹順盈, Type:L, Depart:CVS
+Date:10,Dr.:鄭運聰, Type:C, Depart:NS
+Date:10,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:10,Dr.:林政鋒, Type:C, Depart:URO 
+Date:10,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:10,Dr.:曾文科, Type:C, Depart: PROCT
+Date:10,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:10,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:10,Dr.:邱炳燁, Type:I, Depart:R3
+Date:10,Dr.:張書豪, Type:W1, Depart:R1
+Date:10,Dr.:何哲方, Type:W2, Depart:PGY
+Date:11,Dr.:李春輝, Type:CT2, Depart:GS
+Date:11,Dr.:葉集孝, Type:C, Depart:CVS
+Date:11,Dr.:黃品富, Type:V, Depart:CVS
+Date:11,Dr.:尹順盈, Type:L, Depart:CVS
+Date:11,Dr.:廖黃逸, Type:C, Depart:NS
+Date:11,Dr.:陳建宗, Type:C2, Depart:NS
+Date:11,Dr.:蔡嘉軒, Type:T1, Depart:PLAST
+Date:11,Dr.:余德毅, Type:羅, Depart:PLAST
+Date:11,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:11,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:11,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:11,Dr.:范仲維, Type:C, Depart: PROCT
+Date:11,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:11,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:11,Dr.:范揚欣, Type:I, Depart:R2
+Date:11,Dr.:張浩于, Type:W1, Depart:R1
+Date:11,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:12,Dr.:簡志穎, Type:C, Depart:GS
+Date:12,Dr.:陳育賢, Type:T1, Depart:GS
+Date:12,Dr.:葉集孝, Type:C, Depart:CVS
+Date:12,Dr.:黃品富, Type:V, Depart:CVS
+Date:12,Dr.:尹順盈, Type:L, Depart:CVS
+Date:12,Dr.:廖黃逸, Type:C, Depart:NS
+Date:12,Dr.:余德毅, Type:CT2, Depart:PLAST
+Date:12,Dr.:林政鋒, Type:C, Depart:URO 
+Date:12,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:12,Dr.:曾文科, Type:C, Depart: PROCT
+Date:12,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:12,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:12,Dr.:郭令偉, Type:I, Depart:R3
+Date:12,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:12,Dr.:余運軒, Type:W2, Depart:PGY
+Date:13,Dr.:簡志穎, Type:CT, Depart:GS
+Date:13,Dr.:葉集孝, Type:C, Depart:CVS
+Date:13,Dr.:黃品富, Type:V, Depart:CVS
+Date:13,Dr.:尹順盈, Type:L, Depart:CVS
+Date:13,Dr.:鄭運聰, Type:C, Depart:NS
+Date:13,Dr.:余德毅, Type:C, Depart:PLAST
+Date:13,Dr.:林政鋒, Type:C, Depart:URO 
+Date:13,Dr.:劉獻道, Type:C, Depart:ORTHO
+Date:13,Dr.:范仲維, Type:C, Depart: PROCT
+Date:13,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:13,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:13,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:13,Dr.:張書豪, Type:W, Depart:R1
+Date:14,Dr.:陳義展, Type:C, Depart:GS
+Date:14,Dr.:葉集孝, Type:C, Depart:CVS
+Date:14,Dr.:黃品富, Type:V, Depart:CVS
+Date:14,Dr.:尹順盈, Type:LT, Depart:CVS
+Date:14,Dr.:鄭運聰, Type:C, Depart:NS
+Date:14,Dr.:余德毅, Type:C, Depart:PLAST
+Date:14,Dr.:林政鋒, Type:C, Depart:URO 
+Date:14,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:14,Dr.:范仲維, Type:C, Depart: PROCT
+Date:14,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:14,Dr.:陳彥志, Type:CD, Depart:R4
+Date:14,Dr.:范揚欣, Type:I, Depart:R2
+Date:14,Dr.:李杰明, Type:W1, Depart:PGY
+Date:14,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:15,Dr.:卓世川, Type:C, Depart:GS
+Date:15,Dr.:李春輝, Type:T1, Depart:GS
+Date:15,Dr.:葉集孝, Type:C, Depart:CVS
+Date:15,Dr.:黃品富, Type:V, Depart:CVS
+Date:15,Dr.:尹順盈, Type:L, Depart:CVS
+Date:15,Dr.:陳先志, Type:CD, Depart:NS
+Date:15,Dr.:蔡嘉軒, Type:CT2, Depart:PLAST
+Date:15,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:15,Dr.:蘇君毅, Type:C, Depart:ORTHO
+Date:15,Dr.:曾文科, Type:C, Depart: PROCT
+Date:15,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:15,Dr.:, Type:陳先志, Depart:ICU 專責
+Date:15,Dr.:郭令偉, Type:I, Depart:R3
+Date:15,Dr.:張浩于, Type:W1, Depart:R1
+Date:15,Dr.:余運軒, Type:W2, Depart:PGY
+Date:16,Dr.:黃挺碩, Type:C, Depart:GS
+Date:16,Dr.:王耀章, Type:CV, Depart:CVS
+Date:16,Dr.:黃品富, Type:T2, Depart:CVS
+Date:16,Dr.:陳子平, Type:L, Depart:CVS
+Date:16,Dr.:廖黃逸, Type:C, Depart:NS
+Date:16,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:16,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:16,Dr.:游重銘, Type:CT1, Depart:ORTHO
+Date:16,Dr.:范仲維, Type:C, Depart: PROCT
+Date:16,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:16,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:16,Dr.:邱炳燁, Type:I, Depart:R3
+Date:16,Dr.:張書豪, Type:W1, Depart:R1
+Date:16,Dr.:李杰明, Type:W2, Depart:PGY
+Date:17,Dr.:黃挺碩, Type:CT2, Depart:GS
+Date:17,Dr.:簡志穎, Type:T1, Depart:GS
+Date:17,Dr.:王耀章, Type:CV, Depart:CVS
+Date:17,Dr.:陳子平, Type:L, Depart:CVS
+Date:17,Dr.:廖黃逸, Type:C, Depart:NS
+Date:17,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:17,Dr.:林政鋒, Type:CCD, Depart:URO 
+Date:17,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:17,Dr.:曾文科, Type:C, Depart: PROCT
+Date:17,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:17,Dr.:, Type:林政鋒, Depart:ICU 專責
+Date:17,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:17,Dr.:何哲方, Type:W1, Depart:PGY
+Date:17,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:18,Dr.:李春輝, Type:T1, Depart:GS
+Date:18,Dr.:陳義展, Type:CT2, Depart:GS
+Date:18,Dr.:王耀章, Type:CV, Depart:CVS
+Date:18,Dr.:陳子平, Type:L, Depart:CVS
+Date:18,Dr.:鄭運聰, Type:C, Depart:NS
+Date:18,Dr.:潘俊豪, Type:C2, Depart:PLAST
+Date:18,Dr.:蔡嘉軒, Type:羅, Depart:PLAST
+Date:18,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:18,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:18,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:18,Dr.:范仲維, Type:C, Depart: PROCT
+Date:18,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:18,Dr.:陳彥志, Type:CD, Depart:R4
+Date:18,Dr.:范揚欣, Type:I, Depart:R2
+Date:18,Dr.:余運軒, Type:W1, Depart:PGY
+Date:18,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:19,Dr.:江坤俊, Type:C, Depart:GS
+Date:19,Dr.:簡志穎, Type:T1, Depart:GS
+Date:19,Dr.:王耀章, Type:CV, Depart:CVS
+Date:19,Dr.:陳子平, Type:L, Depart:CVS
+Date:19,Dr.:尹順盈, Type:T2, Depart:CVS
+Date:19,Dr.:鄭運聰, Type:C, Depart:NS
+Date:19,Dr.:余德毅, Type:C, Depart:PLAST
+Date:19,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:19,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:19,Dr.:曾文科, Type:C, Depart: PROCT
+Date:19,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:19,Dr.:黃子晏, Type:CD, Depart:R4
+Date:19,Dr.:邱炳燁, Type:I, Depart:R3
+Date:19,Dr.:張書豪, Type:W1, Depart:R1
+Date:19,Dr.:李杰明, Type:W2, Depart:PGY
+Date:20,Dr.:陳育賢, Type:CT, Depart:GS
+Date:20,Dr.:王耀章, Type:CV, Depart:CVS
+Date:20,Dr.:陳子平, Type:L, Depart:CVS
+Date:20,Dr.:陳先志, Type:C, Depart:NS
+Date:20,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:20,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:20,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:20,Dr.:曾文科, Type:C, Depart: PROCT
+Date:20,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:20,Dr.:陳彥志, Type:CD, Depart:R4
+Date:20,Dr.:郭令偉, Type:I, Depart:R3
+Date:20,Dr.:張浩于, Type:W1, Depart:R1
+Date:20,Dr.:何哲方, Type:W2, Depart:PGY
+Date:21,Dr.:黃挺碩, Type:C, Depart:GS
+Date:21,Dr.:王耀章, Type:CV, Depart:CVS
+Date:21,Dr.:陳子平, Type:L, Depart:CVS
+Date:21,Dr.:陳先志, Type:C, Depart:NS
+Date:21,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:21,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:21,Dr.:陳建豪, Type:CT, Depart:ORTHO
+Date:21,Dr.:曾文科, Type:C, Depart: PROCT
+Date:21,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:21,Dr.:黃子晏, Type:CD, Depart:R4
+Date:21,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:21,Dr.:張書豪, Type:W1, Depart:R1
+Date:21,Dr.:余運軒, Type:W2, Depart:PGY
+Date:22,Dr.:陳義展, Type:CCD, Depart:GS
+Date:22,Dr.:簡志穎, Type:T1, Depart:GS
+Date:22,Dr.:王耀章, Type:CV, Depart:CVS
+Date:22,Dr.:陳子平, Type:L, Depart:CVS
+Date:22,Dr.:陳先志, Type:C, Depart:NS
+Date:22,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:22,Dr.:林承家, Type:C, Depart:URO 
+Date:22,Dr.:游重銘, Type:CT2, Depart:ORTHO
+Date:22,Dr.:曾文科, Type:C, Depart: PROCT
+Date:22,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:22,Dr.:, Type:陳義展, Depart:ICU 專責
+Date:22,Dr.:范揚欣, Type:I, Depart:R2
+Date:22,Dr.:李杰明, Type:W2, Depart:PGY
+Date:22,Dr.:廖育唯, Type:W1, Depart:PGY
+Date:23,Dr.:李春輝, Type:C, Depart:GS
+Date:23,Dr.:陳育賢, Type:T1, Depart:GS
+Date:23,Dr.:王耀章, Type:CV, Depart:CVS
+Date:23,Dr.:陳子平, Type:L, Depart:CVS
+Date:23,Dr.:尹順盈, Type:T2, Depart:CVS
+Date:23,Dr.:鄭運聰, Type:C, Depart:NS
+Date:23,Dr.:謝宇軒, Type:C, Depart:PLAST
+Date:23,Dr.:林承家, Type:C, Depart:URO 
+Date:23,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:23,Dr.:范仲維, Type:C, Depart: PROCT
+Date:23,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:23,Dr.:陳彥志, Type:CD, Depart:R4
+Date:23,Dr.:邱炳燁, Type:I, Depart:R3
+Date:23,Dr.:張浩于, Type:W1, Depart:R1
+Date:23,Dr.:余運軒, Type:W2, Depart:PGY
+Date:24,Dr.:黃挺碩, Type:CT2, Depart:GS
+Date:24,Dr.:王耀章, Type:CV, Depart:CVS
+Date:24,Dr.:陳子平, Type:L, Depart:CVS
+Date:24,Dr.:廖黃逸, Type:C, Depart:NS
+Date:24,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:24,Dr.:謝宇軒, Type:T1, Depart:PLAST
+Date:24,Dr.:林承家, Type:C, Depart:URO 
+Date:24,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:24,Dr.:曾文科, Type:C, Depart: PROCT
+Date:24,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:24,Dr.:黃子晏, Type:CD, Depart:R4
+Date:24,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:24,Dr.:何哲方, Type:W2, Depart:PGY
+Date:24,Dr.:陳琬瑄, Type:W1, Depart:PGY
+Date:25,Dr.:宋睿祥, Type:CT2, Depart:GS
+Date:25,Dr.:陳育賢, Type:T1, Depart:GS
+Date:25,Dr.:王耀章, Type:CV, Depart:CVS
+Date:25,Dr.:陳子平, Type:L, Depart:CVS
+Date:25,Dr.:廖黃逸, Type:C, Depart:NS
+Date:25,Dr.:陳建宗, Type:C2, Depart:NS
+Date:25,Dr.:謝宇軒, Type:羅, Depart:PLAST
+Date:25,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:25,Dr.:林承家, Type:C, Depart:URO 
+Date:25,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:25,Dr.:范仲維, Type:C, Depart: PROCT
+Date:25,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:25,Dr.:陳彥志, Type:CD, Depart:R4
+Date:25,Dr.:郭令偉, Type:I, Depart:R3
+Date:25,Dr.:張書豪, Type:W1, Depart:R1
+Date:25,Dr.:余運軒, Type: , Depart:PGY
+Date:25,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:26,Dr.:宋睿祥, Type:C, Depart:GS
+Date:26,Dr.:陳育賢, Type:T1, Depart:GS
+Date:26,Dr.:王耀章, Type:CV, Depart:CVS
+Date:26,Dr.:陳子平, Type:L, Depart:CVS
+Date:26,Dr.:鄭運聰, Type:C, Depart:NS
+Date:26,Dr.:余德毅, Type:CT2, Depart:PLAST
+Date:26,Dr.:林承家, Type:C, Depart:URO 
+Date:26,Dr.:陳建豪, Type:CCD, Depart:ORTHO
+Date:26,Dr.:曾文科, Type:C, Depart: PROCT
+Date:26,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:26,Dr.:, Type:陳建豪, Depart:ICU 專責
+Date:26,Dr.:范揚欣, Type:I, Depart:R2
+Date:26,Dr.:何哲方, Type:W1, Depart:PGY
+Date:26,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:27,Dr.:李春輝, Type:CT, Depart:GS
+Date:27,Dr.:王耀章, Type:CV, Depart:CVS
+Date:27,Dr.:陳子平, Type:L, Depart:CVS
+Date:27,Dr.:廖黃逸, Type:C, Depart:NS
+Date:27,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:27,Dr.:謝宇軒, Type:支援廈門
+, Depart:PLAST
+Date:27,Dr.:林承家, Type:C, Depart:URO 
+Date:27,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:27,Dr.:范仲維, Type:C, Depart: PROCT
+Date:27,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:27,Dr.:黃子晏, Type:CD, Depart:R4
+Date:27,Dr.:邱炳燁, Type:I, Depart:R3
+Date:27,Dr.:余運軒, Type:W1, Depart:PGY
+Date:27,Dr.:李杰明, Type:W2, Depart:PGY
+Date:28,Dr.:江坤俊, Type:C, Depart:GS
+Date:28,Dr.:王耀章, Type:C, Depart:CVS
+Date:28,Dr.:黃品富, Type:VT, Depart:CVS
+Date:28,Dr.:陳子平, Type:L, Depart:CVS
+Date:28,Dr.:廖黃逸, Type:C, Depart:NS
+Date:28,Dr.:潘俊豪, Type:C2, Depart:PLAST
+Date:28,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:28,Dr.:林承家, Type:C, Depart:URO 
+Date:28,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:28,Dr.:范仲維, Type:C, Depart: PROCT
+Date:28,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:28,Dr.:, Type:葉亘耕, Depart:ICU 專責
+Date:28,Dr.:郭令偉, Type:I, Depart:R3
+Date:28,Dr.:張浩于, Type:W1, Depart:R1
+Date:28,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:29,Dr.:簡志穎, Type:T1, Depart:GS
+Date:29,Dr.:陳育賢, Type:C, Depart:GS
+Date:29,Dr.:王耀章, Type:CV, Depart:CVS
+Date:29,Dr.:陳子平, Type:L, Depart:CVS
+Date:29,Dr.:昝文清, Type:C, Depart:NS
+Date:29,Dr.:蔡嘉軒, Type:CT2, Depart:PLAST
+Date:29,Dr.:吳俊德, Type:C, Depart:URO 
+Date:29,Dr.:蘇君毅, Type:C, Depart:ORTHO
+Date:29,Dr.:曾文科, Type:C, Depart: PROCT
+Date:29,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:29,Dr.:陳彥志, Type:CD, Depart:R4
+Date:29,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:29,Dr.:何哲方, Type:W2, Depart:PGY
+Date:29,Dr.:陳琬瑄, Type:W1, Depart:PGY
+Date:30,Dr.:簡志穎, Type:C, Depart:GS
+Date:30,Dr.:陳育賢, Type:T1, Depart:GS
+Date:30,Dr.:王耀章, Type:CV, Depart:CVS
+Date:30,Dr.:陳子平, Type:L, Depart:CVS
+Date:30,Dr.:廖黃逸, Type:C, Depart:NS
+Date:30,Dr.:余德毅, Type:C, Depart:PLAST
+Date:30,Dr.:吳俊德, Type:C, Depart:URO 
+Date:30,Dr.:游重銘, Type:CT2, Depart:ORTHO
+Date:30,Dr.:范仲維, Type:C, Depart: PROCT
+Date:30,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:30,Dr.:黃子晏, Type:CD, Depart:R4
+Date:30,Dr.:范揚欣, Type:I, Depart:R2
+Date:30,Dr.:余運軒, Type:W2, Depart:PGY
+Date:30,Dr.:李杰明, Type:W1, Depart:PGY
+Date:3,Dr.:黃挺碩, Type:T1, Depart:GS
+Date:3,Dr.:陳育賢, Type:CT2, Depart:GS
+Date:3,Dr.:葉集孝, Type:C, Depart:CVS
+Date:3,Dr.:黃品富, Type:V, Depart:CVS
+Date:3,Dr.:尹順盈, Type:L, Depart:CVS
+Date:3,Dr.:鄭運聰, Type:C, Depart:NS
+Date:3,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:3,Dr.:吳俊德, Type:C, Depart:URO 
+Date:3,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:3,Dr.:曾文科, Type:C, Depart: PROCT
+Date:3,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:3,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:3,Dr.:邱炳燁, Type:I, Depart:R3
+Date:3,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:3,Dr.:余運軒, Type:W2, Depart:PGY
+Date:4,Dr.:李春輝, Type:CT2, Depart:GS
+Date:4,Dr.:宋睿祥, Type:T1, Depart:GS
+Date:4,Dr.:葉集孝, Type:C, Depart:CVS
+Date:4,Dr.:黃品富, Type:V, Depart:CVS
+Date:4,Dr.:尹順盈, Type:L, Depart:CVS
+Date:4,Dr.:陳先志, Type:C, Depart:NS
+Date:4,Dr.:陳建宗, Type:C2, Depart:NS
+Date:4,Dr.:蔡嘉軒, Type:羅, Depart:PLAST
+Date:4,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:4,Dr.:吳俊德, Type:C, Depart:URO 
+Date:4,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:4,Dr.:范仲維, Type:C, Depart: PROCT
+Date:4,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:4,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:4,Dr.:郭令偉, Type:I, Depart:R3
+Date:4,Dr.:張書豪, Type:W1, Depart:R1
+Date:4,Dr.:何哲方, Type:W2, Depart:PGY
+Date:5,Dr.:簡志穎, Type:T1, Depart:GS
+Date:5,Dr.:陳育賢, Type:C, Depart:GS
+Date:5,Dr.:葉集孝, Type:C, Depart:CVS
+Date:5,Dr.:黃品富, Type:V, Depart:CVS
+Date:5,Dr.:尹順盈, Type:L, Depart:CVS
+Date:5,Dr.:昝文清, Type:C, Depart:NS
+Date:5,Dr.:余德毅, Type:CT2, Depart:PLAST
+Date:5,Dr.:吳俊德, Type:C, Depart:URO 
+Date:5,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:5,Dr.:曾文科, Type:C, Depart: PROCT
+Date:5,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:5,Dr.:陳彥志, Type:CD, Depart:R4
+Date:5,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:5,Dr.:張浩于, Type:W1, Depart:R1
+Date:5,Dr.:李杰明, Type:W2, Depart:PGY
+Date:6,Dr.:江坤俊, Type:C, Depart:GS
+Date:6,Dr.:葉集孝, Type:C, Depart:CVS
+Date:6,Dr.:黃品富, Type:V, Depart:CVS
+Date:6,Dr.:尹順盈, Type:L, Depart:CVS
+Date:6,Dr.:昝文清, Type:C, Depart:NS
+Date:6,Dr.:余德毅, Type:CT, Depart:PLAST
+Date:6,Dr.:吳俊德, Type:C, Depart:URO 
+Date:6,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:6,Dr.:陳磊晏, Type:CD, Depart:ORTHO
+Date:6,Dr.:曾文科, Type:C, Depart: PROCT
+Date:6,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:6,Dr.:, Type:陳磊晏, Depart:ICU 專責
+Date:6,Dr.:范揚欣, Type:I, Depart:R2
+Date:6,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:6,Dr.:廖育唯, Type:W1, Depart:PGY
+Date:7,Dr.:宋睿祥, Type:C, Depart:GS
+Date:7,Dr.:葉集孝, Type:C, Depart:CVS
+Date:7,Dr.:王耀章, Type:V, Depart:CVS
+Date:7,Dr.:尹順盈, Type:L, Depart:CVS
+Date:7,Dr.:昝文清, Type:C, Depart:NS
+Date:7,Dr.:蔡嘉軒, Type:CT, Depart:PLAST
+Date:7,Dr.:吳俊德, Type:C, Depart:URO 
+Date:7,Dr.:劉獻道, Type:C, Depart:ORTHO
+Date:7,Dr.:曾文科, Type:C, Depart: PROCT
+Date:7,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:7,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:7,Dr.:邱炳燁, Type:I, Depart:R3
+Date:7,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:7,Dr.:何哲方, Type:W2, Depart:PGY
+Date:8,Dr.:卓世川, Type:C, Depart:GS
+Date:8,Dr.:簡志穎, Type:T1, Depart:GS
+Date:8,Dr.:葉集孝, Type:C, Depart:CVS
+Date:8,Dr.:黃品富, Type:V, Depart:CVS
+Date:8,Dr.:尹順盈, Type:L, Depart:CVS
+Date:8,Dr.:陳先志, Type:C, Depart:NS
+Date:8,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:8,Dr.:林政鋒, Type:C, Depart:URO 
+Date:8,Dr.:蘇君毅, Type:C, Depart:ORTHO
+Date:8,Dr.:陳建豪, Type:T2, Depart:ORTHO
+Date:8,Dr.:曾文科, Type:C, Depart: PROCT
+Date:8,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:8,Dr.:黃子晏, Type:CD, Depart:R4
+Date:8,Dr.:郭令偉, Type:I, Depart:R3
+Date:8,Dr.:張浩于, Type:W1, Depart:R1
+Date:8,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:9,Dr.:宋睿祥, Type:CT2, Depart:GS
+Date:9,Dr.:陳育賢, Type:T1, Depart:GS
+Date:9,Dr.:葉集孝, Type:C, Depart:CVS
+Date:9,Dr.:黃品富, Type:V, Depart:CVS
+Date:9,Dr.:尹順盈, Type:L, Depart:CVS
+Date:9,Dr.:鄭運聰, Type:C, Depart:NS
+Date:9,Dr.:蔡嘉軒, Type:C2, Depart:PLAST
+Date:9,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:9,Dr.:林政鋒, Type:C, Depart:URO 
+Date:9,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:9,Dr.:陳磊晏, Type:CD, Depart:ORTHO
+Date:9,Dr.:范仲維, Type:C, Depart: PROCT
+Date:9,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:9,Dr.:, Type:陳磊晏, Depart:ICU 專責
+Date:9,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:9,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:9,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:10,Dr.:簡志穎, Type:T1, Depart:GS
+Date:10,Dr.:陳育賢, Type:C, Depart:GS
+Date:10,Dr.:葉集孝, Type:C, Depart:CVS
+Date:10,Dr.:黃品富, Type:VT2, Depart:CVS
+Date:10,Dr.:尹順盈, Type:L, Depart:CVS
+Date:10,Dr.:鄭運聰, Type:C, Depart:NS
+Date:10,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:10,Dr.:林政鋒, Type:C, Depart:URO 
+Date:10,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:10,Dr.:曾文科, Type:C, Depart: PROCT
+Date:10,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:10,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:10,Dr.:邱炳燁, Type:I, Depart:R3
+Date:10,Dr.:張書豪, Type:W1, Depart:R1
+Date:10,Dr.:何哲方, Type:W2, Depart:PGY
+Date:11,Dr.:李春輝, Type:CT2, Depart:GS
+Date:11,Dr.:葉集孝, Type:C, Depart:CVS
+Date:11,Dr.:黃品富, Type:V, Depart:CVS
+Date:11,Dr.:尹順盈, Type:L, Depart:CVS
+Date:11,Dr.:廖黃逸, Type:C, Depart:NS
+Date:11,Dr.:陳建宗, Type:C2, Depart:NS
+Date:11,Dr.:蔡嘉軒, Type:T1, Depart:PLAST
+Date:11,Dr.:余德毅, Type:羅, Depart:PLAST
+Date:11,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:11,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:11,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:11,Dr.:范仲維, Type:C, Depart: PROCT
+Date:11,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:11,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:11,Dr.:范揚欣, Type:I, Depart:R2
+Date:11,Dr.:張浩于, Type:W1, Depart:R1
+Date:11,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:12,Dr.:簡志穎, Type:C, Depart:GS
+Date:12,Dr.:陳育賢, Type:T1, Depart:GS
+Date:12,Dr.:葉集孝, Type:C, Depart:CVS
+Date:12,Dr.:黃品富, Type:V, Depart:CVS
+Date:12,Dr.:尹順盈, Type:L, Depart:CVS
+Date:12,Dr.:廖黃逸, Type:C, Depart:NS
+Date:12,Dr.:余德毅, Type:CT2, Depart:PLAST
+Date:12,Dr.:林政鋒, Type:C, Depart:URO 
+Date:12,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:12,Dr.:曾文科, Type:C, Depart: PROCT
+Date:12,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:12,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:12,Dr.:郭令偉, Type:I, Depart:R3
+Date:12,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:12,Dr.:余運軒, Type:W2, Depart:PGY
+Date:13,Dr.:簡志穎, Type:CT, Depart:GS
+Date:13,Dr.:葉集孝, Type:C, Depart:CVS
+Date:13,Dr.:黃品富, Type:V, Depart:CVS
+Date:13,Dr.:尹順盈, Type:L, Depart:CVS
+Date:13,Dr.:鄭運聰, Type:C, Depart:NS
+Date:13,Dr.:余德毅, Type:C, Depart:PLAST
+Date:13,Dr.:林政鋒, Type:C, Depart:URO 
+Date:13,Dr.:劉獻道, Type:C, Depart:ORTHO
+Date:13,Dr.:范仲維, Type:C, Depart: PROCT
+Date:13,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:13,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:13,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:13,Dr.:張書豪, Type:W, Depart:R1
+Date:14,Dr.:陳義展, Type:C, Depart:GS
+Date:14,Dr.:葉集孝, Type:C, Depart:CVS
+Date:14,Dr.:黃品富, Type:V, Depart:CVS
+Date:14,Dr.:尹順盈, Type:LT, Depart:CVS
+Date:14,Dr.:鄭運聰, Type:C, Depart:NS
+Date:14,Dr.:余德毅, Type:C, Depart:PLAST
+Date:14,Dr.:林政鋒, Type:C, Depart:URO 
+Date:14,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:14,Dr.:范仲維, Type:C, Depart: PROCT
+Date:14,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:14,Dr.:陳彥志, Type:CD, Depart:R4
+Date:14,Dr.:范揚欣, Type:I, Depart:R2
+Date:14,Dr.:李杰明, Type:W1, Depart:PGY
+Date:14,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:15,Dr.:卓世川, Type:C, Depart:GS
+Date:15,Dr.:李春輝, Type:T1, Depart:GS
+Date:15,Dr.:葉集孝, Type:C, Depart:CVS
+Date:15,Dr.:黃品富, Type:V, Depart:CVS
+Date:15,Dr.:尹順盈, Type:L, Depart:CVS
+Date:15,Dr.:陳先志, Type:CD, Depart:NS
+Date:15,Dr.:蔡嘉軒, Type:CT2, Depart:PLAST
+Date:15,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:15,Dr.:蘇君毅, Type:C, Depart:ORTHO
+Date:15,Dr.:曾文科, Type:C, Depart: PROCT
+Date:15,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:15,Dr.:, Type:陳先志, Depart:ICU 專責
+Date:15,Dr.:郭令偉, Type:I, Depart:R3
+Date:15,Dr.:張浩于, Type:W1, Depart:R1
+Date:15,Dr.:余運軒, Type:W2, Depart:PGY
+Date:16,Dr.:黃挺碩, Type:C, Depart:GS
+Date:16,Dr.:王耀章, Type:CV, Depart:CVS
+Date:16,Dr.:黃品富, Type:T2, Depart:CVS
+Date:16,Dr.:陳子平, Type:L, Depart:CVS
+Date:16,Dr.:廖黃逸, Type:C, Depart:NS
+Date:16,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:16,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:16,Dr.:游重銘, Type:CT1, Depart:ORTHO
+Date:16,Dr.:范仲維, Type:C, Depart: PROCT
+Date:16,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:16,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:16,Dr.:邱炳燁, Type:I, Depart:R3
+Date:16,Dr.:張書豪, Type:W1, Depart:R1
+Date:16,Dr.:李杰明, Type:W2, Depart:PGY
+Date:17,Dr.:黃挺碩, Type:CT2, Depart:GS
+Date:17,Dr.:簡志穎, Type:T1, Depart:GS
+Date:17,Dr.:王耀章, Type:CV, Depart:CVS
+Date:17,Dr.:陳子平, Type:L, Depart:CVS
+Date:17,Dr.:廖黃逸, Type:C, Depart:NS
+Date:17,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:17,Dr.:林政鋒, Type:CCD, Depart:URO 
+Date:17,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:17,Dr.:曾文科, Type:C, Depart: PROCT
+Date:17,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:17,Dr.:, Type:林政鋒, Depart:ICU 專責
+Date:17,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:17,Dr.:何哲方, Type:W1, Depart:PGY
+Date:17,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:18,Dr.:李春輝, Type:T1, Depart:GS
+Date:18,Dr.:陳義展, Type:CT2, Depart:GS
+Date:18,Dr.:王耀章, Type:CV, Depart:CVS
+Date:18,Dr.:陳子平, Type:L, Depart:CVS
+Date:18,Dr.:鄭運聰, Type:C, Depart:NS
+Date:18,Dr.:潘俊豪, Type:C2, Depart:PLAST
+Date:18,Dr.:蔡嘉軒, Type:羅, Depart:PLAST
+Date:18,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:18,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:18,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:18,Dr.:范仲維, Type:C, Depart: PROCT
+Date:18,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:18,Dr.:陳彥志, Type:CD, Depart:R4
+Date:18,Dr.:范揚欣, Type:I, Depart:R2
+Date:18,Dr.:余運軒, Type:W1, Depart:PGY
+Date:18,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:19,Dr.:江坤俊, Type:C, Depart:GS
+Date:19,Dr.:簡志穎, Type:T1, Depart:GS
+Date:19,Dr.:王耀章, Type:CV, Depart:CVS
+Date:19,Dr.:陳子平, Type:L, Depart:CVS
+Date:19,Dr.:尹順盈, Type:T2, Depart:CVS
+Date:19,Dr.:鄭運聰, Type:C, Depart:NS
+Date:19,Dr.:余德毅, Type:C, Depart:PLAST
+Date:19,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:19,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:19,Dr.:曾文科, Type:C, Depart: PROCT
+Date:19,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:19,Dr.:黃子晏, Type:CD, Depart:R4
+Date:19,Dr.:邱炳燁, Type:I, Depart:R3
+Date:19,Dr.:張書豪, Type:W1, Depart:R1
+Date:19,Dr.:李杰明, Type:W2, Depart:PGY
+Date:20,Dr.:陳育賢, Type:CT, Depart:GS
+Date:20,Dr.:王耀章, Type:CV, Depart:CVS
+Date:20,Dr.:陳子平, Type:L, Depart:CVS
+Date:20,Dr.:陳先志, Type:C, Depart:NS
+Date:20,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:20,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:20,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:20,Dr.:曾文科, Type:C, Depart: PROCT
+Date:20,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:20,Dr.:陳彥志, Type:CD, Depart:R4
+Date:20,Dr.:郭令偉, Type:I, Depart:R3
+Date:20,Dr.:張浩于, Type:W1, Depart:R1
+Date:20,Dr.:何哲方, Type:W2, Depart:PGY
+Date:21,Dr.:黃挺碩, Type:C, Depart:GS
+Date:21,Dr.:王耀章, Type:CV, Depart:CVS
+Date:21,Dr.:陳子平, Type:L, Depart:CVS
+Date:21,Dr.:陳先志, Type:C, Depart:NS
+Date:21,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:21,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:21,Dr.:陳建豪, Type:CT, Depart:ORTHO
+Date:21,Dr.:曾文科, Type:C, Depart: PROCT
+Date:21,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:21,Dr.:黃子晏, Type:CD, Depart:R4
+Date:21,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:21,Dr.:張書豪, Type:W1, Depart:R1
+Date:21,Dr.:余運軒, Type:W2, Depart:PGY
+Date:22,Dr.:陳義展, Type:CCD, Depart:GS
+Date:22,Dr.:簡志穎, Type:T1, Depart:GS
+Date:22,Dr.:王耀章, Type:CV, Depart:CVS
+Date:22,Dr.:陳子平, Type:L, Depart:CVS
+Date:22,Dr.:陳先志, Type:C, Depart:NS
+Date:22,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:22,Dr.:林承家, Type:C, Depart:URO 
+Date:22,Dr.:游重銘, Type:CT2, Depart:ORTHO
+Date:22,Dr.:曾文科, Type:C, Depart: PROCT
+Date:22,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:22,Dr.:, Type:陳義展, Depart:ICU 專責
+Date:22,Dr.:范揚欣, Type:I, Depart:R2
+Date:22,Dr.:李杰明, Type:W2, Depart:PGY
+Date:22,Dr.:廖育唯, Type:W1, Depart:PGY
+Date:23,Dr.:李春輝, Type:C, Depart:GS
+Date:23,Dr.:陳育賢, Type:T1, Depart:GS
+Date:23,Dr.:王耀章, Type:CV, Depart:CVS
+Date:23,Dr.:陳子平, Type:L, Depart:CVS
+Date:23,Dr.:尹順盈, Type:T2, Depart:CVS
+Date:23,Dr.:鄭運聰, Type:C, Depart:NS
+Date:23,Dr.:謝宇軒, Type:C, Depart:PLAST
+Date:23,Dr.:林承家, Type:C, Depart:URO 
+Date:23,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:23,Dr.:范仲維, Type:C, Depart: PROCT
+Date:23,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:23,Dr.:陳彥志, Type:CD, Depart:R4
+Date:23,Dr.:邱炳燁, Type:I, Depart:R3
+Date:23,Dr.:張浩于, Type:W1, Depart:R1
+Date:23,Dr.:余運軒, Type:W2, Depart:PGY
+Date:24,Dr.:黃挺碩, Type:CT2, Depart:GS
+Date:24,Dr.:王耀章, Type:CV, Depart:CVS
+Date:24,Dr.:陳子平, Type:L, Depart:CVS
+Date:24,Dr.:廖黃逸, Type:C, Depart:NS
+Date:24,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:24,Dr.:謝宇軒, Type:T1, Depart:PLAST
+Date:24,Dr.:林承家, Type:C, Depart:URO 
+Date:24,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:24,Dr.:曾文科, Type:C, Depart: PROCT
+Date:24,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:24,Dr.:黃子晏, Type:CD, Depart:R4
+Date:24,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:24,Dr.:何哲方, Type:W2, Depart:PGY
+Date:24,Dr.:陳琬瑄, Type:W1, Depart:PGY
+Date:25,Dr.:宋睿祥, Type:CT2, Depart:GS
+Date:25,Dr.:陳育賢, Type:T1, Depart:GS
+Date:25,Dr.:王耀章, Type:CV, Depart:CVS
+Date:25,Dr.:陳子平, Type:L, Depart:CVS
+Date:25,Dr.:廖黃逸, Type:C, Depart:NS
+Date:25,Dr.:陳建宗, Type:C2, Depart:NS
+Date:25,Dr.:謝宇軒, Type:羅, Depart:PLAST
+Date:25,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:25,Dr.:林承家, Type:C, Depart:URO 
+Date:25,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:25,Dr.:范仲維, Type:C, Depart: PROCT
+Date:25,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:25,Dr.:陳彥志, Type:CD, Depart:R4
+Date:25,Dr.:郭令偉, Type:I, Depart:R3
+Date:25,Dr.:張書豪, Type:W1, Depart:R1
+Date:25,Dr.:余運軒, Type: , Depart:PGY
+Date:25,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:26,Dr.:宋睿祥, Type:C, Depart:GS
+Date:26,Dr.:陳育賢, Type:T1, Depart:GS
+Date:26,Dr.:王耀章, Type:CV, Depart:CVS
+Date:26,Dr.:陳子平, Type:L, Depart:CVS
+Date:26,Dr.:鄭運聰, Type:C, Depart:NS
+Date:26,Dr.:余德毅, Type:CT2, Depart:PLAST
+Date:26,Dr.:林承家, Type:C, Depart:URO 
+Date:26,Dr.:陳建豪, Type:CCD, Depart:ORTHO
+Date:26,Dr.:曾文科, Type:C, Depart: PROCT
+Date:26,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:26,Dr.:, Type:陳建豪, Depart:ICU 專責
+Date:26,Dr.:范揚欣, Type:I, Depart:R2
+Date:26,Dr.:何哲方, Type:W1, Depart:PGY
+Date:26,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:27,Dr.:李春輝, Type:CT, Depart:GS
+Date:27,Dr.:王耀章, Type:CV, Depart:CVS
+Date:27,Dr.:陳子平, Type:L, Depart:CVS
+Date:27,Dr.:廖黃逸, Type:C, Depart:NS
+Date:27,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:27,Dr.:謝宇軒, Type:支援廈門
+, Depart:PLAST
+Date:27,Dr.:林承家, Type:C, Depart:URO 
+Date:27,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:27,Dr.:范仲維, Type:C, Depart: PROCT
+Date:27,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:27,Dr.:黃子晏, Type:CD, Depart:R4
+Date:27,Dr.:邱炳燁, Type:I, Depart:R3
+Date:27,Dr.:余運軒, Type:W1, Depart:PGY
+Date:27,Dr.:李杰明, Type:W2, Depart:PGY
+Date:28,Dr.:江坤俊, Type:C, Depart:GS
+Date:28,Dr.:王耀章, Type:C, Depart:CVS
+Date:28,Dr.:黃品富, Type:VT, Depart:CVS
+Date:28,Dr.:陳子平, Type:L, Depart:CVS
+Date:28,Dr.:廖黃逸, Type:C, Depart:NS
+Date:28,Dr.:潘俊豪, Type:C2, Depart:PLAST
+Date:28,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:28,Dr.:林承家, Type:C, Depart:URO 
+Date:28,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:28,Dr.:范仲維, Type:C, Depart: PROCT
+Date:28,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:28,Dr.:, Type:葉亘耕, Depart:ICU 專責
+Date:28,Dr.:郭令偉, Type:I, Depart:R3
+Date:28,Dr.:張浩于, Type:W1, Depart:R1
+Date:28,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:29,Dr.:簡志穎, Type:T1, Depart:GS
+Date:29,Dr.:陳育賢, Type:C, Depart:GS
+Date:29,Dr.:王耀章, Type:CV, Depart:CVS
+Date:29,Dr.:陳子平, Type:L, Depart:CVS
+Date:29,Dr.:昝文清, Type:C, Depart:NS
+Date:29,Dr.:蔡嘉軒, Type:CT2, Depart:PLAST
+Date:29,Dr.:吳俊德, Type:C, Depart:URO 
+Date:29,Dr.:蘇君毅, Type:C, Depart:ORTHO
+Date:29,Dr.:曾文科, Type:C, Depart: PROCT
+Date:29,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:29,Dr.:陳彥志, Type:CD, Depart:R4
+Date:29,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:29,Dr.:何哲方, Type:W2, Depart:PGY
+Date:29,Dr.:陳琬瑄, Type:W1, Depart:PGY
+Date:30,Dr.:簡志穎, Type:C, Depart:GS
+Date:30,Dr.:陳育賢, Type:T1, Depart:GS
+Date:30,Dr.:王耀章, Type:CV, Depart:CVS
+Date:30,Dr.:陳子平, Type:L, Depart:CVS
+Date:30,Dr.:廖黃逸, Type:C, Depart:NS
+Date:30,Dr.:余德毅, Type:C, Depart:PLAST
+Date:30,Dr.:吳俊德, Type:C, Depart:URO 
+Date:30,Dr.:游重銘, Type:CT2, Depart:ORTHO
+Date:30,Dr.:范仲維, Type:C, Depart: PROCT
+Date:30,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:30,Dr.:黃子晏, Type:CD, Depart:R4
+Date:30,Dr.:范揚欣, Type:I, Depart:R2
+Date:30,Dr.:余運軒, Type:W2, Depart:PGY
+Date:30,Dr.:李杰明, Type:W1, Depart:PGY
+Date:3,Dr.:黃挺碩, Type:T1, Depart:GS
+Date:3,Dr.:陳育賢, Type:CT2, Depart:GS
+Date:3,Dr.:葉集孝, Type:C, Depart:CVS
+Date:3,Dr.:黃品富, Type:V, Depart:CVS
+Date:3,Dr.:尹順盈, Type:L, Depart:CVS
+Date:3,Dr.:鄭運聰, Type:C, Depart:NS
+Date:3,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:3,Dr.:吳俊德, Type:C, Depart:URO 
+Date:3,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:3,Dr.:曾文科, Type:C, Depart: PROCT
+Date:3,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:3,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:3,Dr.:邱炳燁, Type:I, Depart:R3
+Date:3,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:3,Dr.:余運軒, Type:W2, Depart:PGY
+Date:4,Dr.:李春輝, Type:CT2, Depart:GS
+Date:4,Dr.:宋睿祥, Type:T1, Depart:GS
+Date:4,Dr.:葉集孝, Type:C, Depart:CVS
+Date:4,Dr.:黃品富, Type:V, Depart:CVS
+Date:4,Dr.:尹順盈, Type:L, Depart:CVS
+Date:4,Dr.:陳先志, Type:C, Depart:NS
+Date:4,Dr.:陳建宗, Type:C2, Depart:NS
+Date:4,Dr.:蔡嘉軒, Type:羅, Depart:PLAST
+Date:4,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:4,Dr.:吳俊德, Type:C, Depart:URO 
+Date:4,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:4,Dr.:范仲維, Type:C, Depart: PROCT
+Date:4,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:4,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:4,Dr.:郭令偉, Type:I, Depart:R3
+Date:4,Dr.:張書豪, Type:W1, Depart:R1
+Date:4,Dr.:何哲方, Type:W2, Depart:PGY
+Date:5,Dr.:簡志穎, Type:T1, Depart:GS
+Date:5,Dr.:陳育賢, Type:C, Depart:GS
+Date:5,Dr.:葉集孝, Type:C, Depart:CVS
+Date:5,Dr.:黃品富, Type:V, Depart:CVS
+Date:5,Dr.:尹順盈, Type:L, Depart:CVS
+Date:5,Dr.:昝文清, Type:C, Depart:NS
+Date:5,Dr.:余德毅, Type:CT2, Depart:PLAST
+Date:5,Dr.:吳俊德, Type:C, Depart:URO 
+Date:5,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:5,Dr.:曾文科, Type:C, Depart: PROCT
+Date:5,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:5,Dr.:陳彥志, Type:CD, Depart:R4
+Date:5,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:5,Dr.:張浩于, Type:W1, Depart:R1
+Date:5,Dr.:李杰明, Type:W2, Depart:PGY
+Date:6,Dr.:江坤俊, Type:C, Depart:GS
+Date:6,Dr.:葉集孝, Type:C, Depart:CVS
+Date:6,Dr.:黃品富, Type:V, Depart:CVS
+Date:6,Dr.:尹順盈, Type:L, Depart:CVS
+Date:6,Dr.:昝文清, Type:C, Depart:NS
+Date:6,Dr.:余德毅, Type:CT, Depart:PLAST
+Date:6,Dr.:吳俊德, Type:C, Depart:URO 
+Date:6,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:6,Dr.:陳磊晏, Type:CD, Depart:ORTHO
+Date:6,Dr.:曾文科, Type:C, Depart: PROCT
+Date:6,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:6,Dr.:, Type:陳磊晏, Depart:ICU 專責
+Date:6,Dr.:范揚欣, Type:I, Depart:R2
+Date:6,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:6,Dr.:廖育唯, Type:W1, Depart:PGY
+Date:7,Dr.:宋睿祥, Type:C, Depart:GS
+Date:7,Dr.:葉集孝, Type:C, Depart:CVS
+Date:7,Dr.:王耀章, Type:V, Depart:CVS
+Date:7,Dr.:尹順盈, Type:L, Depart:CVS
+Date:7,Dr.:昝文清, Type:C, Depart:NS
+Date:7,Dr.:蔡嘉軒, Type:CT, Depart:PLAST
+Date:7,Dr.:吳俊德, Type:C, Depart:URO 
+Date:7,Dr.:劉獻道, Type:C, Depart:ORTHO
+Date:7,Dr.:曾文科, Type:C, Depart: PROCT
+Date:7,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:7,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:7,Dr.:邱炳燁, Type:I, Depart:R3
+Date:7,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:7,Dr.:何哲方, Type:W2, Depart:PGY
+Date:8,Dr.:卓世川, Type:C, Depart:GS
+Date:8,Dr.:簡志穎, Type:T1, Depart:GS
+Date:8,Dr.:葉集孝, Type:C, Depart:CVS
+Date:8,Dr.:黃品富, Type:V, Depart:CVS
+Date:8,Dr.:尹順盈, Type:L, Depart:CVS
+Date:8,Dr.:陳先志, Type:C, Depart:NS
+Date:8,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:8,Dr.:林政鋒, Type:C, Depart:URO 
+Date:8,Dr.:蘇君毅, Type:C, Depart:ORTHO
+Date:8,Dr.:陳建豪, Type:T2, Depart:ORTHO
+Date:8,Dr.:曾文科, Type:C, Depart: PROCT
+Date:8,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:8,Dr.:黃子晏, Type:CD, Depart:R4
+Date:8,Dr.:郭令偉, Type:I, Depart:R3
+Date:8,Dr.:張浩于, Type:W1, Depart:R1
+Date:8,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:9,Dr.:宋睿祥, Type:CT2, Depart:GS
+Date:9,Dr.:陳育賢, Type:T1, Depart:GS
+Date:9,Dr.:葉集孝, Type:C, Depart:CVS
+Date:9,Dr.:黃品富, Type:V, Depart:CVS
+Date:9,Dr.:尹順盈, Type:L, Depart:CVS
+Date:9,Dr.:鄭運聰, Type:C, Depart:NS
+Date:9,Dr.:蔡嘉軒, Type:C2, Depart:PLAST
+Date:9,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:9,Dr.:林政鋒, Type:C, Depart:URO 
+Date:9,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:9,Dr.:陳磊晏, Type:CD, Depart:ORTHO
+Date:9,Dr.:范仲維, Type:C, Depart: PROCT
+Date:9,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:9,Dr.:, Type:陳磊晏, Depart:ICU 專責
+Date:9,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:9,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:9,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:10,Dr.:簡志穎, Type:T1, Depart:GS
+Date:10,Dr.:陳育賢, Type:C, Depart:GS
+Date:10,Dr.:葉集孝, Type:C, Depart:CVS
+Date:10,Dr.:黃品富, Type:VT2, Depart:CVS
+Date:10,Dr.:尹順盈, Type:L, Depart:CVS
+Date:10,Dr.:鄭運聰, Type:C, Depart:NS
+Date:10,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:10,Dr.:林政鋒, Type:C, Depart:URO 
+Date:10,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:10,Dr.:曾文科, Type:C, Depart: PROCT
+Date:10,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:10,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:10,Dr.:邱炳燁, Type:I, Depart:R3
+Date:10,Dr.:張書豪, Type:W1, Depart:R1
+Date:10,Dr.:何哲方, Type:W2, Depart:PGY
+Date:11,Dr.:李春輝, Type:CT2, Depart:GS
+Date:11,Dr.:葉集孝, Type:C, Depart:CVS
+Date:11,Dr.:黃品富, Type:V, Depart:CVS
+Date:11,Dr.:尹順盈, Type:L, Depart:CVS
+Date:11,Dr.:廖黃逸, Type:C, Depart:NS
+Date:11,Dr.:陳建宗, Type:C2, Depart:NS
+Date:11,Dr.:蔡嘉軒, Type:T1, Depart:PLAST
+Date:11,Dr.:余德毅, Type:羅, Depart:PLAST
+Date:11,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:11,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:11,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:11,Dr.:范仲維, Type:C, Depart: PROCT
+Date:11,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:11,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:11,Dr.:范揚欣, Type:I, Depart:R2
+Date:11,Dr.:張浩于, Type:W1, Depart:R1
+Date:11,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:12,Dr.:簡志穎, Type:C, Depart:GS
+Date:12,Dr.:陳育賢, Type:T1, Depart:GS
+Date:12,Dr.:葉集孝, Type:C, Depart:CVS
+Date:12,Dr.:黃品富, Type:V, Depart:CVS
+Date:12,Dr.:尹順盈, Type:L, Depart:CVS
+Date:12,Dr.:廖黃逸, Type:C, Depart:NS
+Date:12,Dr.:余德毅, Type:CT2, Depart:PLAST
+Date:12,Dr.:林政鋒, Type:C, Depart:URO 
+Date:12,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:12,Dr.:曾文科, Type:C, Depart: PROCT
+Date:12,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:12,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:12,Dr.:郭令偉, Type:I, Depart:R3
+Date:12,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:12,Dr.:余運軒, Type:W2, Depart:PGY
+Date:13,Dr.:簡志穎, Type:CT, Depart:GS
+Date:13,Dr.:葉集孝, Type:C, Depart:CVS
+Date:13,Dr.:黃品富, Type:V, Depart:CVS
+Date:13,Dr.:尹順盈, Type:L, Depart:CVS
+Date:13,Dr.:鄭運聰, Type:C, Depart:NS
+Date:13,Dr.:余德毅, Type:C, Depart:PLAST
+Date:13,Dr.:林政鋒, Type:C, Depart:URO 
+Date:13,Dr.:劉獻道, Type:C, Depart:ORTHO
+Date:13,Dr.:范仲維, Type:C, Depart: PROCT
+Date:13,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:13,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:13,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:13,Dr.:張書豪, Type:W, Depart:R1
+Date:14,Dr.:陳義展, Type:C, Depart:GS
+Date:14,Dr.:葉集孝, Type:C, Depart:CVS
+Date:14,Dr.:黃品富, Type:V, Depart:CVS
+Date:14,Dr.:尹順盈, Type:LT, Depart:CVS
+Date:14,Dr.:鄭運聰, Type:C, Depart:NS
+Date:14,Dr.:余德毅, Type:C, Depart:PLAST
+Date:14,Dr.:林政鋒, Type:C, Depart:URO 
+Date:14,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:14,Dr.:范仲維, Type:C, Depart: PROCT
+Date:14,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:14,Dr.:陳彥志, Type:CD, Depart:R4
+Date:14,Dr.:范揚欣, Type:I, Depart:R2
+Date:14,Dr.:李杰明, Type:W1, Depart:PGY
+Date:14,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:15,Dr.:卓世川, Type:C, Depart:GS
+Date:15,Dr.:李春輝, Type:T1, Depart:GS
+Date:15,Dr.:葉集孝, Type:C, Depart:CVS
+Date:15,Dr.:黃品富, Type:V, Depart:CVS
+Date:15,Dr.:尹順盈, Type:L, Depart:CVS
+Date:15,Dr.:陳先志, Type:CD, Depart:NS
+Date:15,Dr.:蔡嘉軒, Type:CT2, Depart:PLAST
+Date:15,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:15,Dr.:蘇君毅, Type:C, Depart:ORTHO
+Date:15,Dr.:曾文科, Type:C, Depart: PROCT
+Date:15,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:15,Dr.:, Type:陳先志, Depart:ICU 專責
+Date:15,Dr.:郭令偉, Type:I, Depart:R3
+Date:15,Dr.:張浩于, Type:W1, Depart:R1
+Date:15,Dr.:余運軒, Type:W2, Depart:PGY
+Date:16,Dr.:黃挺碩, Type:C, Depart:GS
+Date:16,Dr.:王耀章, Type:CV, Depart:CVS
+Date:16,Dr.:黃品富, Type:T2, Depart:CVS
+Date:16,Dr.:陳子平, Type:L, Depart:CVS
+Date:16,Dr.:廖黃逸, Type:C, Depart:NS
+Date:16,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:16,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:16,Dr.:游重銘, Type:CT1, Depart:ORTHO
+Date:16,Dr.:范仲維, Type:C, Depart: PROCT
+Date:16,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:16,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:16,Dr.:邱炳燁, Type:I, Depart:R3
+Date:16,Dr.:張書豪, Type:W1, Depart:R1
+Date:16,Dr.:李杰明, Type:W2, Depart:PGY
+Date:17,Dr.:黃挺碩, Type:CT2, Depart:GS
+Date:17,Dr.:簡志穎, Type:T1, Depart:GS
+Date:17,Dr.:王耀章, Type:CV, Depart:CVS
+Date:17,Dr.:陳子平, Type:L, Depart:CVS
+Date:17,Dr.:廖黃逸, Type:C, Depart:NS
+Date:17,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:17,Dr.:林政鋒, Type:CCD, Depart:URO 
+Date:17,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:17,Dr.:曾文科, Type:C, Depart: PROCT
+Date:17,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:17,Dr.:, Type:林政鋒, Depart:ICU 專責
+Date:17,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:17,Dr.:何哲方, Type:W1, Depart:PGY
+Date:17,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:18,Dr.:李春輝, Type:T1, Depart:GS
+Date:18,Dr.:陳義展, Type:CT2, Depart:GS
+Date:18,Dr.:王耀章, Type:CV, Depart:CVS
+Date:18,Dr.:陳子平, Type:L, Depart:CVS
+Date:18,Dr.:鄭運聰, Type:C, Depart:NS
+Date:18,Dr.:潘俊豪, Type:C2, Depart:PLAST
+Date:18,Dr.:蔡嘉軒, Type:羅, Depart:PLAST
+Date:18,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:18,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:18,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:18,Dr.:范仲維, Type:C, Depart: PROCT
+Date:18,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:18,Dr.:陳彥志, Type:CD, Depart:R4
+Date:18,Dr.:范揚欣, Type:I, Depart:R2
+Date:18,Dr.:余運軒, Type:W1, Depart:PGY
+Date:18,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:19,Dr.:江坤俊, Type:C, Depart:GS
+Date:19,Dr.:簡志穎, Type:T1, Depart:GS
+Date:19,Dr.:王耀章, Type:CV, Depart:CVS
+Date:19,Dr.:陳子平, Type:L, Depart:CVS
+Date:19,Dr.:尹順盈, Type:T2, Depart:CVS
+Date:19,Dr.:鄭運聰, Type:C, Depart:NS
+Date:19,Dr.:余德毅, Type:C, Depart:PLAST
+Date:19,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:19,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:19,Dr.:曾文科, Type:C, Depart: PROCT
+Date:19,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:19,Dr.:黃子晏, Type:CD, Depart:R4
+Date:19,Dr.:邱炳燁, Type:I, Depart:R3
+Date:19,Dr.:張書豪, Type:W1, Depart:R1
+Date:19,Dr.:李杰明, Type:W2, Depart:PGY
+Date:20,Dr.:陳育賢, Type:CT, Depart:GS
+Date:20,Dr.:王耀章, Type:CV, Depart:CVS
+Date:20,Dr.:陳子平, Type:L, Depart:CVS
+Date:20,Dr.:陳先志, Type:C, Depart:NS
+Date:20,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:20,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:20,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:20,Dr.:曾文科, Type:C, Depart: PROCT
+Date:20,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:20,Dr.:陳彥志, Type:CD, Depart:R4
+Date:20,Dr.:郭令偉, Type:I, Depart:R3
+Date:20,Dr.:張浩于, Type:W1, Depart:R1
+Date:20,Dr.:何哲方, Type:W2, Depart:PGY
+Date:21,Dr.:黃挺碩, Type:C, Depart:GS
+Date:21,Dr.:王耀章, Type:CV, Depart:CVS
+Date:21,Dr.:陳子平, Type:L, Depart:CVS
+Date:21,Dr.:陳先志, Type:C, Depart:NS
+Date:21,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:21,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:21,Dr.:陳建豪, Type:CT, Depart:ORTHO
+Date:21,Dr.:曾文科, Type:C, Depart: PROCT
+Date:21,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:21,Dr.:黃子晏, Type:CD, Depart:R4
+Date:21,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:21,Dr.:張書豪, Type:W1, Depart:R1
+Date:21,Dr.:余運軒, Type:W2, Depart:PGY
+Date:22,Dr.:陳義展, Type:CCD, Depart:GS
+Date:22,Dr.:簡志穎, Type:T1, Depart:GS
+Date:22,Dr.:王耀章, Type:CV, Depart:CVS
+Date:22,Dr.:陳子平, Type:L, Depart:CVS
+Date:22,Dr.:陳先志, Type:C, Depart:NS
+Date:22,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:22,Dr.:林承家, Type:C, Depart:URO 
+Date:22,Dr.:游重銘, Type:CT2, Depart:ORTHO
+Date:22,Dr.:曾文科, Type:C, Depart: PROCT
+Date:22,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:22,Dr.:, Type:陳義展, Depart:ICU 專責
+Date:22,Dr.:范揚欣, Type:I, Depart:R2
+Date:22,Dr.:李杰明, Type:W2, Depart:PGY
+Date:22,Dr.:廖育唯, Type:W1, Depart:PGY
+Date:23,Dr.:李春輝, Type:C, Depart:GS
+Date:23,Dr.:陳育賢, Type:T1, Depart:GS
+Date:23,Dr.:王耀章, Type:CV, Depart:CVS
+Date:23,Dr.:陳子平, Type:L, Depart:CVS
+Date:23,Dr.:尹順盈, Type:T2, Depart:CVS
+Date:23,Dr.:鄭運聰, Type:C, Depart:NS
+Date:23,Dr.:謝宇軒, Type:C, Depart:PLAST
+Date:23,Dr.:林承家, Type:C, Depart:URO 
+Date:23,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:23,Dr.:范仲維, Type:C, Depart: PROCT
+Date:23,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:23,Dr.:陳彥志, Type:CD, Depart:R4
+Date:23,Dr.:邱炳燁, Type:I, Depart:R3
+Date:23,Dr.:張浩于, Type:W1, Depart:R1
+Date:23,Dr.:余運軒, Type:W2, Depart:PGY
+Date:24,Dr.:黃挺碩, Type:CT2, Depart:GS
+Date:24,Dr.:王耀章, Type:CV, Depart:CVS
+Date:24,Dr.:陳子平, Type:L, Depart:CVS
+Date:24,Dr.:廖黃逸, Type:C, Depart:NS
+Date:24,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:24,Dr.:謝宇軒, Type:T1, Depart:PLAST
+Date:24,Dr.:林承家, Type:C, Depart:URO 
+Date:24,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:24,Dr.:曾文科, Type:C, Depart: PROCT
+Date:24,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:24,Dr.:黃子晏, Type:CD, Depart:R4
+Date:24,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:24,Dr.:何哲方, Type:W2, Depart:PGY
+Date:24,Dr.:陳琬瑄, Type:W1, Depart:PGY
+Date:25,Dr.:宋睿祥, Type:CT2, Depart:GS
+Date:25,Dr.:陳育賢, Type:T1, Depart:GS
+Date:25,Dr.:王耀章, Type:CV, Depart:CVS
+Date:25,Dr.:陳子平, Type:L, Depart:CVS
+Date:25,Dr.:廖黃逸, Type:C, Depart:NS
+Date:25,Dr.:陳建宗, Type:C2, Depart:NS
+Date:25,Dr.:謝宇軒, Type:羅, Depart:PLAST
+Date:25,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:25,Dr.:林承家, Type:C, Depart:URO 
+Date:25,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:25,Dr.:范仲維, Type:C, Depart: PROCT
+Date:25,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:25,Dr.:陳彥志, Type:CD, Depart:R4
+Date:25,Dr.:郭令偉, Type:I, Depart:R3
+Date:25,Dr.:張書豪, Type:W1, Depart:R1
+Date:25,Dr.:余運軒, Type: , Depart:PGY
+Date:25,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:26,Dr.:宋睿祥, Type:C, Depart:GS
+Date:26,Dr.:陳育賢, Type:T1, Depart:GS
+Date:26,Dr.:王耀章, Type:CV, Depart:CVS
+Date:26,Dr.:陳子平, Type:L, Depart:CVS
+Date:26,Dr.:鄭運聰, Type:C, Depart:NS
+Date:26,Dr.:余德毅, Type:CT2, Depart:PLAST
+Date:26,Dr.:林承家, Type:C, Depart:URO 
+Date:26,Dr.:陳建豪, Type:CCD, Depart:ORTHO
+Date:26,Dr.:曾文科, Type:C, Depart: PROCT
+Date:26,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:26,Dr.:, Type:陳建豪, Depart:ICU 專責
+Date:26,Dr.:范揚欣, Type:I, Depart:R2
+Date:26,Dr.:何哲方, Type:W1, Depart:PGY
+Date:26,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:27,Dr.:李春輝, Type:CT, Depart:GS
+Date:27,Dr.:王耀章, Type:CV, Depart:CVS
+Date:27,Dr.:陳子平, Type:L, Depart:CVS
+Date:27,Dr.:廖黃逸, Type:C, Depart:NS
+Date:27,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:27,Dr.:謝宇軒, Type:支援廈門
+, Depart:PLAST
+Date:27,Dr.:林承家, Type:C, Depart:URO 
+Date:27,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:27,Dr.:范仲維, Type:C, Depart: PROCT
+Date:27,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:27,Dr.:黃子晏, Type:CD, Depart:R4
+Date:27,Dr.:邱炳燁, Type:I, Depart:R3
+Date:27,Dr.:余運軒, Type:W1, Depart:PGY
+Date:27,Dr.:李杰明, Type:W2, Depart:PGY
+Date:28,Dr.:江坤俊, Type:C, Depart:GS
+Date:28,Dr.:王耀章, Type:C, Depart:CVS
+Date:28,Dr.:黃品富, Type:VT, Depart:CVS
+Date:28,Dr.:陳子平, Type:L, Depart:CVS
+Date:28,Dr.:廖黃逸, Type:C, Depart:NS
+Date:28,Dr.:潘俊豪, Type:C2, Depart:PLAST
+Date:28,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:28,Dr.:林承家, Type:C, Depart:URO 
+Date:28,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:28,Dr.:范仲維, Type:C, Depart: PROCT
+Date:28,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:28,Dr.:, Type:葉亘耕, Depart:ICU 專責
+Date:28,Dr.:郭令偉, Type:I, Depart:R3
+Date:28,Dr.:張浩于, Type:W1, Depart:R1
+Date:28,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:29,Dr.:簡志穎, Type:T1, Depart:GS
+Date:29,Dr.:陳育賢, Type:C, Depart:GS
+Date:29,Dr.:王耀章, Type:CV, Depart:CVS
+Date:29,Dr.:陳子平, Type:L, Depart:CVS
+Date:29,Dr.:昝文清, Type:C, Depart:NS
+Date:29,Dr.:蔡嘉軒, Type:CT2, Depart:PLAST
+Date:29,Dr.:吳俊德, Type:C, Depart:URO 
+Date:29,Dr.:蘇君毅, Type:C, Depart:ORTHO
+Date:29,Dr.:曾文科, Type:C, Depart: PROCT
+Date:29,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:29,Dr.:陳彥志, Type:CD, Depart:R4
+Date:29,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:29,Dr.:何哲方, Type:W2, Depart:PGY
+Date:29,Dr.:陳琬瑄, Type:W1, Depart:PGY
+Date:30,Dr.:簡志穎, Type:C, Depart:GS
+Date:30,Dr.:陳育賢, Type:T1, Depart:GS
+Date:30,Dr.:王耀章, Type:CV, Depart:CVS
+Date:30,Dr.:陳子平, Type:L, Depart:CVS
+Date:30,Dr.:廖黃逸, Type:C, Depart:NS
+Date:30,Dr.:余德毅, Type:C, Depart:PLAST
+Date:30,Dr.:吳俊德, Type:C, Depart:URO 
+Date:30,Dr.:游重銘, Type:CT2, Depart:ORTHO
+Date:30,Dr.:范仲維, Type:C, Depart: PROCT
+Date:30,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:30,Dr.:黃子晏, Type:CD, Depart:R4
+Date:30,Dr.:范揚欣, Type:I, Depart:R2
+Date:30,Dr.:余運軒, Type:W2, Depart:PGY
+Date:30,Dr.:李杰明, Type:W1, Depart:PGY
+Date:3,Dr.:黃挺碩, Type:T1, Depart:GS
+Date:3,Dr.:陳育賢, Type:CT2, Depart:GS
+Date:3,Dr.:葉集孝, Type:C, Depart:CVS
+Date:3,Dr.:黃品富, Type:V, Depart:CVS
+Date:3,Dr.:尹順盈, Type:L, Depart:CVS
+Date:3,Dr.:鄭運聰, Type:C, Depart:NS
+Date:3,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:3,Dr.:吳俊德, Type:C, Depart:URO 
+Date:3,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:3,Dr.:曾文科, Type:C, Depart: PROCT
+Date:3,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:3,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:3,Dr.:邱炳燁, Type:I, Depart:R3
+Date:3,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:3,Dr.:余運軒, Type:W2, Depart:PGY
+Date:4,Dr.:李春輝, Type:CT2, Depart:GS
+Date:4,Dr.:宋睿祥, Type:T1, Depart:GS
+Date:4,Dr.:葉集孝, Type:C, Depart:CVS
+Date:4,Dr.:黃品富, Type:V, Depart:CVS
+Date:4,Dr.:尹順盈, Type:L, Depart:CVS
+Date:4,Dr.:陳先志, Type:C, Depart:NS
+Date:4,Dr.:陳建宗, Type:C2, Depart:NS
+Date:4,Dr.:蔡嘉軒, Type:羅, Depart:PLAST
+Date:4,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:4,Dr.:吳俊德, Type:C, Depart:URO 
+Date:4,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:4,Dr.:范仲維, Type:C, Depart: PROCT
+Date:4,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:4,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:4,Dr.:郭令偉, Type:I, Depart:R3
+Date:4,Dr.:張書豪, Type:W1, Depart:R1
+Date:4,Dr.:何哲方, Type:W2, Depart:PGY
+Date:5,Dr.:簡志穎, Type:T1, Depart:GS
+Date:5,Dr.:陳育賢, Type:C, Depart:GS
+Date:5,Dr.:葉集孝, Type:C, Depart:CVS
+Date:5,Dr.:黃品富, Type:V, Depart:CVS
+Date:5,Dr.:尹順盈, Type:L, Depart:CVS
+Date:5,Dr.:昝文清, Type:C, Depart:NS
+Date:5,Dr.:余德毅, Type:CT2, Depart:PLAST
+Date:5,Dr.:吳俊德, Type:C, Depart:URO 
+Date:5,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:5,Dr.:曾文科, Type:C, Depart: PROCT
+Date:5,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:5,Dr.:陳彥志, Type:CD, Depart:R4
+Date:5,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:5,Dr.:張浩于, Type:W1, Depart:R1
+Date:5,Dr.:李杰明, Type:W2, Depart:PGY
+Date:6,Dr.:江坤俊, Type:C, Depart:GS
+Date:6,Dr.:葉集孝, Type:C, Depart:CVS
+Date:6,Dr.:黃品富, Type:V, Depart:CVS
+Date:6,Dr.:尹順盈, Type:L, Depart:CVS
+Date:6,Dr.:昝文清, Type:C, Depart:NS
+Date:6,Dr.:余德毅, Type:CT, Depart:PLAST
+Date:6,Dr.:吳俊德, Type:C, Depart:URO 
+Date:6,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:6,Dr.:陳磊晏, Type:CD, Depart:ORTHO
+Date:6,Dr.:曾文科, Type:C, Depart: PROCT
+Date:6,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:6,Dr.:, Type:陳磊晏, Depart:ICU 專責
+Date:6,Dr.:范揚欣, Type:I, Depart:R2
+Date:6,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:6,Dr.:廖育唯, Type:W1, Depart:PGY
+Date:7,Dr.:宋睿祥, Type:C, Depart:GS
+Date:7,Dr.:葉集孝, Type:C, Depart:CVS
+Date:7,Dr.:王耀章, Type:V, Depart:CVS
+Date:7,Dr.:尹順盈, Type:L, Depart:CVS
+Date:7,Dr.:昝文清, Type:C, Depart:NS
+Date:7,Dr.:蔡嘉軒, Type:CT, Depart:PLAST
+Date:7,Dr.:吳俊德, Type:C, Depart:URO 
+Date:7,Dr.:劉獻道, Type:C, Depart:ORTHO
+Date:7,Dr.:曾文科, Type:C, Depart: PROCT
+Date:7,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:7,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:7,Dr.:邱炳燁, Type:I, Depart:R3
+Date:7,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:7,Dr.:何哲方, Type:W2, Depart:PGY
+Date:8,Dr.:卓世川, Type:C, Depart:GS
+Date:8,Dr.:簡志穎, Type:T1, Depart:GS
+Date:8,Dr.:葉集孝, Type:C, Depart:CVS
+Date:8,Dr.:黃品富, Type:V, Depart:CVS
+Date:8,Dr.:尹順盈, Type:L, Depart:CVS
+Date:8,Dr.:陳先志, Type:C, Depart:NS
+Date:8,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:8,Dr.:林政鋒, Type:C, Depart:URO 
+Date:8,Dr.:蘇君毅, Type:C, Depart:ORTHO
+Date:8,Dr.:陳建豪, Type:T2, Depart:ORTHO
+Date:8,Dr.:曾文科, Type:C, Depart: PROCT
+Date:8,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:8,Dr.:黃子晏, Type:CD, Depart:R4
+Date:8,Dr.:郭令偉, Type:I, Depart:R3
+Date:8,Dr.:張浩于, Type:W1, Depart:R1
+Date:8,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:9,Dr.:宋睿祥, Type:CT2, Depart:GS
+Date:9,Dr.:陳育賢, Type:T1, Depart:GS
+Date:9,Dr.:葉集孝, Type:C, Depart:CVS
+Date:9,Dr.:黃品富, Type:V, Depart:CVS
+Date:9,Dr.:尹順盈, Type:L, Depart:CVS
+Date:9,Dr.:鄭運聰, Type:C, Depart:NS
+Date:9,Dr.:蔡嘉軒, Type:C2, Depart:PLAST
+Date:9,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:9,Dr.:林政鋒, Type:C, Depart:URO 
+Date:9,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:9,Dr.:陳磊晏, Type:CD, Depart:ORTHO
+Date:9,Dr.:范仲維, Type:C, Depart: PROCT
+Date:9,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:9,Dr.:, Type:陳磊晏, Depart:ICU 專責
+Date:9,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:9,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:9,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:10,Dr.:簡志穎, Type:T1, Depart:GS
+Date:10,Dr.:陳育賢, Type:C, Depart:GS
+Date:10,Dr.:葉集孝, Type:C, Depart:CVS
+Date:10,Dr.:黃品富, Type:VT2, Depart:CVS
+Date:10,Dr.:尹順盈, Type:L, Depart:CVS
+Date:10,Dr.:鄭運聰, Type:C, Depart:NS
+Date:10,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:10,Dr.:林政鋒, Type:C, Depart:URO 
+Date:10,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:10,Dr.:曾文科, Type:C, Depart: PROCT
+Date:10,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:10,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:10,Dr.:邱炳燁, Type:I, Depart:R3
+Date:10,Dr.:張書豪, Type:W1, Depart:R1
+Date:10,Dr.:何哲方, Type:W2, Depart:PGY
+Date:11,Dr.:李春輝, Type:CT2, Depart:GS
+Date:11,Dr.:葉集孝, Type:C, Depart:CVS
+Date:11,Dr.:黃品富, Type:V, Depart:CVS
+Date:11,Dr.:尹順盈, Type:L, Depart:CVS
+Date:11,Dr.:廖黃逸, Type:C, Depart:NS
+Date:11,Dr.:陳建宗, Type:C2, Depart:NS
+Date:11,Dr.:蔡嘉軒, Type:T1, Depart:PLAST
+Date:11,Dr.:余德毅, Type:羅, Depart:PLAST
+Date:11,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:11,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:11,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:11,Dr.:范仲維, Type:C, Depart: PROCT
+Date:11,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:11,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:11,Dr.:范揚欣, Type:I, Depart:R2
+Date:11,Dr.:張浩于, Type:W1, Depart:R1
+Date:11,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:12,Dr.:簡志穎, Type:C, Depart:GS
+Date:12,Dr.:陳育賢, Type:T1, Depart:GS
+Date:12,Dr.:葉集孝, Type:C, Depart:CVS
+Date:12,Dr.:黃品富, Type:V, Depart:CVS
+Date:12,Dr.:尹順盈, Type:L, Depart:CVS
+Date:12,Dr.:廖黃逸, Type:C, Depart:NS
+Date:12,Dr.:余德毅, Type:CT2, Depart:PLAST
+Date:12,Dr.:林政鋒, Type:C, Depart:URO 
+Date:12,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:12,Dr.:曾文科, Type:C, Depart: PROCT
+Date:12,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:12,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:12,Dr.:郭令偉, Type:I, Depart:R3
+Date:12,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:12,Dr.:余運軒, Type:W2, Depart:PGY
+Date:13,Dr.:簡志穎, Type:CT, Depart:GS
+Date:13,Dr.:葉集孝, Type:C, Depart:CVS
+Date:13,Dr.:黃品富, Type:V, Depart:CVS
+Date:13,Dr.:尹順盈, Type:L, Depart:CVS
+Date:13,Dr.:鄭運聰, Type:C, Depart:NS
+Date:13,Dr.:余德毅, Type:C, Depart:PLAST
+Date:13,Dr.:林政鋒, Type:C, Depart:URO 
+Date:13,Dr.:劉獻道, Type:C, Depart:ORTHO
+Date:13,Dr.:范仲維, Type:C, Depart: PROCT
+Date:13,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:13,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:13,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:13,Dr.:張書豪, Type:W, Depart:R1
+Date:14,Dr.:陳義展, Type:C, Depart:GS
+Date:14,Dr.:葉集孝, Type:C, Depart:CVS
+Date:14,Dr.:黃品富, Type:V, Depart:CVS
+Date:14,Dr.:尹順盈, Type:LT, Depart:CVS
+Date:14,Dr.:鄭運聰, Type:C, Depart:NS
+Date:14,Dr.:余德毅, Type:C, Depart:PLAST
+Date:14,Dr.:林政鋒, Type:C, Depart:URO 
+Date:14,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:14,Dr.:范仲維, Type:C, Depart: PROCT
+Date:14,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:14,Dr.:陳彥志, Type:CD, Depart:R4
+Date:14,Dr.:范揚欣, Type:I, Depart:R2
+Date:14,Dr.:李杰明, Type:W1, Depart:PGY
+Date:14,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:15,Dr.:卓世川, Type:C, Depart:GS
+Date:15,Dr.:李春輝, Type:T1, Depart:GS
+Date:15,Dr.:葉集孝, Type:C, Depart:CVS
+Date:15,Dr.:黃品富, Type:V, Depart:CVS
+Date:15,Dr.:尹順盈, Type:L, Depart:CVS
+Date:15,Dr.:陳先志, Type:CD, Depart:NS
+Date:15,Dr.:蔡嘉軒, Type:CT2, Depart:PLAST
+Date:15,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:15,Dr.:蘇君毅, Type:C, Depart:ORTHO
+Date:15,Dr.:曾文科, Type:C, Depart: PROCT
+Date:15,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:15,Dr.:, Type:陳先志, Depart:ICU 專責
+Date:15,Dr.:郭令偉, Type:I, Depart:R3
+Date:15,Dr.:張浩于, Type:W1, Depart:R1
+Date:15,Dr.:余運軒, Type:W2, Depart:PGY
+Date:16,Dr.:黃挺碩, Type:C, Depart:GS
+Date:16,Dr.:王耀章, Type:CV, Depart:CVS
+Date:16,Dr.:黃品富, Type:T2, Depart:CVS
+Date:16,Dr.:陳子平, Type:L, Depart:CVS
+Date:16,Dr.:廖黃逸, Type:C, Depart:NS
+Date:16,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:16,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:16,Dr.:游重銘, Type:CT1, Depart:ORTHO
+Date:16,Dr.:范仲維, Type:C, Depart: PROCT
+Date:16,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:16,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:16,Dr.:邱炳燁, Type:I, Depart:R3
+Date:16,Dr.:張書豪, Type:W1, Depart:R1
+Date:16,Dr.:李杰明, Type:W2, Depart:PGY
+Date:17,Dr.:黃挺碩, Type:CT2, Depart:GS
+Date:17,Dr.:簡志穎, Type:T1, Depart:GS
+Date:17,Dr.:王耀章, Type:CV, Depart:CVS
+Date:17,Dr.:陳子平, Type:L, Depart:CVS
+Date:17,Dr.:廖黃逸, Type:C, Depart:NS
+Date:17,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:17,Dr.:林政鋒, Type:CCD, Depart:URO 
+Date:17,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:17,Dr.:曾文科, Type:C, Depart: PROCT
+Date:17,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:17,Dr.:, Type:林政鋒, Depart:ICU 專責
+Date:17,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:17,Dr.:何哲方, Type:W1, Depart:PGY
+Date:17,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:18,Dr.:李春輝, Type:T1, Depart:GS
+Date:18,Dr.:陳義展, Type:CT2, Depart:GS
+Date:18,Dr.:王耀章, Type:CV, Depart:CVS
+Date:18,Dr.:陳子平, Type:L, Depart:CVS
+Date:18,Dr.:鄭運聰, Type:C, Depart:NS
+Date:18,Dr.:潘俊豪, Type:C2, Depart:PLAST
+Date:18,Dr.:蔡嘉軒, Type:羅, Depart:PLAST
+Date:18,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:18,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:18,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:18,Dr.:范仲維, Type:C, Depart: PROCT
+Date:18,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:18,Dr.:陳彥志, Type:CD, Depart:R4
+Date:18,Dr.:范揚欣, Type:I, Depart:R2
+Date:18,Dr.:余運軒, Type:W1, Depart:PGY
+Date:18,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:19,Dr.:江坤俊, Type:C, Depart:GS
+Date:19,Dr.:簡志穎, Type:T1, Depart:GS
+Date:19,Dr.:王耀章, Type:CV, Depart:CVS
+Date:19,Dr.:陳子平, Type:L, Depart:CVS
+Date:19,Dr.:尹順盈, Type:T2, Depart:CVS
+Date:19,Dr.:鄭運聰, Type:C, Depart:NS
+Date:19,Dr.:余德毅, Type:C, Depart:PLAST
+Date:19,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:19,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:19,Dr.:曾文科, Type:C, Depart: PROCT
+Date:19,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:19,Dr.:黃子晏, Type:CD, Depart:R4
+Date:19,Dr.:邱炳燁, Type:I, Depart:R3
+Date:19,Dr.:張書豪, Type:W1, Depart:R1
+Date:19,Dr.:李杰明, Type:W2, Depart:PGY
+Date:20,Dr.:陳育賢, Type:CT, Depart:GS
+Date:20,Dr.:王耀章, Type:CV, Depart:CVS
+Date:20,Dr.:陳子平, Type:L, Depart:CVS
+Date:20,Dr.:陳先志, Type:C, Depart:NS
+Date:20,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:20,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:20,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:20,Dr.:曾文科, Type:C, Depart: PROCT
+Date:20,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:20,Dr.:陳彥志, Type:CD, Depart:R4
+Date:20,Dr.:郭令偉, Type:I, Depart:R3
+Date:20,Dr.:張浩于, Type:W1, Depart:R1
+Date:20,Dr.:何哲方, Type:W2, Depart:PGY
+Date:21,Dr.:黃挺碩, Type:C, Depart:GS
+Date:21,Dr.:王耀章, Type:CV, Depart:CVS
+Date:21,Dr.:陳子平, Type:L, Depart:CVS
+Date:21,Dr.:陳先志, Type:C, Depart:NS
+Date:21,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:21,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:21,Dr.:陳建豪, Type:CT, Depart:ORTHO
+Date:21,Dr.:曾文科, Type:C, Depart: PROCT
+Date:21,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:21,Dr.:黃子晏, Type:CD, Depart:R4
+Date:21,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:21,Dr.:張書豪, Type:W1, Depart:R1
+Date:21,Dr.:余運軒, Type:W2, Depart:PGY
+Date:22,Dr.:陳義展, Type:CCD, Depart:GS
+Date:22,Dr.:簡志穎, Type:T1, Depart:GS
+Date:22,Dr.:王耀章, Type:CV, Depart:CVS
+Date:22,Dr.:陳子平, Type:L, Depart:CVS
+Date:22,Dr.:陳先志, Type:C, Depart:NS
+Date:22,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:22,Dr.:林承家, Type:C, Depart:URO 
+Date:22,Dr.:游重銘, Type:CT2, Depart:ORTHO
+Date:22,Dr.:曾文科, Type:C, Depart: PROCT
+Date:22,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:22,Dr.:, Type:陳義展, Depart:ICU 專責
+Date:22,Dr.:范揚欣, Type:I, Depart:R2
+Date:22,Dr.:李杰明, Type:W2, Depart:PGY
+Date:22,Dr.:廖育唯, Type:W1, Depart:PGY
+Date:23,Dr.:李春輝, Type:C, Depart:GS
+Date:23,Dr.:陳育賢, Type:T1, Depart:GS
+Date:23,Dr.:王耀章, Type:CV, Depart:CVS
+Date:23,Dr.:陳子平, Type:L, Depart:CVS
+Date:23,Dr.:尹順盈, Type:T2, Depart:CVS
+Date:23,Dr.:鄭運聰, Type:C, Depart:NS
+Date:23,Dr.:謝宇軒, Type:C, Depart:PLAST
+Date:23,Dr.:林承家, Type:C, Depart:URO 
+Date:23,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:23,Dr.:范仲維, Type:C, Depart: PROCT
+Date:23,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:23,Dr.:陳彥志, Type:CD, Depart:R4
+Date:23,Dr.:邱炳燁, Type:I, Depart:R3
+Date:23,Dr.:張浩于, Type:W1, Depart:R1
+Date:23,Dr.:余運軒, Type:W2, Depart:PGY
+Date:24,Dr.:黃挺碩, Type:CT2, Depart:GS
+Date:24,Dr.:王耀章, Type:CV, Depart:CVS
+Date:24,Dr.:陳子平, Type:L, Depart:CVS
+Date:24,Dr.:廖黃逸, Type:C, Depart:NS
+Date:24,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:24,Dr.:謝宇軒, Type:T1, Depart:PLAST
+Date:24,Dr.:林承家, Type:C, Depart:URO 
+Date:24,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:24,Dr.:曾文科, Type:C, Depart: PROCT
+Date:24,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:24,Dr.:黃子晏, Type:CD, Depart:R4
+Date:24,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:24,Dr.:何哲方, Type:W2, Depart:PGY
+Date:24,Dr.:陳琬瑄, Type:W1, Depart:PGY
+Date:25,Dr.:宋睿祥, Type:CT2, Depart:GS
+Date:25,Dr.:陳育賢, Type:T1, Depart:GS
+Date:25,Dr.:王耀章, Type:CV, Depart:CVS
+Date:25,Dr.:陳子平, Type:L, Depart:CVS
+Date:25,Dr.:廖黃逸, Type:C, Depart:NS
+Date:25,Dr.:陳建宗, Type:C2, Depart:NS
+Date:25,Dr.:謝宇軒, Type:羅, Depart:PLAST
+Date:25,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:25,Dr.:林承家, Type:C, Depart:URO 
+Date:25,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:25,Dr.:范仲維, Type:C, Depart: PROCT
+Date:25,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:25,Dr.:陳彥志, Type:CD, Depart:R4
+Date:25,Dr.:郭令偉, Type:I, Depart:R3
+Date:25,Dr.:張書豪, Type:W1, Depart:R1
+Date:25,Dr.:余運軒, Type: , Depart:PGY
+Date:25,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:26,Dr.:宋睿祥, Type:C, Depart:GS
+Date:26,Dr.:陳育賢, Type:T1, Depart:GS
+Date:26,Dr.:王耀章, Type:CV, Depart:CVS
+Date:26,Dr.:陳子平, Type:L, Depart:CVS
+Date:26,Dr.:鄭運聰, Type:C, Depart:NS
+Date:26,Dr.:余德毅, Type:CT2, Depart:PLAST
+Date:26,Dr.:林承家, Type:C, Depart:URO 
+Date:26,Dr.:陳建豪, Type:CCD, Depart:ORTHO
+Date:26,Dr.:曾文科, Type:C, Depart: PROCT
+Date:26,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:26,Dr.:, Type:陳建豪, Depart:ICU 專責
+Date:26,Dr.:范揚欣, Type:I, Depart:R2
+Date:26,Dr.:何哲方, Type:W1, Depart:PGY
+Date:26,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:27,Dr.:李春輝, Type:CT, Depart:GS
+Date:27,Dr.:王耀章, Type:CV, Depart:CVS
+Date:27,Dr.:陳子平, Type:L, Depart:CVS
+Date:27,Dr.:廖黃逸, Type:C, Depart:NS
+Date:27,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:27,Dr.:謝宇軒, Type:支援廈門
+, Depart:PLAST
+Date:27,Dr.:林承家, Type:C, Depart:URO 
+Date:27,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:27,Dr.:范仲維, Type:C, Depart: PROCT
+Date:27,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:27,Dr.:黃子晏, Type:CD, Depart:R4
+Date:27,Dr.:邱炳燁, Type:I, Depart:R3
+Date:27,Dr.:余運軒, Type:W1, Depart:PGY
+Date:27,Dr.:李杰明, Type:W2, Depart:PGY
+Date:28,Dr.:江坤俊, Type:C, Depart:GS
+Date:28,Dr.:王耀章, Type:C, Depart:CVS
+Date:28,Dr.:黃品富, Type:VT, Depart:CVS
+Date:28,Dr.:陳子平, Type:L, Depart:CVS
+Date:28,Dr.:廖黃逸, Type:C, Depart:NS
+Date:28,Dr.:潘俊豪, Type:C2, Depart:PLAST
+Date:28,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:28,Dr.:林承家, Type:C, Depart:URO 
+Date:28,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:28,Dr.:范仲維, Type:C, Depart: PROCT
+Date:28,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:28,Dr.:, Type:葉亘耕, Depart:ICU 專責
+Date:28,Dr.:郭令偉, Type:I, Depart:R3
+Date:28,Dr.:張浩于, Type:W1, Depart:R1
+Date:28,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:29,Dr.:簡志穎, Type:T1, Depart:GS
+Date:29,Dr.:陳育賢, Type:C, Depart:GS
+Date:29,Dr.:王耀章, Type:CV, Depart:CVS
+Date:29,Dr.:陳子平, Type:L, Depart:CVS
+Date:29,Dr.:昝文清, Type:C, Depart:NS
+Date:29,Dr.:蔡嘉軒, Type:CT2, Depart:PLAST
+Date:29,Dr.:吳俊德, Type:C, Depart:URO 
+Date:29,Dr.:蘇君毅, Type:C, Depart:ORTHO
+Date:29,Dr.:曾文科, Type:C, Depart: PROCT
+Date:29,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:29,Dr.:陳彥志, Type:CD, Depart:R4
+Date:29,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:29,Dr.:何哲方, Type:W2, Depart:PGY
+Date:29,Dr.:陳琬瑄, Type:W1, Depart:PGY
+Date:30,Dr.:簡志穎, Type:C, Depart:GS
+Date:30,Dr.:陳育賢, Type:T1, Depart:GS
+Date:30,Dr.:王耀章, Type:CV, Depart:CVS
+Date:30,Dr.:陳子平, Type:L, Depart:CVS
+Date:30,Dr.:廖黃逸, Type:C, Depart:NS
+Date:30,Dr.:余德毅, Type:C, Depart:PLAST
+Date:30,Dr.:吳俊德, Type:C, Depart:URO 
+Date:30,Dr.:游重銘, Type:CT2, Depart:ORTHO
+Date:30,Dr.:范仲維, Type:C, Depart: PROCT
+Date:30,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:30,Dr.:黃子晏, Type:CD, Depart:R4
+Date:30,Dr.:范揚欣, Type:I, Depart:R2
+Date:30,Dr.:余運軒, Type:W2, Depart:PGY
+Date:30,Dr.:李杰明, Type:W1, Depart:PGY
+Date:2,Dr.:江坤俊, Type:C, Depart:GS
+Date:2,Dr.:陳育賢, Type:T1, Depart:GS
+Date:2,Dr.:葉集孝, Type:C, Depart:CVS
+Date:2,Dr.:黃品富, Type:V, Depart:CVS
+Date:2,Dr.:尹順盈, Type:L, Depart:CVS
+Date:2,Dr.:陳先志, Type:C, Depart:NS
+Date:2,Dr.:余德毅, Type:C2, Depart:PLAST
+Date:2,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:2,Dr.:吳俊德, Type:C, Depart:URO 
+Date:2,Dr.:陳建豪, Type:CT2, Depart:ORTHO
+Date:2,Dr.:范仲維, Type:C, Depart: PROCT
+Date:2,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:2,Dr.:陳彥志, Type:CD, Depart:R4
+Date:2,Dr.:范揚欣, Type:I, Depart:R2
+Date:2,Dr.:張浩于, Type:W1, Depart:R1
+Date:2,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:3,Dr.:黃挺碩, Type:T1, Depart:GS
+Date:3,Dr.:陳育賢, Type:CT2, Depart:GS
+Date:3,Dr.:葉集孝, Type:C, Depart:CVS
+Date:3,Dr.:黃品富, Type:V, Depart:CVS
+Date:3,Dr.:尹順盈, Type:L, Depart:CVS
+Date:3,Dr.:鄭運聰, Type:C, Depart:NS
+Date:3,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:3,Dr.:吳俊德, Type:C, Depart:URO 
+Date:3,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:3,Dr.:曾文科, Type:C, Depart: PROCT
+Date:3,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:3,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:3,Dr.:邱炳燁, Type:I, Depart:R3
+Date:3,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:3,Dr.:余運軒, Type:W2, Depart:PGY
+Date:4,Dr.:李春輝, Type:CT2, Depart:GS
+Date:4,Dr.:宋睿祥, Type:T1, Depart:GS
+Date:4,Dr.:葉集孝, Type:C, Depart:CVS
+Date:4,Dr.:黃品富, Type:V, Depart:CVS
+Date:4,Dr.:尹順盈, Type:L, Depart:CVS
+Date:4,Dr.:陳先志, Type:C, Depart:NS
+Date:4,Dr.:陳建宗, Type:C2, Depart:NS
+Date:4,Dr.:蔡嘉軒, Type:羅, Depart:PLAST
+Date:4,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:4,Dr.:吳俊德, Type:C, Depart:URO 
+Date:4,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:4,Dr.:范仲維, Type:C, Depart: PROCT
+Date:4,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:4,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:4,Dr.:郭令偉, Type:I, Depart:R3
+Date:4,Dr.:張書豪, Type:W1, Depart:R1
+Date:4,Dr.:何哲方, Type:W2, Depart:PGY
+Date:5,Dr.:簡志穎, Type:T1, Depart:GS
+Date:5,Dr.:陳育賢, Type:C, Depart:GS
+Date:5,Dr.:葉集孝, Type:C, Depart:CVS
+Date:5,Dr.:黃品富, Type:V, Depart:CVS
+Date:5,Dr.:尹順盈, Type:L, Depart:CVS
+Date:5,Dr.:昝文清, Type:C, Depart:NS
+Date:5,Dr.:余德毅, Type:CT2, Depart:PLAST
+Date:5,Dr.:吳俊德, Type:C, Depart:URO 
+Date:5,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:5,Dr.:曾文科, Type:C, Depart: PROCT
+Date:5,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:5,Dr.:陳彥志, Type:CD, Depart:R4
+Date:5,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:5,Dr.:張浩于, Type:W1, Depart:R1
+Date:5,Dr.:李杰明, Type:W2, Depart:PGY
+Date:6,Dr.:江坤俊, Type:C, Depart:GS
+Date:6,Dr.:葉集孝, Type:C, Depart:CVS
+Date:6,Dr.:黃品富, Type:V, Depart:CVS
+Date:6,Dr.:尹順盈, Type:L, Depart:CVS
+Date:6,Dr.:昝文清, Type:C, Depart:NS
+Date:6,Dr.:余德毅, Type:CT, Depart:PLAST
+Date:6,Dr.:吳俊德, Type:C, Depart:URO 
+Date:6,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:6,Dr.:陳磊晏, Type:CD, Depart:ORTHO
+Date:6,Dr.:曾文科, Type:C, Depart: PROCT
+Date:6,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:6,Dr.:, Type:陳磊晏, Depart:ICU 專責
+Date:6,Dr.:范揚欣, Type:I, Depart:R2
+Date:6,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:6,Dr.:廖育唯, Type:W1, Depart:PGY
+Date:7,Dr.:宋睿祥, Type:C, Depart:GS
+Date:7,Dr.:葉集孝, Type:C, Depart:CVS
+Date:7,Dr.:王耀章, Type:V, Depart:CVS
+Date:7,Dr.:尹順盈, Type:L, Depart:CVS
+Date:7,Dr.:昝文清, Type:C, Depart:NS
+Date:7,Dr.:蔡嘉軒, Type:CT, Depart:PLAST
+Date:7,Dr.:吳俊德, Type:C, Depart:URO 
+Date:7,Dr.:劉獻道, Type:C, Depart:ORTHO
+Date:7,Dr.:曾文科, Type:C, Depart: PROCT
+Date:7,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:7,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:7,Dr.:邱炳燁, Type:I, Depart:R3
+Date:7,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:7,Dr.:何哲方, Type:W2, Depart:PGY
+Date:8,Dr.:卓世川, Type:C, Depart:GS
+Date:8,Dr.:簡志穎, Type:T1, Depart:GS
+Date:8,Dr.:葉集孝, Type:C, Depart:CVS
+Date:8,Dr.:黃品富, Type:V, Depart:CVS
+Date:8,Dr.:尹順盈, Type:L, Depart:CVS
+Date:8,Dr.:陳先志, Type:C, Depart:NS
+Date:8,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:8,Dr.:林政鋒, Type:C, Depart:URO 
+Date:8,Dr.:蘇君毅, Type:C, Depart:ORTHO
+Date:8,Dr.:陳建豪, Type:T2, Depart:ORTHO
+Date:8,Dr.:曾文科, Type:C, Depart: PROCT
+Date:8,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:8,Dr.:黃子晏, Type:CD, Depart:R4
+Date:8,Dr.:郭令偉, Type:I, Depart:R3
+Date:8,Dr.:張浩于, Type:W1, Depart:R1
+Date:8,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:9,Dr.:宋睿祥, Type:CT2, Depart:GS
+Date:9,Dr.:陳育賢, Type:T1, Depart:GS
+Date:9,Dr.:葉集孝, Type:C, Depart:CVS
+Date:9,Dr.:黃品富, Type:V, Depart:CVS
+Date:9,Dr.:尹順盈, Type:L, Depart:CVS
+Date:9,Dr.:鄭運聰, Type:C, Depart:NS
+Date:9,Dr.:蔡嘉軒, Type:C2, Depart:PLAST
+Date:9,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:9,Dr.:林政鋒, Type:C, Depart:URO 
+Date:9,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:9,Dr.:陳磊晏, Type:CD, Depart:ORTHO
+Date:9,Dr.:范仲維, Type:C, Depart: PROCT
+Date:9,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:9,Dr.:, Type:陳磊晏, Depart:ICU 專責
+Date:9,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:9,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:9,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:10,Dr.:簡志穎, Type:T1, Depart:GS
+Date:10,Dr.:陳育賢, Type:C, Depart:GS
+Date:10,Dr.:葉集孝, Type:C, Depart:CVS
+Date:10,Dr.:黃品富, Type:VT2, Depart:CVS
+Date:10,Dr.:尹順盈, Type:L, Depart:CVS
+Date:10,Dr.:鄭運聰, Type:C, Depart:NS
+Date:10,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:10,Dr.:林政鋒, Type:C, Depart:URO 
+Date:10,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:10,Dr.:曾文科, Type:C, Depart: PROCT
+Date:10,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:10,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:10,Dr.:邱炳燁, Type:I, Depart:R3
+Date:10,Dr.:張書豪, Type:W1, Depart:R1
+Date:10,Dr.:何哲方, Type:W2, Depart:PGY
+Date:11,Dr.:李春輝, Type:CT2, Depart:GS
+Date:11,Dr.:葉集孝, Type:C, Depart:CVS
+Date:11,Dr.:黃品富, Type:V, Depart:CVS
+Date:11,Dr.:尹順盈, Type:L, Depart:CVS
+Date:11,Dr.:廖黃逸, Type:C, Depart:NS
+Date:11,Dr.:陳建宗, Type:C2, Depart:NS
+Date:11,Dr.:蔡嘉軒, Type:T1, Depart:PLAST
+Date:11,Dr.:余德毅, Type:羅, Depart:PLAST
+Date:11,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:11,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:11,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:11,Dr.:范仲維, Type:C, Depart: PROCT
+Date:11,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:11,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:11,Dr.:范揚欣, Type:I, Depart:R2
+Date:11,Dr.:張浩于, Type:W1, Depart:R1
+Date:11,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:12,Dr.:簡志穎, Type:C, Depart:GS
+Date:12,Dr.:陳育賢, Type:T1, Depart:GS
+Date:12,Dr.:葉集孝, Type:C, Depart:CVS
+Date:12,Dr.:黃品富, Type:V, Depart:CVS
+Date:12,Dr.:尹順盈, Type:L, Depart:CVS
+Date:12,Dr.:廖黃逸, Type:C, Depart:NS
+Date:12,Dr.:余德毅, Type:CT2, Depart:PLAST
+Date:12,Dr.:林政鋒, Type:C, Depart:URO 
+Date:12,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:12,Dr.:曾文科, Type:C, Depart: PROCT
+Date:12,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:12,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:12,Dr.:郭令偉, Type:I, Depart:R3
+Date:12,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:12,Dr.:余運軒, Type:W2, Depart:PGY
+Date:13,Dr.:簡志穎, Type:CT, Depart:GS
+Date:13,Dr.:葉集孝, Type:C, Depart:CVS
+Date:13,Dr.:黃品富, Type:V, Depart:CVS
+Date:13,Dr.:尹順盈, Type:L, Depart:CVS
+Date:13,Dr.:鄭運聰, Type:C, Depart:NS
+Date:13,Dr.:余德毅, Type:C, Depart:PLAST
+Date:13,Dr.:林政鋒, Type:C, Depart:URO 
+Date:13,Dr.:劉獻道, Type:C, Depart:ORTHO
+Date:13,Dr.:范仲維, Type:C, Depart: PROCT
+Date:13,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:13,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:13,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:13,Dr.:張書豪, Type:W, Depart:R1
+Date:14,Dr.:陳義展, Type:C, Depart:GS
+Date:14,Dr.:葉集孝, Type:C, Depart:CVS
+Date:14,Dr.:黃品富, Type:V, Depart:CVS
+Date:14,Dr.:尹順盈, Type:LT, Depart:CVS
+Date:14,Dr.:鄭運聰, Type:C, Depart:NS
+Date:14,Dr.:余德毅, Type:C, Depart:PLAST
+Date:14,Dr.:林政鋒, Type:C, Depart:URO 
+Date:14,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:14,Dr.:范仲維, Type:C, Depart: PROCT
+Date:14,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:14,Dr.:陳彥志, Type:CD, Depart:R4
+Date:14,Dr.:范揚欣, Type:I, Depart:R2
+Date:14,Dr.:李杰明, Type:W1, Depart:PGY
+Date:14,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:15,Dr.:卓世川, Type:C, Depart:GS
+Date:15,Dr.:李春輝, Type:T1, Depart:GS
+Date:15,Dr.:葉集孝, Type:C, Depart:CVS
+Date:15,Dr.:黃品富, Type:V, Depart:CVS
+Date:15,Dr.:尹順盈, Type:L, Depart:CVS
+Date:15,Dr.:陳先志, Type:CD, Depart:NS
+Date:15,Dr.:蔡嘉軒, Type:CT2, Depart:PLAST
+Date:15,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:15,Dr.:蘇君毅, Type:C, Depart:ORTHO
+Date:15,Dr.:曾文科, Type:C, Depart: PROCT
+Date:15,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:15,Dr.:, Type:陳先志, Depart:ICU 專責
+Date:15,Dr.:郭令偉, Type:I, Depart:R3
+Date:15,Dr.:張浩于, Type:W1, Depart:R1
+Date:15,Dr.:余運軒, Type:W2, Depart:PGY
+Date:16,Dr.:黃挺碩, Type:C, Depart:GS
+Date:16,Dr.:王耀章, Type:CV, Depart:CVS
+Date:16,Dr.:黃品富, Type:T2, Depart:CVS
+Date:16,Dr.:陳子平, Type:L, Depart:CVS
+Date:16,Dr.:廖黃逸, Type:C, Depart:NS
+Date:16,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:16,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:16,Dr.:游重銘, Type:CT1, Depart:ORTHO
+Date:16,Dr.:范仲維, Type:C, Depart: PROCT
+Date:16,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:16,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:16,Dr.:邱炳燁, Type:I, Depart:R3
+Date:16,Dr.:張書豪, Type:W1, Depart:R1
+Date:16,Dr.:李杰明, Type:W2, Depart:PGY
+Date:17,Dr.:黃挺碩, Type:CT2, Depart:GS
+Date:17,Dr.:簡志穎, Type:T1, Depart:GS
+Date:17,Dr.:王耀章, Type:CV, Depart:CVS
+Date:17,Dr.:陳子平, Type:L, Depart:CVS
+Date:17,Dr.:廖黃逸, Type:C, Depart:NS
+Date:17,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:17,Dr.:林政鋒, Type:CCD, Depart:URO 
+Date:17,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:17,Dr.:曾文科, Type:C, Depart: PROCT
+Date:17,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:17,Dr.:, Type:林政鋒, Depart:ICU 專責
+Date:17,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:17,Dr.:何哲方, Type:W1, Depart:PGY
+Date:17,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:18,Dr.:李春輝, Type:T1, Depart:GS
+Date:18,Dr.:陳義展, Type:CT2, Depart:GS
+Date:18,Dr.:王耀章, Type:CV, Depart:CVS
+Date:18,Dr.:陳子平, Type:L, Depart:CVS
+Date:18,Dr.:鄭運聰, Type:C, Depart:NS
+Date:18,Dr.:潘俊豪, Type:C2, Depart:PLAST
+Date:18,Dr.:蔡嘉軒, Type:羅, Depart:PLAST
+Date:18,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:18,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:18,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:18,Dr.:范仲維, Type:C, Depart: PROCT
+Date:18,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:18,Dr.:陳彥志, Type:CD, Depart:R4
+Date:18,Dr.:范揚欣, Type:I, Depart:R2
+Date:18,Dr.:余運軒, Type:W1, Depart:PGY
+Date:18,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:19,Dr.:江坤俊, Type:C, Depart:GS
+Date:19,Dr.:簡志穎, Type:T1, Depart:GS
+Date:19,Dr.:王耀章, Type:CV, Depart:CVS
+Date:19,Dr.:陳子平, Type:L, Depart:CVS
+Date:19,Dr.:尹順盈, Type:T2, Depart:CVS
+Date:19,Dr.:鄭運聰, Type:C, Depart:NS
+Date:19,Dr.:余德毅, Type:C, Depart:PLAST
+Date:19,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:19,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:19,Dr.:曾文科, Type:C, Depart: PROCT
+Date:19,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:19,Dr.:黃子晏, Type:CD, Depart:R4
+Date:19,Dr.:邱炳燁, Type:I, Depart:R3
+Date:19,Dr.:張書豪, Type:W1, Depart:R1
+Date:19,Dr.:李杰明, Type:W2, Depart:PGY
+Date:20,Dr.:陳育賢, Type:CT, Depart:GS
+Date:20,Dr.:王耀章, Type:CV, Depart:CVS
+Date:20,Dr.:陳子平, Type:L, Depart:CVS
+Date:20,Dr.:陳先志, Type:C, Depart:NS
+Date:20,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:20,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:20,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:20,Dr.:曾文科, Type:C, Depart: PROCT
+Date:20,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:20,Dr.:陳彥志, Type:CD, Depart:R4
+Date:20,Dr.:郭令偉, Type:I, Depart:R3
+Date:20,Dr.:張浩于, Type:W1, Depart:R1
+Date:20,Dr.:何哲方, Type:W2, Depart:PGY
+Date:21,Dr.:黃挺碩, Type:C, Depart:GS
+Date:21,Dr.:王耀章, Type:CV, Depart:CVS
+Date:21,Dr.:陳子平, Type:L, Depart:CVS
+Date:21,Dr.:陳先志, Type:C, Depart:NS
+Date:21,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:21,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:21,Dr.:陳建豪, Type:CT, Depart:ORTHO
+Date:21,Dr.:曾文科, Type:C, Depart: PROCT
+Date:21,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:21,Dr.:黃子晏, Type:CD, Depart:R4
+Date:21,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:21,Dr.:張書豪, Type:W1, Depart:R1
+Date:21,Dr.:余運軒, Type:W2, Depart:PGY
+Date:22,Dr.:陳義展, Type:CCD, Depart:GS
+Date:22,Dr.:簡志穎, Type:T1, Depart:GS
+Date:22,Dr.:王耀章, Type:CV, Depart:CVS
+Date:22,Dr.:陳子平, Type:L, Depart:CVS
+Date:22,Dr.:陳先志, Type:C, Depart:NS
+Date:22,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:22,Dr.:林承家, Type:C, Depart:URO 
+Date:22,Dr.:游重銘, Type:CT2, Depart:ORTHO
+Date:22,Dr.:曾文科, Type:C, Depart: PROCT
+Date:22,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:22,Dr.:, Type:陳義展, Depart:ICU 專責
+Date:22,Dr.:范揚欣, Type:I, Depart:R2
+Date:22,Dr.:李杰明, Type:W2, Depart:PGY
+Date:22,Dr.:廖育唯, Type:W1, Depart:PGY
+Date:23,Dr.:李春輝, Type:C, Depart:GS
+Date:23,Dr.:陳育賢, Type:T1, Depart:GS
+Date:23,Dr.:王耀章, Type:CV, Depart:CVS
+Date:23,Dr.:陳子平, Type:L, Depart:CVS
+Date:23,Dr.:尹順盈, Type:T2, Depart:CVS
+Date:23,Dr.:鄭運聰, Type:C, Depart:NS
+Date:23,Dr.:謝宇軒, Type:C, Depart:PLAST
+Date:23,Dr.:林承家, Type:C, Depart:URO 
+Date:23,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:23,Dr.:范仲維, Type:C, Depart: PROCT
+Date:23,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:23,Dr.:陳彥志, Type:CD, Depart:R4
+Date:23,Dr.:邱炳燁, Type:I, Depart:R3
+Date:23,Dr.:張浩于, Type:W1, Depart:R1
+Date:23,Dr.:余運軒, Type:W2, Depart:PGY
+Date:24,Dr.:黃挺碩, Type:CT2, Depart:GS
+Date:24,Dr.:王耀章, Type:CV, Depart:CVS
+Date:24,Dr.:陳子平, Type:L, Depart:CVS
+Date:24,Dr.:廖黃逸, Type:C, Depart:NS
+Date:24,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:24,Dr.:謝宇軒, Type:T1, Depart:PLAST
+Date:24,Dr.:林承家, Type:C, Depart:URO 
+Date:24,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:24,Dr.:曾文科, Type:C, Depart: PROCT
+Date:24,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:24,Dr.:黃子晏, Type:CD, Depart:R4
+Date:24,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:24,Dr.:何哲方, Type:W2, Depart:PGY
+Date:24,Dr.:陳琬瑄, Type:W1, Depart:PGY
+Date:25,Dr.:宋睿祥, Type:CT2, Depart:GS
+Date:25,Dr.:陳育賢, Type:T1, Depart:GS
+Date:25,Dr.:王耀章, Type:CV, Depart:CVS
+Date:25,Dr.:陳子平, Type:L, Depart:CVS
+Date:25,Dr.:廖黃逸, Type:C, Depart:NS
+Date:25,Dr.:陳建宗, Type:C2, Depart:NS
+Date:25,Dr.:謝宇軒, Type:羅, Depart:PLAST
+Date:25,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:25,Dr.:林承家, Type:C, Depart:URO 
+Date:25,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:25,Dr.:范仲維, Type:C, Depart: PROCT
+Date:25,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:25,Dr.:陳彥志, Type:CD, Depart:R4
+Date:25,Dr.:郭令偉, Type:I, Depart:R3
+Date:25,Dr.:張書豪, Type:W1, Depart:R1
+Date:25,Dr.:余運軒, Type: , Depart:PGY
+Date:25,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:26,Dr.:宋睿祥, Type:C, Depart:GS
+Date:26,Dr.:陳育賢, Type:T1, Depart:GS
+Date:26,Dr.:王耀章, Type:CV, Depart:CVS
+Date:26,Dr.:陳子平, Type:L, Depart:CVS
+Date:26,Dr.:鄭運聰, Type:C, Depart:NS
+Date:26,Dr.:余德毅, Type:CT2, Depart:PLAST
+Date:26,Dr.:林承家, Type:C, Depart:URO 
+Date:26,Dr.:陳建豪, Type:CCD, Depart:ORTHO
+Date:26,Dr.:曾文科, Type:C, Depart: PROCT
+Date:26,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:26,Dr.:, Type:陳建豪, Depart:ICU 專責
+Date:26,Dr.:范揚欣, Type:I, Depart:R2
+Date:26,Dr.:何哲方, Type:W1, Depart:PGY
+Date:26,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:27,Dr.:李春輝, Type:CT, Depart:GS
+Date:27,Dr.:王耀章, Type:CV, Depart:CVS
+Date:27,Dr.:陳子平, Type:L, Depart:CVS
+Date:27,Dr.:廖黃逸, Type:C, Depart:NS
+Date:27,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:27,Dr.:謝宇軒, Type:支援廈門
+, Depart:PLAST
+Date:27,Dr.:林承家, Type:C, Depart:URO 
+Date:27,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:27,Dr.:范仲維, Type:C, Depart: PROCT
+Date:27,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:27,Dr.:黃子晏, Type:CD, Depart:R4
+Date:27,Dr.:邱炳燁, Type:I, Depart:R3
+Date:27,Dr.:余運軒, Type:W1, Depart:PGY
+Date:27,Dr.:李杰明, Type:W2, Depart:PGY
+Date:28,Dr.:江坤俊, Type:C, Depart:GS
+Date:28,Dr.:王耀章, Type:C, Depart:CVS
+Date:28,Dr.:黃品富, Type:VT, Depart:CVS
+Date:28,Dr.:陳子平, Type:L, Depart:CVS
+Date:28,Dr.:廖黃逸, Type:C, Depart:NS
+Date:28,Dr.:潘俊豪, Type:C2, Depart:PLAST
+Date:28,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:28,Dr.:林承家, Type:C, Depart:URO 
+Date:28,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:28,Dr.:范仲維, Type:C, Depart: PROCT
+Date:28,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:28,Dr.:, Type:葉亘耕, Depart:ICU 專責
+Date:28,Dr.:郭令偉, Type:I, Depart:R3
+Date:28,Dr.:張浩于, Type:W1, Depart:R1
+Date:28,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:29,Dr.:簡志穎, Type:T1, Depart:GS
+Date:29,Dr.:陳育賢, Type:C, Depart:GS
+Date:29,Dr.:王耀章, Type:CV, Depart:CVS
+Date:29,Dr.:陳子平, Type:L, Depart:CVS
+Date:29,Dr.:昝文清, Type:C, Depart:NS
+Date:29,Dr.:蔡嘉軒, Type:CT2, Depart:PLAST
+Date:29,Dr.:吳俊德, Type:C, Depart:URO 
+Date:29,Dr.:蘇君毅, Type:C, Depart:ORTHO
+Date:29,Dr.:曾文科, Type:C, Depart: PROCT
+Date:29,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:29,Dr.:陳彥志, Type:CD, Depart:R4
+Date:29,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:29,Dr.:何哲方, Type:W2, Depart:PGY
+Date:29,Dr.:陳琬瑄, Type:W1, Depart:PGY
+Date:30,Dr.:簡志穎, Type:C, Depart:GS
+Date:30,Dr.:陳育賢, Type:T1, Depart:GS
+Date:30,Dr.:王耀章, Type:CV, Depart:CVS
+Date:30,Dr.:陳子平, Type:L, Depart:CVS
+Date:30,Dr.:廖黃逸, Type:C, Depart:NS
+Date:30,Dr.:余德毅, Type:C, Depart:PLAST
+Date:30,Dr.:吳俊德, Type:C, Depart:URO 
+Date:30,Dr.:游重銘, Type:CT2, Depart:ORTHO
+Date:30,Dr.:范仲維, Type:C, Depart: PROCT
+Date:30,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:30,Dr.:黃子晏, Type:CD, Depart:R4
+Date:30,Dr.:范揚欣, Type:I, Depart:R2
+Date:30,Dr.:余運軒, Type:W2, Depart:PGY
+Date:30,Dr.:李杰明, Type:W1, Depart:PGY
+Date:1,Dr.:卓世川, Type:C, Depart:GS
+Date:1,Dr.:葉集孝, Type:C, Depart:CVS
+Date:1,Dr.:黃品富, Type:V, Depart:CVS
+Date:1,Dr.:尹順盈, Type:L, Depart:CVS
+Date:1,Dr.:陳先志, Type:C, Depart:NS
+Date:1,Dr.:蔡嘉軒, Type:CT2, Depart:PLAST
+Date:1,Dr.:余德毅, Type:T1, Depart:PLAST
+Date:1,Dr.:謝宇軒, Type:支
+
+援
+
+廈
+
+門
+, Depart:PLAST
+Date:1,Dr.:吳俊德, Type:C, Depart:URO 
+Date:1,Dr.:劉獻道, Type:C, Depart:ORTHO
+Date:1,Dr.:曾文科, Type:C, Depart: PROCT
+Date:1,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:1,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:1,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:1,Dr.:李杰明, Type:W1, Depart:PGY
+Date:1,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:2,Dr.:江坤俊, Type:C, Depart:GS
+Date:2,Dr.:陳育賢, Type:T1, Depart:GS
+Date:2,Dr.:葉集孝, Type:C, Depart:CVS
+Date:2,Dr.:黃品富, Type:V, Depart:CVS
+Date:2,Dr.:尹順盈, Type:L, Depart:CVS
+Date:2,Dr.:陳先志, Type:C, Depart:NS
+Date:2,Dr.:余德毅, Type:C2, Depart:PLAST
+Date:2,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:2,Dr.:吳俊德, Type:C, Depart:URO 
+Date:2,Dr.:陳建豪, Type:CT2, Depart:ORTHO
+Date:2,Dr.:范仲維, Type:C, Depart: PROCT
+Date:2,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:2,Dr.:陳彥志, Type:CD, Depart:R4
+Date:2,Dr.:范揚欣, Type:I, Depart:R2
+Date:2,Dr.:張浩于, Type:W1, Depart:R1
+Date:2,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:3,Dr.:黃挺碩, Type:T1, Depart:GS
+Date:3,Dr.:陳育賢, Type:CT2, Depart:GS
+Date:3,Dr.:葉集孝, Type:C, Depart:CVS
+Date:3,Dr.:黃品富, Type:V, Depart:CVS
+Date:3,Dr.:尹順盈, Type:L, Depart:CVS
+Date:3,Dr.:鄭運聰, Type:C, Depart:NS
+Date:3,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:3,Dr.:吳俊德, Type:C, Depart:URO 
+Date:3,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:3,Dr.:曾文科, Type:C, Depart: PROCT
+Date:3,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:3,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:3,Dr.:邱炳燁, Type:I, Depart:R3
+Date:3,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:3,Dr.:余運軒, Type:W2, Depart:PGY
+Date:4,Dr.:李春輝, Type:CT2, Depart:GS
+Date:4,Dr.:宋睿祥, Type:T1, Depart:GS
+Date:4,Dr.:葉集孝, Type:C, Depart:CVS
+Date:4,Dr.:黃品富, Type:V, Depart:CVS
+Date:4,Dr.:尹順盈, Type:L, Depart:CVS
+Date:4,Dr.:陳先志, Type:C, Depart:NS
+Date:4,Dr.:陳建宗, Type:C2, Depart:NS
+Date:4,Dr.:蔡嘉軒, Type:羅, Depart:PLAST
+Date:4,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:4,Dr.:吳俊德, Type:C, Depart:URO 
+Date:4,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:4,Dr.:范仲維, Type:C, Depart: PROCT
+Date:4,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:4,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:4,Dr.:郭令偉, Type:I, Depart:R3
+Date:4,Dr.:張書豪, Type:W1, Depart:R1
+Date:4,Dr.:何哲方, Type:W2, Depart:PGY
+Date:5,Dr.:簡志穎, Type:T1, Depart:GS
+Date:5,Dr.:陳育賢, Type:C, Depart:GS
+Date:5,Dr.:葉集孝, Type:C, Depart:CVS
+Date:5,Dr.:黃品富, Type:V, Depart:CVS
+Date:5,Dr.:尹順盈, Type:L, Depart:CVS
+Date:5,Dr.:昝文清, Type:C, Depart:NS
+Date:5,Dr.:余德毅, Type:CT2, Depart:PLAST
+Date:5,Dr.:吳俊德, Type:C, Depart:URO 
+Date:5,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:5,Dr.:曾文科, Type:C, Depart: PROCT
+Date:5,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:5,Dr.:陳彥志, Type:CD, Depart:R4
+Date:5,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:5,Dr.:張浩于, Type:W1, Depart:R1
+Date:5,Dr.:李杰明, Type:W2, Depart:PGY
+Date:6,Dr.:江坤俊, Type:C, Depart:GS
+Date:6,Dr.:葉集孝, Type:C, Depart:CVS
+Date:6,Dr.:黃品富, Type:V, Depart:CVS
+Date:6,Dr.:尹順盈, Type:L, Depart:CVS
+Date:6,Dr.:昝文清, Type:C, Depart:NS
+Date:6,Dr.:余德毅, Type:CT, Depart:PLAST
+Date:6,Dr.:吳俊德, Type:C, Depart:URO 
+Date:6,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:6,Dr.:陳磊晏, Type:CD, Depart:ORTHO
+Date:6,Dr.:曾文科, Type:C, Depart: PROCT
+Date:6,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:6,Dr.:, Type:陳磊晏, Depart:ICU 專責
+Date:6,Dr.:范揚欣, Type:I, Depart:R2
+Date:6,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:6,Dr.:廖育唯, Type:W1, Depart:PGY
+Date:7,Dr.:宋睿祥, Type:C, Depart:GS
+Date:7,Dr.:葉集孝, Type:C, Depart:CVS
+Date:7,Dr.:王耀章, Type:V, Depart:CVS
+Date:7,Dr.:尹順盈, Type:L, Depart:CVS
+Date:7,Dr.:昝文清, Type:C, Depart:NS
+Date:7,Dr.:蔡嘉軒, Type:CT, Depart:PLAST
+Date:7,Dr.:吳俊德, Type:C, Depart:URO 
+Date:7,Dr.:劉獻道, Type:C, Depart:ORTHO
+Date:7,Dr.:曾文科, Type:C, Depart: PROCT
+Date:7,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:7,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:7,Dr.:邱炳燁, Type:I, Depart:R3
+Date:7,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:7,Dr.:何哲方, Type:W2, Depart:PGY
+Date:8,Dr.:卓世川, Type:C, Depart:GS
+Date:8,Dr.:簡志穎, Type:T1, Depart:GS
+Date:8,Dr.:葉集孝, Type:C, Depart:CVS
+Date:8,Dr.:黃品富, Type:V, Depart:CVS
+Date:8,Dr.:尹順盈, Type:L, Depart:CVS
+Date:8,Dr.:陳先志, Type:C, Depart:NS
+Date:8,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:8,Dr.:林政鋒, Type:C, Depart:URO 
+Date:8,Dr.:蘇君毅, Type:C, Depart:ORTHO
+Date:8,Dr.:陳建豪, Type:T2, Depart:ORTHO
+Date:8,Dr.:曾文科, Type:C, Depart: PROCT
+Date:8,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:8,Dr.:黃子晏, Type:CD, Depart:R4
+Date:8,Dr.:郭令偉, Type:I, Depart:R3
+Date:8,Dr.:張浩于, Type:W1, Depart:R1
+Date:8,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:9,Dr.:宋睿祥, Type:CT2, Depart:GS
+Date:9,Dr.:陳育賢, Type:T1, Depart:GS
+Date:9,Dr.:葉集孝, Type:C, Depart:CVS
+Date:9,Dr.:黃品富, Type:V, Depart:CVS
+Date:9,Dr.:尹順盈, Type:L, Depart:CVS
+Date:9,Dr.:鄭運聰, Type:C, Depart:NS
+Date:9,Dr.:蔡嘉軒, Type:C2, Depart:PLAST
+Date:9,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:9,Dr.:林政鋒, Type:C, Depart:URO 
+Date:9,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:9,Dr.:陳磊晏, Type:CD, Depart:ORTHO
+Date:9,Dr.:范仲維, Type:C, Depart: PROCT
+Date:9,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:9,Dr.:, Type:陳磊晏, Depart:ICU 專責
+Date:9,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:9,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:9,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:10,Dr.:簡志穎, Type:T1, Depart:GS
+Date:10,Dr.:陳育賢, Type:C, Depart:GS
+Date:10,Dr.:葉集孝, Type:C, Depart:CVS
+Date:10,Dr.:黃品富, Type:VT2, Depart:CVS
+Date:10,Dr.:尹順盈, Type:L, Depart:CVS
+Date:10,Dr.:鄭運聰, Type:C, Depart:NS
+Date:10,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:10,Dr.:林政鋒, Type:C, Depart:URO 
+Date:10,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:10,Dr.:曾文科, Type:C, Depart: PROCT
+Date:10,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:10,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:10,Dr.:邱炳燁, Type:I, Depart:R3
+Date:10,Dr.:張書豪, Type:W1, Depart:R1
+Date:10,Dr.:何哲方, Type:W2, Depart:PGY
+Date:11,Dr.:李春輝, Type:CT2, Depart:GS
+Date:11,Dr.:葉集孝, Type:C, Depart:CVS
+Date:11,Dr.:黃品富, Type:V, Depart:CVS
+Date:11,Dr.:尹順盈, Type:L, Depart:CVS
+Date:11,Dr.:廖黃逸, Type:C, Depart:NS
+Date:11,Dr.:陳建宗, Type:C2, Depart:NS
+Date:11,Dr.:蔡嘉軒, Type:T1, Depart:PLAST
+Date:11,Dr.:余德毅, Type:羅, Depart:PLAST
+Date:11,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:11,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:11,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:11,Dr.:范仲維, Type:C, Depart: PROCT
+Date:11,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:11,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:11,Dr.:范揚欣, Type:I, Depart:R2
+Date:11,Dr.:張浩于, Type:W1, Depart:R1
+Date:11,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:12,Dr.:簡志穎, Type:C, Depart:GS
+Date:12,Dr.:陳育賢, Type:T1, Depart:GS
+Date:12,Dr.:葉集孝, Type:C, Depart:CVS
+Date:12,Dr.:黃品富, Type:V, Depart:CVS
+Date:12,Dr.:尹順盈, Type:L, Depart:CVS
+Date:12,Dr.:廖黃逸, Type:C, Depart:NS
+Date:12,Dr.:余德毅, Type:CT2, Depart:PLAST
+Date:12,Dr.:林政鋒, Type:C, Depart:URO 
+Date:12,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:12,Dr.:曾文科, Type:C, Depart: PROCT
+Date:12,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:12,Dr.:唐浩哲, Type:CD, Depart:R5
+Date:12,Dr.:郭令偉, Type:I, Depart:R3
+Date:12,Dr.:陳鴻毅, Type:W1, Depart:R1
+Date:12,Dr.:余運軒, Type:W2, Depart:PGY
+Date:13,Dr.:簡志穎, Type:CT, Depart:GS
+Date:13,Dr.:葉集孝, Type:C, Depart:CVS
+Date:13,Dr.:黃品富, Type:V, Depart:CVS
+Date:13,Dr.:尹順盈, Type:L, Depart:CVS
+Date:13,Dr.:鄭運聰, Type:C, Depart:NS
+Date:13,Dr.:余德毅, Type:C, Depart:PLAST
+Date:13,Dr.:林政鋒, Type:C, Depart:URO 
+Date:13,Dr.:劉獻道, Type:C, Depart:ORTHO
+Date:13,Dr.:范仲維, Type:C, Depart: PROCT
+Date:13,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:13,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:13,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:13,Dr.:張書豪, Type:W, Depart:R1
+Date:14,Dr.:陳義展, Type:C, Depart:GS
+Date:14,Dr.:葉集孝, Type:C, Depart:CVS
+Date:14,Dr.:黃品富, Type:V, Depart:CVS
+Date:14,Dr.:尹順盈, Type:LT, Depart:CVS
+Date:14,Dr.:鄭運聰, Type:C, Depart:NS
+Date:14,Dr.:余德毅, Type:C, Depart:PLAST
+Date:14,Dr.:林政鋒, Type:C, Depart:URO 
+Date:14,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:14,Dr.:范仲維, Type:C, Depart: PROCT
+Date:14,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:14,Dr.:陳彥志, Type:CD, Depart:R4
+Date:14,Dr.:范揚欣, Type:I, Depart:R2
+Date:14,Dr.:李杰明, Type:W1, Depart:PGY
+Date:14,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:15,Dr.:卓世川, Type:C, Depart:GS
+Date:15,Dr.:李春輝, Type:T1, Depart:GS
+Date:15,Dr.:葉集孝, Type:C, Depart:CVS
+Date:15,Dr.:黃品富, Type:V, Depart:CVS
+Date:15,Dr.:尹順盈, Type:L, Depart:CVS
+Date:15,Dr.:陳先志, Type:CD, Depart:NS
+Date:15,Dr.:蔡嘉軒, Type:CT2, Depart:PLAST
+Date:15,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:15,Dr.:蘇君毅, Type:C, Depart:ORTHO
+Date:15,Dr.:曾文科, Type:C, Depart: PROCT
+Date:15,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:15,Dr.:, Type:陳先志, Depart:ICU 專責
+Date:15,Dr.:郭令偉, Type:I, Depart:R3
+Date:15,Dr.:張浩于, Type:W1, Depart:R1
+Date:15,Dr.:余運軒, Type:W2, Depart:PGY
+Date:16,Dr.:黃挺碩, Type:C, Depart:GS
+Date:16,Dr.:王耀章, Type:CV, Depart:CVS
+Date:16,Dr.:黃品富, Type:T2, Depart:CVS
+Date:16,Dr.:陳子平, Type:L, Depart:CVS
+Date:16,Dr.:廖黃逸, Type:C, Depart:NS
+Date:16,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:16,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:16,Dr.:游重銘, Type:CT1, Depart:ORTHO
+Date:16,Dr.:范仲維, Type:C, Depart: PROCT
+Date:16,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:16,Dr.:黃崧峰, Type:CD, Depart:R5
+Date:16,Dr.:邱炳燁, Type:I, Depart:R3
+Date:16,Dr.:張書豪, Type:W1, Depart:R1
+Date:16,Dr.:李杰明, Type:W2, Depart:PGY
+Date:17,Dr.:黃挺碩, Type:CT2, Depart:GS
+Date:17,Dr.:簡志穎, Type:T1, Depart:GS
+Date:17,Dr.:王耀章, Type:CV, Depart:CVS
+Date:17,Dr.:陳子平, Type:L, Depart:CVS
+Date:17,Dr.:廖黃逸, Type:C, Depart:NS
+Date:17,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:17,Dr.:林政鋒, Type:CCD, Depart:URO 
+Date:17,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:17,Dr.:曾文科, Type:C, Depart: PROCT
+Date:17,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:17,Dr.:, Type:林政鋒, Depart:ICU 專責
+Date:17,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:17,Dr.:何哲方, Type:W1, Depart:PGY
+Date:17,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:18,Dr.:李春輝, Type:T1, Depart:GS
+Date:18,Dr.:陳義展, Type:CT2, Depart:GS
+Date:18,Dr.:王耀章, Type:CV, Depart:CVS
+Date:18,Dr.:陳子平, Type:L, Depart:CVS
+Date:18,Dr.:鄭運聰, Type:C, Depart:NS
+Date:18,Dr.:潘俊豪, Type:C2, Depart:PLAST
+Date:18,Dr.:蔡嘉軒, Type:羅, Depart:PLAST
+Date:18,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:18,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:18,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:18,Dr.:范仲維, Type:C, Depart: PROCT
+Date:18,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:18,Dr.:陳彥志, Type:CD, Depart:R4
+Date:18,Dr.:范揚欣, Type:I, Depart:R2
+Date:18,Dr.:余運軒, Type:W1, Depart:PGY
+Date:18,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:19,Dr.:江坤俊, Type:C, Depart:GS
+Date:19,Dr.:簡志穎, Type:T1, Depart:GS
+Date:19,Dr.:王耀章, Type:CV, Depart:CVS
+Date:19,Dr.:陳子平, Type:L, Depart:CVS
+Date:19,Dr.:尹順盈, Type:T2, Depart:CVS
+Date:19,Dr.:鄭運聰, Type:C, Depart:NS
+Date:19,Dr.:余德毅, Type:C, Depart:PLAST
+Date:19,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:19,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:19,Dr.:曾文科, Type:C, Depart: PROCT
+Date:19,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:19,Dr.:黃子晏, Type:CD, Depart:R4
+Date:19,Dr.:邱炳燁, Type:I, Depart:R3
+Date:19,Dr.:張書豪, Type:W1, Depart:R1
+Date:19,Dr.:李杰明, Type:W2, Depart:PGY
+Date:20,Dr.:陳育賢, Type:CT, Depart:GS
+Date:20,Dr.:王耀章, Type:CV, Depart:CVS
+Date:20,Dr.:陳子平, Type:L, Depart:CVS
+Date:20,Dr.:陳先志, Type:C, Depart:NS
+Date:20,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:20,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:20,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:20,Dr.:曾文科, Type:C, Depart: PROCT
+Date:20,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:20,Dr.:陳彥志, Type:CD, Depart:R4
+Date:20,Dr.:郭令偉, Type:I, Depart:R3
+Date:20,Dr.:張浩于, Type:W1, Depart:R1
+Date:20,Dr.:何哲方, Type:W2, Depart:PGY
+Date:21,Dr.:黃挺碩, Type:C, Depart:GS
+Date:21,Dr.:王耀章, Type:CV, Depart:CVS
+Date:21,Dr.:陳子平, Type:L, Depart:CVS
+Date:21,Dr.:陳先志, Type:C, Depart:NS
+Date:21,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:21,Dr.:黃賢祥, Type:C, Depart:URO 
+Date:21,Dr.:陳建豪, Type:CT, Depart:ORTHO
+Date:21,Dr.:曾文科, Type:C, Depart: PROCT
+Date:21,Dr.:鄭運聰, Type:I, Depart:ICU 專責
+Date:21,Dr.:黃子晏, Type:CD, Depart:R4
+Date:21,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:21,Dr.:張書豪, Type:W1, Depart:R1
+Date:21,Dr.:余運軒, Type:W2, Depart:PGY
+Date:22,Dr.:陳義展, Type:CCD, Depart:GS
+Date:22,Dr.:簡志穎, Type:T1, Depart:GS
+Date:22,Dr.:王耀章, Type:CV, Depart:CVS
+Date:22,Dr.:陳子平, Type:L, Depart:CVS
+Date:22,Dr.:陳先志, Type:C, Depart:NS
+Date:22,Dr.:蔡嘉軒, Type:C, Depart:PLAST
+Date:22,Dr.:林承家, Type:C, Depart:URO 
+Date:22,Dr.:游重銘, Type:CT2, Depart:ORTHO
+Date:22,Dr.:曾文科, Type:C, Depart: PROCT
+Date:22,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:22,Dr.:, Type:陳義展, Depart:ICU 專責
+Date:22,Dr.:范揚欣, Type:I, Depart:R2
+Date:22,Dr.:李杰明, Type:W2, Depart:PGY
+Date:22,Dr.:廖育唯, Type:W1, Depart:PGY
+Date:23,Dr.:李春輝, Type:C, Depart:GS
+Date:23,Dr.:陳育賢, Type:T1, Depart:GS
+Date:23,Dr.:王耀章, Type:CV, Depart:CVS
+Date:23,Dr.:陳子平, Type:L, Depart:CVS
+Date:23,Dr.:尹順盈, Type:T2, Depart:CVS
+Date:23,Dr.:鄭運聰, Type:C, Depart:NS
+Date:23,Dr.:謝宇軒, Type:C, Depart:PLAST
+Date:23,Dr.:林承家, Type:C, Depart:URO 
+Date:23,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:23,Dr.:范仲維, Type:C, Depart: PROCT
+Date:23,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:23,Dr.:陳彥志, Type:CD, Depart:R4
+Date:23,Dr.:邱炳燁, Type:I, Depart:R3
+Date:23,Dr.:張浩于, Type:W1, Depart:R1
+Date:23,Dr.:余運軒, Type:W2, Depart:PGY
+Date:24,Dr.:黃挺碩, Type:CT2, Depart:GS
+Date:24,Dr.:王耀章, Type:CV, Depart:CVS
+Date:24,Dr.:陳子平, Type:L, Depart:CVS
+Date:24,Dr.:廖黃逸, Type:C, Depart:NS
+Date:24,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:24,Dr.:謝宇軒, Type:T1, Depart:PLAST
+Date:24,Dr.:林承家, Type:C, Depart:URO 
+Date:24,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:24,Dr.:曾文科, Type:C, Depart: PROCT
+Date:24,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:24,Dr.:黃子晏, Type:CD, Depart:R4
+Date:24,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:24,Dr.:何哲方, Type:W2, Depart:PGY
+Date:24,Dr.:陳琬瑄, Type:W1, Depart:PGY
+Date:25,Dr.:宋睿祥, Type:CT2, Depart:GS
+Date:25,Dr.:陳育賢, Type:T1, Depart:GS
+Date:25,Dr.:王耀章, Type:CV, Depart:CVS
+Date:25,Dr.:陳子平, Type:L, Depart:CVS
+Date:25,Dr.:廖黃逸, Type:C, Depart:NS
+Date:25,Dr.:陳建宗, Type:C2, Depart:NS
+Date:25,Dr.:謝宇軒, Type:羅, Depart:PLAST
+Date:25,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:25,Dr.:林承家, Type:C, Depart:URO 
+Date:25,Dr.:王宜君, Type:C, Depart:ORTHO
+Date:25,Dr.:范仲維, Type:C, Depart: PROCT
+Date:25,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:25,Dr.:陳彥志, Type:CD, Depart:R4
+Date:25,Dr.:郭令偉, Type:I, Depart:R3
+Date:25,Dr.:張書豪, Type:W1, Depart:R1
+Date:25,Dr.:余運軒, Type: , Depart:PGY
+Date:25,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:26,Dr.:宋睿祥, Type:C, Depart:GS
+Date:26,Dr.:陳育賢, Type:T1, Depart:GS
+Date:26,Dr.:王耀章, Type:CV, Depart:CVS
+Date:26,Dr.:陳子平, Type:L, Depart:CVS
+Date:26,Dr.:鄭運聰, Type:C, Depart:NS
+Date:26,Dr.:余德毅, Type:CT2, Depart:PLAST
+Date:26,Dr.:林承家, Type:C, Depart:URO 
+Date:26,Dr.:陳建豪, Type:CCD, Depart:ORTHO
+Date:26,Dr.:曾文科, Type:C, Depart: PROCT
+Date:26,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:26,Dr.:, Type:陳建豪, Depart:ICU 專責
+Date:26,Dr.:范揚欣, Type:I, Depart:R2
+Date:26,Dr.:何哲方, Type:W1, Depart:PGY
+Date:26,Dr.:陳琬瑄, Type:W2, Depart:PGY
+Date:27,Dr.:李春輝, Type:CT, Depart:GS
+Date:27,Dr.:王耀章, Type:CV, Depart:CVS
+Date:27,Dr.:陳子平, Type:L, Depart:CVS
+Date:27,Dr.:廖黃逸, Type:C, Depart:NS
+Date:27,Dr.:潘俊豪, Type:C, Depart:PLAST
+Date:27,Dr.:謝宇軒, Type:支援廈門
+, Depart:PLAST
+Date:27,Dr.:林承家, Type:C, Depart:URO 
+Date:27,Dr.:游重銘, Type:C, Depart:ORTHO
+Date:27,Dr.:范仲維, Type:C, Depart: PROCT
+Date:27,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:27,Dr.:黃子晏, Type:CD, Depart:R4
+Date:27,Dr.:邱炳燁, Type:I, Depart:R3
+Date:27,Dr.:余運軒, Type:W1, Depart:PGY
+Date:27,Dr.:李杰明, Type:W2, Depart:PGY
+Date:28,Dr.:江坤俊, Type:C, Depart:GS
+Date:28,Dr.:王耀章, Type:C, Depart:CVS
+Date:28,Dr.:黃品富, Type:VT, Depart:CVS
+Date:28,Dr.:陳子平, Type:L, Depart:CVS
+Date:28,Dr.:廖黃逸, Type:C, Depart:NS
+Date:28,Dr.:潘俊豪, Type:C2, Depart:PLAST
+Date:28,Dr.:葉亘耕, Type:C1, Depart:PLAST
+Date:28,Dr.:林承家, Type:C, Depart:URO 
+Date:28,Dr.:陳建豪, Type:C, Depart:ORTHO
+Date:28,Dr.:范仲維, Type:C, Depart: PROCT
+Date:28,Dr.:翁偉捷, Type:I, Depart:ICU 專責
+Date:28,Dr.:, Type:葉亘耕, Depart:ICU 專責
+Date:28,Dr.:郭令偉, Type:I, Depart:R3
+Date:28,Dr.:張浩于, Type:W1, Depart:R1
+Date:28,Dr.:廖育唯, Type:W2, Depart:PGY
+Date:29,Dr.:簡志穎, Type:T1, Depart:GS
+Date:29,Dr.:陳育賢, Type:C, Depart:GS
+Date:29,Dr.:王耀章, Type:CV, Depart:CVS
+Date:29,Dr.:陳子平, Type:L, Depart:CVS
+Date:29,Dr.:昝文清, Type:C, Depart:NS
+Date:29,Dr.:蔡嘉軒, Type:CT2, Depart:PLAST
+Date:29,Dr.:吳俊德, Type:C, Depart:URO 
+Date:29,Dr.:蘇君毅, Type:C, Depart:ORTHO
+Date:29,Dr.:曾文科, Type:C, Depart: PROCT
+Date:29,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:29,Dr.:陳彥志, Type:CD, Depart:R4
+Date:29,Dr.:徐邦瀚, Type:I, Depart:R2
+Date:29,Dr.:何哲方, Type:W2, Depart:PGY
+Date:29,Dr.:陳琬瑄, Type:W1, Depart:PGY
+Date:30,Dr.:簡志穎, Type:C, Depart:GS
+Date:30,Dr.:陳育賢, Type:T1, Depart:GS
+Date:30,Dr.:王耀章, Type:CV, Depart:CVS
+Date:30,Dr.:陳子平, Type:L, Depart:CVS
+Date:30,Dr.:廖黃逸, Type:C, Depart:NS
+Date:30,Dr.:余德毅, Type:C, Depart:PLAST
+Date:30,Dr.:吳俊德, Type:C, Depart:URO 
+Date:30,Dr.:游重銘, Type:CT2, Depart:ORTHO
+Date:30,Dr.:范仲維, Type:C, Depart: PROCT
+Date:30,Dr.:陳義展, Type:I, Depart:ICU 專責
+Date:30,Dr.:黃子晏, Type:CD, Depart:R4
+Date:30,Dr.:范揚欣, Type:I, Depart:R2
+Date:30,Dr.:余運軒, Type:W2, Depart:PGY
+Date:30,Dr.:李杰明, Type:W1, Depart:PGY

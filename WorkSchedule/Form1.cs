@@ -50,7 +50,14 @@ namespace WorkSchedule
             LoadExcelFile();
             DetectBoundary();
             FindDrOfType();
-            ParseWorkingType();
+            ShowDrWorkInfo();
+            for (int i = 0; i < 32; i++)
+            {
+                Console.WriteLine("date:{0} dr:{1} ", i, GetDrNameByDepartment(i.ToString(), "Ortho"));
+//                 string html = File.ReadAllText("WorkSheet.htm");
+//                 html = html.Replace("#GS#", GetDrNameByDepartment("5", "GS"));
+//                 File.WriteAllText("WorkSheet.htm", html);
+            }
         }
 
         HSSFWorkbook m_hssfwb;
@@ -120,10 +127,10 @@ namespace WorkSchedule
             return name;
         }
 
-        private List<DoctorWork> m_drworkintfo = new List<DoctorWork>();
+        private List<DoctorWork> m_drWorkInfo = new List<DoctorWork>();
         private void FindDrOfType()
         {
-            for (int index_day = 14; index_day < 45; index_day++)
+            for (int index_day = 12; index_day < 45; index_day++)
             {
                 string date = m_sheet.GetRow(index_day).GetCell(0).NumericCellValue.ToString();
                 Console.WriteLine("Date:{0}", date);
@@ -148,7 +155,7 @@ namespace WorkSchedule
                                     dw.DrName = name;
                                     dw.WorkType = type;
                                     dw.Department = depart;
-                                    m_drworkintfo.Add(dw);
+                                    m_drWorkInfo.Add(dw);
                                     //Console.WriteLine("Dr.:" + name + " type:" + type + " Depart:" + depart);
                                 }
                             }
@@ -159,10 +166,10 @@ namespace WorkSchedule
             }
         }
 
-        private void ParseWorkingType()
+        private void ShowDrWorkInfo()
         {
             
-            foreach(DoctorWork dw in m_drworkintfo)
+            foreach(DoctorWork dw in m_drWorkInfo)
             {
                 Console.WriteLine("Date:{0},Dr.:{1}, Type:{2}, Depart:{3}",
                     dw.date,
@@ -170,7 +177,29 @@ namespace WorkSchedule
                     dw.WorkType,
                     dw.Department
                     );
+                using (System.IO.StreamWriter file = new System.IO.StreamWriter(@"DrInformation.txt", true))
+                {
+                    file.WriteLine("Date:{0},Dr.:{1}, Type:{2}, Depart:{3}",
+                    dw.date,
+                    dw.DrName,
+                    dw.WorkType,
+                    dw.Department);
+                }
             }
+        }
+        public string GetDrNameByDepartment(string date, string department)
+        {
+            foreach (DoctorWork dw in m_drWorkInfo)
+            {
+                if (dw.date == date && dw.Department.ToUpper() == department.ToUpper())
+                {
+                    if (dw.WorkType.Contains("C"))
+                    {
+                        return dw.DrName;
+                    }
+                }
+            }
+            return null;
         }
     }
 }
